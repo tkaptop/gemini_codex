@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "title": "Gempix2 Image Upscaler Online - Herramienta de Mejora de Fotos con IA",
+    "description": "Utiliza tecnología IA avanzada para mejorar y ampliar tus fotos con calidad profesional. Transforma imágenes de baja resolución en obras maestras de alta definición."
+  },
+  "hero": {
+    "title": "Gempix2 Image Upscaler",
+    "description": "La tecnología profesional de ampliación de imágenes impulsada por IA mejora la calidad de imagen de salida de Gempix2, creando efectos visuales impresionantes."
+  },
+  "features": {
+    "title": "Experimenta la mejora profesional de imágenes con tecnología IA avanzada",
+    "description": "Tecnología IA avanzada para mejorar la calidad y resolución de imágenes con resultados de nivel profesional.",
+    "items": [
+      {
+        "title": "Mejora superior de calidad de imagen",
+        "description": "Gempix2 Image Upscaler ofrece capacidades excepcionales de mejora de imágenes, transformando fotos de baja resolución en imágenes nítidas y de alta definición. Nuestra tecnología IA preserva detalles intrincados mientras mejora dramáticamente la calidad general de la imagen y la claridad."
+      },
+      {
+        "title": "Tecnología de ampliación inteligente",
+        "description": "Experimenta la ampliación de imágenes sin problemas con algoritmos de vanguardia. Escala tus imágenes hasta 4x su resolución original mientras mantienes texturas naturales, bordes nítidos y preservación de detalles fotorrealistas."
+      },
+      {
+        "title": "Procesamiento de nivel profesional",
+        "description": "Nuestra plataforma proporciona capacidades de procesamiento de imágenes de nivel profesional adecuadas para fotógrafos, diseñadores y profesionales creativos. Logra resultados de calidad de estudio con características avanzadas de reducción de ruido y mejora de detalles."
+      },
+      {
+        "title": "Mejora rápida y eficiente",
+        "description": "Obtén resultados impresionantes en segundos con nuestro motor de procesamiento optimizado. El modelo IA eficiente proporciona mejora de imágenes de alta calidad sin comprometer la velocidad, haciéndolo perfecto para procesamiento por lotes y flujos de trabajo profesionales."
+      }
+    ]
+  },
+  "how_to_use": {
+    "title": "Cómo usar la herramienta de mejora de imágenes con IA",
+    "description": "Mejora tus imágenes en solo tres pasos simples con nuestra interfaz intuitiva.",
+    "items": [
+      {
+        "title": "Sube tu imagen",
+        "description": "Selecciona y sube la imagen que quieres mejorar usando Gempix2 Image Upscaler. El soporte para varios formatos incluyendo JPEG, PNG y WebP asegura compatibilidad con todas tus fotos y gráficos."
+      },
+      {
+        "title": "Elige configuraciones de mejora",
+        "description": "Configura tus opciones de ampliación preferidas con controles intuitivos. Selecciona la resolución de salida deseada, fuerza de mejora y preferencias de procesamiento para resultados óptimos."
+      },
+      {
+        "title": "Descarga imagen mejorada",
+        "description": "Descarga tu imagen profesionalmente mejorada una vez que se complete el procesamiento. Disfruta de resultados cristalinos y de alta resolución listos para impresión, uso web o proyectos profesionales."
+      }
+    ]
+  },
+  "workspace": {
+    "title": "Espacio de trabajo Gempix2 Image Upscaler",
+    "description": "Espacio de trabajo profesional de mejora de imágenes impulsado por tecnología IA avanzada.",
+    "upload_zone": {
+      "title": "Subir imagen",
+      "description": "Arrastra y suelta o haz clic para subir tu imagen a Gempix2 Image Upscaler",
+      "supported_formats": "Formatos compatibles: JPEG, PNG, WebP",
+      "max_size": "Tamaño máximo de archivo: 10MB",
+      "error_file_too_large": "El archivo es demasiado grande. El tamaño máximo es 10MB.",
+      "error_invalid_type": "Tipo de archivo inválido. Por favor sube una imagen.",
+      "preview_alt": "Vista previa subida",
+      "delete_tooltip": "Eliminar imagen",
+      "replace_tooltip": "Reemplazar imagen",
+      "drop_text": "Suelta para subir",
+      "click_or_drag": "Haz clic o arrastra para subir",
+      "processing": "Procesando...",
+      "url_mode_indicator": "Imagen cargada desde URL",
+      "file_mode_indicator": "Imagen subida desde archivo",
+      "validating_url": "Validando URL de imagen...",
+      "url_validation_failed": "No se puede validar la URL de imagen",
+      "url_too_large": "La imagen en la URL es demasiado grande (máx 10MB)",
+      "url_invalid_format": "La URL no apunta a un archivo de imagen válido",
+      "cors_warning": "No se puede validar debido a restricciones CORS"
+    },
+    "controls": {
+      "title": "CONTROLES",
+      "scale_factor": "Factor",
+      "enhance_details": "Mejora de detalles",
+      "noise_reduction": "Reducción de ruido",
+      "processing_mode": "Modo de procesamiento",
+      "credits_cost": "Costo en créditos",
+      "credits_unit": "créditos",
+      "execute_button": "EJECUTAR",
+      "restart_button": "Reiniciar",
+      "scale_1x": "Original",
+      "scale_2x": "Estándar",
+      "scale_3x": "Grande",
+      "scale_4x": "Máximo",
+      "scale_tooltip": "Elige cuánto ampliar tu imagen",
+      "face_enhance": "Mejora facial",
+      "face_enhance_tooltip": "Usa GFPGAN para mejorar detalles faciales",
+      "face_enhance_description": "Mejora detalles faciales y textura de piel cuando está activado"
+    },
+    "status": {
+      "uploading": "Subiendo imagen para procesamiento...",
+      "processing": "Procesando...",
+      "completed": "Mejora de imagen completada exitosamente",
+      "error": "Mejora fallida, por favor intenta de nuevo",
+      "validating": "Validando imagen...",
+      "url_ready": "URL de imagen validada exitosamente",
+      "url_processing": "Procesando imagen desde URL..."
+    },
+    "results": {
+      "title": "VISTA PREVIA",
+      "original": "Original",
+      "enhanced": "Mejorada",
+      "upscaled": "Ampliada",
+      "download": "Descargar",
+      "downloading": "Descargando...",
+      "compare": "Comparar imágenes",
+      "no_image_title": "No hay imagen subida",
+      "no_image_description": "Sube una imagen para ver el resultado ampliado aquí",
+      "demo_title": "Demo de Efectos",
+      "demo_before": "Antes",
+      "demo_after": "Después",
+      "processing_preview_alt": "Vista previa de procesamiento",
+      "uploading_description": "Preparando tu imagen para procesamiento",
+      "processing_description": "IA está ampliando y mejorando tu imagen",
+      "failed_title": "Procesamiento fallido",
+      "failed_description": "Algo salió mal mientras se ampliaba tu imagen",
+      "completed_badge": "Ampliación completada",
+      "click_to_enlarge": "Haz clic para ampliar y comparar",
+      "standard_resolution": "Resolución estándar",
+      "ai_upscaled": "Ampliada y mejorada por IA",
+      "original_image_alt": "Imagen original"
+    },
+    "messages": {
+      "upload_required": "Por favor sube una imagen primero",
+      "insufficient_credits": "Créditos insuficientes. Se necesitan ${credits} créditos para ampliación.",
+      "uploading": "Subiendo imagen...",
+      "processing_start": "Iniciando proceso de ampliación...",
+      "success": "¡Imagen ampliada exitosamente!",
+      "failed": "Ampliación fallida",
+      "error": "Falló la ampliación de imagen",
+      "download_preparing": "Preparando descarga...",
+      "download_success": "¡Imagen descargada exitosamente!",
+      "download_failed": "Falló la descarga de imagen",
+      "image_loaded": "Imagen cargada exitosamente",
+      "image_load_failed": "Falló la carga de imagen desde URL",
+      "url_validation_timeout": "Validación de URL expiró. Por favor intenta de nuevo.",
+      "url_cors_error": "No se puede acceder a la imagen debido a política CORS. Intenta subir el archivo directamente.",
+      "url_network_error": "Error de red mientras se validaba la URL de imagen",
+      "url_size_unknown": "No se puede determinar el tamaño de imagen desde URL",
+      "url_format_unknown": "No se puede determinar el formato de imagen desde URL",
+      "url_bypassed_validation": "Validación de URL omitida debido a restricciones",
+      "image_from_history": "Imagen cargada desde historial de creación",
+      "ready_to_enhance": "Listo para mejorar tu imagen",
+      "url_mode_active": "Modo URL - Procesamiento directo sin re-subida"
+    }
+  },
+  "compare_modal": {
+    "title": "Comparación de Imagen AI",
+    "drag_hint": "↔️ Arrastra el divisor para comparar imágenes"
+  },
+  "upgrade_modal": {
+    "title": "Actualiza a Pro+ para desbloquear alta magnificación",
+    "description": "La magnificación ${scale}x es una función exclusiva de Pro+. Actualiza ahora para disfrutar de capacidades más potentes de escalado de imágenes",
+    "vip_exclusive": "Función exclusiva VIP",
+    "features_title": "Beneficios Pro+",
+    "feature_high_scale": "Soporte para escalado de imágenes de alta definición 3x, 4x",
+    "feature_more_credits": "Más créditos, uso ilimitado",
+    "feature_priority": "Procesamiento prioritario, velocidad de generación más rápida",
+    "upgrade_button": "Actualizar a membresía ahora",
+    "cancel_button": "Tal vez más tarde"
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "description": "Obtén respuestas a preguntas comunes sobre Gempix2 Image Upscaler.",
+    "contact": {
+      "question_text": "¿Tienes más preguntas?",
+      "support_link": "Contacta nuestro equipo de soporte"
+    },
+    "items": [
+      {
+        "question": "¿Qué es Gempix2 Image Upscaler?",
+        "answer": "Gempix2 Image Upscaler es una herramienta avanzada de mejora de imágenes impulsada por IA que usa algoritmos de aprendizaje automático de vanguardia para ampliar y mejorar la calidad de imagen. Puede aumentar la resolución de imagen hasta 4x mientras preserva y mejora detalles finos, haciéndola perfecta para fotógrafos, diseñadores y creadores de contenido."
+      },
+      {
+        "question": "¿Cómo funciona Gempix2 Image Upscaler?",
+        "answer": "Gempix2 Image Upscaler emplea modelos sofisticados de aprendizaje profundo entrenados en millones de imágenes de alta calidad. La IA analiza el contenido de tu imagen, identifica patrones y texturas, luego reconstruye inteligentemente píxeles faltantes para crear una versión de mayor resolución con claridad y detalle mejorados."
+      },
+      {
+        "question": "¿Qué formatos de imagen soporta Gempix2 Image Upscaler?",
+        "answer": "Gempix2 Image Upscaler soporta formatos de imagen populares incluyendo JPEG, PNG, WebP y TIFF. Puedes subir imágenes de hasta 10MB de tamaño, haciéndola adecuada tanto para gráficos web como para proyectos de fotografía de alta resolución."
+      },
+      {
+        "question": "¿Cuánto cuesta usar Gempix2 Image Upscaler?",
+        "answer": "Cada mejora de imagen con Gempix2 Image Upscaler cuesta 2 créditos. Esto te proporciona capacidades de ampliación y mejora de nivel profesional adecuadas para proyectos de uso comercial y personal."
+      },
+      {
+        "question": "¿Puedo usar imágenes mejoradas por Gempix2 Image Upscaler para propósitos comerciales?",
+        "answer": "Sí, todas las imágenes procesadas a través de Gempix2 Image Upscaler son adecuadas para uso comercial. Las imágenes mejoradas mantienen estándares de calidad profesional y pueden usarse para proyectos de negocios, materiales de marketing y aplicaciones comerciales."
+      },
+      {
+        "question": "¿Cuánto tiempo toma a Gempix2 Image Upscaler procesar una imagen?",
+        "answer": "Gempix2 Image Upscaler típicamente procesa imágenes dentro de 30-60 segundos, dependiendo del tamaño de imagen original y opciones de mejora seleccionadas. Nuestra infraestructura IA optimizada asegura procesamiento rápido mientras mantiene resultados de alta calidad."
+      },
+      {
+        "question": "¿Cuál es el factor máximo de ampliación disponible en Gempix2 Image Upscaler?",
+        "answer": "Gempix2 Image Upscaler puede ampliar imágenes hasta 4x su resolución original. Por ejemplo, una imagen de 512x512 píxeles puede mejorarse a 2048x2048 píxeles mientras mantiene apariencia natural y calidad de detalle nítida."
+      },
+      {
+        "question": "¿Funciona bien Gempix2 Image Upscaler con diferentes tipos de imágenes?",
+        "answer": "Sí, Gempix2 Image Upscaler está diseñado para trabajar efectivamente con varios tipos de imágenes incluyendo retratos, paisajes, arte, gráficos y fotografías. El modelo IA ha sido entrenado en diversas categorías de imágenes para asegurar mejora óptima a través de diferentes tipos de contenido."
+      }
+    ]
+  }
+}

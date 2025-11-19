@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "title": "Gempix2 Precios - Gempix2 Editor de Imágenes con IA",
+    "description": "Elige el plan perfecto para tus necesidades de generación de imágenes con IA."
+  },
+  "pricing": {
+    "name": "pricing",
+    "label": "Precios",
+    "title": "Precios simples y transparentes de Gempix2",
+    "description": "Elige el plan perfecto para tus necesidades de creación de imágenes con IA.",
+    "save_yearly": "Ahorra  50%",
+    "cancel_anytime": "Cancela en cualquier momento",
+    "cancel_subscription_text": "Para cancelar la suscripción, contacta con el correo de soporte:",
+    "trial_pack_limit_error": "El paquete de créditos de prueba solo se puede comprar una vez",
+    "mo": "mes",
+    "year": "Año",
+    "groups": [
+      { "name": "monthly", "title": "Mensual" },
+      { "name": "yearly", "title": "Anual" },
+      { "name": "credits-packs", "title": "Paquetes de Créditos" }
+    ],
+    "items": [
+      {
+        "title": "Principiante",
+        "description": "Perfecto para probar la generación de imágenes con IA y proyectos pequeños.",
+        "features_title": "Qué incluye",
+        "features": [
+          "200 créditos de generación con IA por mes",
+          "Modelos de alta calidad Gempix2",
+          "Generación de texto a imagen",
+          "Funciones de edición de imagen",
+          "Servicio de mejora de imagen 3x,4x",
+          "Velocidad de generación estándar",
+          "Tasa de éxito estándar",
+          "Soporte al cliente estándar"
+        ],
+        "group": "monthly",
+        "interval": "month",
+        "amount": 999,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$9.99",
+        "original_price": "$19.99",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "Perfecto para experimentar con la generación y edición de imágenes con IA.",
+        "button": {
+          "title": "Suscribirse Principiante",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_Ssq8Ltsmjqeiw9",
+        "product_name": "Gempix2 Principiante",
+        "credits": 200,
+        "valid_months": 1
+      },
+      {
+        "title": "Pro",
+        "description": "Ideal para creadores, diseñadores y profesionales de contenido.",
+        "label": "Más Popular",
+        "features_title": "Todo lo de Principiante",
+        "features": [
+          "700 créditos de generación con IA por mes",
+          "Velocidad de procesamiento prioritaria",
+          "Alta tasa de éxito",
+          "Funciones avanzadas de edición",
+          "Generación de múltiples referencias",
+          "Canal de descarga de alta velocidad",
+          "Soporte al cliente prioritario",
+          "Licencia comercial"
+        ],
+        "group": "monthly",
+        "interval": "month",
+        "amount": 2399,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$23.99",
+        "original_price": "$89.99",
+        "unit": "USD",
+        "is_featured": true,
+        "tip": "🔥 ¡Oferta por Tiempo Limitado! Obtén Pro Ahora",
+        "button": {
+          "title": "Suscribirse Pro",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_SsqBq5Jdkmjp4l",
+        "product_name": "Gempix2 Pro",
+        "credits": 700,
+        "valid_months": 1
+      },
+      {
+        "title": "Premium",
+        "description": "Para equipos, agencias y uso comercial de alto volumen.",
+        "features_title": "Todo lo de Pro",
+        "features": [
+          "2000 créditos de generación con IA por mes",
+          "Velocidad de generación más rápida",
+          "Capacidades de edición con IA más avanzadas",
+          "Almacenamiento permanente de imágenes",
+          "Gerente de cuenta dedicado"
+        ],
+        "group": "monthly",
+        "interval": "month",
+        "amount": 8999,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$89.99",
+        "original_price": "$179.99",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "Perfecto para equipos y empresas",
+        "button": {
+          "title": "Suscribirse Premium",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_SsqCkSQWvK8NzC",
+        "product_name": "Gempix2 Premium",
+        "credits": 2000,
+        "valid_months": 1
+      },
+      {
+        "title": "Principiante",
+        "description": "Perfecto para probar la generación de imágenes con IA y proyectos pequeños.",
+        "features_title": "Qué incluye",
+        "features": [
+          "2400 créditos de generación con IA por año",
+          "Modelos de alta calidad Gempix2",
+          "Generación de texto a imagen",
+          "Funciones de edición de imagen",
+          "Servicio de mejora de imagen 3x,4x",
+          "Velocidad de generación estándar",
+          "Tasa de éxito estándar",
+          "Soporte al cliente estándar",
+          "Licencia comercial"
+        ],
+        "group": "yearly",
+        "interval": "year",
+        "amount": 9588,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$7.99",
+        "discount_price": "$4.99",
+        "discount_amount": 5988,
+        "original_price": "$19.99",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "Perfecto para experimentar con la generación y edición de imágenes con IA.",
+        "button": {
+          "title": "Suscribirse Principiante",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_Ssq8Ltsmjqeiw9-2",
+        "product_name": "Gempix2 Principiante Anual",
+        "credits": 2400,
+        "valid_months": 12
+      },
+      {
+        "title": "Pro",
+        "description": "Ideal para creadores, diseñadores y profesionales de contenido.",
+        "label": "Más Popular",
+        "features_title": "Todo lo de Principiante",
+        "features": [
+          "8400 créditos de generación con IA por año",
+          "Velocidad de procesamiento prioritaria",
+          "Alta tasa de éxito",
+          "Funciones avanzadas de edición",
+          "Generación de múltiples referencias",
+          "Canal de descarga de alta velocidad",
+          "Soporte al cliente prioritario"
+        ],
+        "group": "yearly",
+        "interval": "year",
+        "amount": 20388,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$16.99",
+        "discount_price": "$11.99",
+        "discount_amount": 14388,
+        "original_price": "$89.99",
+        "unit": "USD",
+        "is_featured": true,
+        "tip": "🔥 ¡Oferta por Tiempo Limitado! Obtén Pro Ahora",
+        "button": {
+          "title": "Suscribirse Pro",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_SsqBq5Jdkmjp4l1-2",
+        "product_name": "Gempix2 Pro Anual",
+        "credits": 8400,
+        "valid_months": 12
+      },
+      {
+        "title": "Premium",
+        "description": "Para equipos, agencias y uso comercial de alto volumen.",
+        "features_title": "Todo lo de Pro",
+        "features": [
+          "30000 créditos de generación con IA por año",
+          "Velocidad de generación más rápida",
+          "Capacidades de edición con IA más avanzadas",
+          "Almacenamiento permanente de imágenes",
+          "Gerente de cuenta dedicado"
+        ],
+        "group": "yearly",
+        "interval": "year",
+        "amount": 83988,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$69.99",
+        "discount_price": "$44.99",
+        "discount_amount": 53988,
+        "original_price": "$179.99",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "Perfecto para equipos y empresas",
+        "button": {
+          "title": "Suscribirse Premium",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_SsqCkSQWvK8NzC-2",
+        "product_name": "Gempix2 Premium Anual",
+        "credits": 30000,
+        "valid_months": 12
+      },
+
+      {
+        "title": "Paquete de Créditos Inicial",
+        "description": "Compra única, créditos nunca expiran",
+        "features_title": "Qué incluye",
+        "features": [
+          "500 créditos de generación con IA",
+          "Nunca expiran",
+          "Desbloquear todas las funciones"
+        ],
+        "group": "credits-packs",
+        "interval": "one-time",
+        "amount": 2999,
+        "cn_amount": 19999,
+        "currency": "USD",
+        "price": "$29.99",
+        "original_price": "$40",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "🔥 ¡Oferta por Tiempo Limitado!",
+        "button": {
+          "title": "Comprar Ahora",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "credits-packs-1",
+        "product_name": "Gempix2 Paquete de Créditos Inicial",
+        "credits": 500,
+        "valid_months": 12
+      },
+      {
+        "title": "Paquete de Créditos Profesional",
+        "description": "Compra única, créditos nunca expiran",
+        "features_title": "Qué incluye",
+        "features": [
+          "2000 créditos de generación con IA",
+          "Nunca expiran",
+          "Desbloquear todas las funciones"
+        ],
+        "group": "credits-packs",
+        "interval": "one-time",
+        "amount": 9999,
+        "cn_amount": 69900,
+        "currency": "USD",
+        "price": "$99.99",
+        "original_price": "$120",
+        "unit": "USD",
+        "is_featured": true,
+        "tip": "🔥 ¡Oferta por Tiempo Limitado!",
+        "button": {
+          "title": "Comprar Ahora",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "credits-packs-2",
+        "product_name": "Gempix2 Paquete de Créditos Profesional",
+        "credits": 2000,
+        "valid_months": 12
+      },
+      {
+        "title": "Paquete de Créditos Premium",
+        "description": "Compra única, créditos nunca expiran, perfecto para diseñadores profesionales",
+        "features_title": "Qué incluye",
+        "features": [
+          "7000 créditos de generación con IA",
+          "Nunca expiran",
+          "Desbloquear todas las funciones",
+          "Soporte al cliente prioritario",
+          "Calidad de generación profesional"
+        ],
+        "group": "credits-packs",
+        "interval": "one-time",
+        "amount": 23000,
+        "cn_amount": 175000,
+        "currency": "USD",
+        "price": "$230",
+        "original_price": "$400",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "🔥 ¡Oferta por Tiempo Limitado!",
+        "button": {
+          "title": "Comprar Ahora",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "credits-packs-3",
+        "product_name": "Gempix2 Paquete de Créditos Premium",
+        "credits": 7000,
+        "valid_months": 12
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "Preguntas Frecuentes",
+    "title": "Preguntas Frecuentes sobre Pagos de Gempix2",
+    "description": "¿Tienes otras preguntas sobre los pagos de Gempix2? Contacta con nuestro equipo de soporte para obtener ayuda.",
+    "items": [
+      {
+        "title": "¿Qué métodos de pago se admiten?",
+        "description": "Aceptamos tarjetas de crédito como Visa, MasterCard, American Express, así como varios otros métodos de pago como Alipay y WeChat Pay. Todos los pagos se procesan a través de plataformas de pago seguras de terceros para garantizar la seguridad de tu información. Si deseas pagar con criptomonedas, contacta con nuestro email de soporte."
+      },
+      {
+        "title": "¿Qué son las suscripciones anuales, mensuales y paquetes de créditos?",
+        "description": "Las suscripciones anuales, mensuales y paquetes de créditos son los planes de pago de Gempix2. La suscripción anual es un pago único por todo el año con renovación automática anual, proporcionando todos los créditos del año de una vez que son válidos por un año, con un ahorro del 50% al elegir la suscripción anual. La suscripción mensual se cobra y recarga automáticamente cada mes, con créditos válidos por un mes. Los paquetes de créditos son compras únicas que nunca expiran y no se renuevan automáticamente. Por favor, verifica el monto de pago real al pagar y elige el plan apropiado."
+      },
+      {
+        "title": "¿Qué son los créditos y cómo usarlos?",
+        "description": "4 créditos pueden generar 1 imagen de alta calidad. Los créditos se recargan automáticamente al inicio de cada ciclo de facturación. Los planes de suscripción mensual se facturan y recargan automáticamente cada mes, y los créditos son válidos por 1 mes. Los planes de suscripción anual pagan la tarifa anual de una vez y proporcionan créditos para todo el año de una vez, y los créditos son válidos por 1 año. También puedes comprar paquetes de créditos únicos, estos créditos nunca expiran."
+      },
+      {
+        "title": "¿Cómo administrar o cancelar mi suscripción?",
+        "description": "Puedes contactar con nuestro equipo de soporte support@gempix2.site para cancelar tu suscripción. Normalmente respondemos dentro de un día hábil. Gracias por tu comprensión y apoyo."
+      },
+      {
+        "title": "¿Cómo usar WeChat o Alipay para pagar?",
+        "description": "En la barra de navegación superior del sitio web, cambia el idioma a chino, y podrás ver los canales de pago de WeChat y Alipay en la página de precios."
+      },
+      {
+        "title": "¿Se acumulan los créditos no utilizados?",
+        "description": "Excepto el paquete de créditos de prueba, todos los demás paquetes de créditos comprados de una vez son válidos permanentemente. Los créditos de suscripción se actualizan mensualmente. Para planes de suscripción mensual, los créditos no utilizados del mes anterior se restablecen cuando se renueva la suscripción. Para planes de suscripción anual, los créditos no utilizados del año anterior se restablecen cuando se renueva la suscripción. Recomendamos elegir un plan apropiado según tus necesidades reales de uso."
+      },
+      {
+        "title": "¿Cómo comprar más créditos?",
+        "description": "Hay dos formas de obtener créditos adicionales: comprar paquetes de créditos únicos, que te dan créditos inmediatamente y nunca expiran, se pueden comprar múltiples veces y usar en combinación con tu suscripción existente. Si necesitas volúmenes más grandes de créditos, contacta con support@gempix2.site, te proporcionaremos un plan de créditos adecuado."
+      },
+      {
+        "title": "¿Puedo cambiar el plan de suscripción en cualquier momento?",
+        "description": "Sí, puedes actualizar o degradar tu plan en cualquier momento. Para cambiar de suscripción, primero contacta con el servicio al cliente support@gempix2.site para cancelar tu suscripción, luego vuelve a suscribirte al nuevo plan."
+      },
+      {
+        "title": "¿Qué es exactamente Gempix2?",
+        "description": "Gempix2 es una plataforma revolucionaria de generación y edición de imágenes impulsada por IA. A diferencia de los modelos tradicionales, combina entradas de texto e imagen para una creación visual perfecta, proporcionando funciones potentes como mantener la consistencia de personajes, edición de escenas y fusión de referencias de múltiples imágenes."
+      },
+      {
+        "title": "¿Es Gempix2 adecuado para trabajo creativo profesional?",
+        "description": "¡Absolutamente! Gempix2 está diseñado para profesionales creativos, proporcionando renderizado realista y resultados de calidad de producción. Muchos artistas profesionales, diseñadores, creadores de contenido y agencias creativas confían en Gempix2 para sus flujos de trabajo diarios y proyectos de clientes."
+      },
+      {
+        "title": "¿Cómo contactar con el equipo de soporte al cliente?",
+        "description": "Si tienes alguna pregunta, envía un email a support@gempix2.site, nuestro equipo te responderá lo antes posible. Normalmente recibirás una respuesta dentro de un día hábil."
+      }
+    ]
+  }
+}

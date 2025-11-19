@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "프롬프트 갤러리 - AI 이미지 프롬프트 탐색하기 | Gempix2",
+    "description": "400개 이상의 엄선된 AI 이미지 생성 프롬프트와 예시를 확인해 보세요. 다음 창작물에 필요한 영감을 얻어 보세요.",
+    "keywords": "AI 프롬프트, 이미지 생성, GPT-4o, 프롬프트 갤러리, AI 아트"
+  },
+  "hero": {
+    "title": "AI 이미지 생성 프롬프트 갤러리",
+    "description": "Gempix2 를 위한 400개 이상의 엄선된 AI 이미지 생성 프롬프트를 탐색해 보세요. 캐릭터 디자인, 배경 장면, 예술적 스타일에 관한 창의적인 예시들을 찾아보실 수 있습니다."
+  },
+  "card_image_alt": "{title}{tags}",
+  "gallery": {
+    "stats": "{total}개 중 {count}개의 프롬프트 표시 중",
+    "loading": "프롬프트를 불러오는 중...",
+    "errorTitle": "프롬프트 로드 실패",
+    "errorDescription": "프롬프트 라이브러리를 불러올 수 없습니다. 다시 시도해 주세요.",
+    "retry": "다시 시도",
+    "empty": "검색 조건에 맞는 프롬프트가 없습니다.",
+    "search": {
+      "placeholder": "사건 번호, 제목 또는 프롬프트로 검색...",
+      "clear": "검색 지우기",
+      "input_label": "검색 프롬프트"
+    },
+    "filter": {
+      "selectedLabel": "선택됨:",
+      "clearAll": "모두 지우기",
+      "tagsLabel": "태그:",
+      "removeTag": "{tag} 삭제"
+    },
+    "modal": {
+      "caseTitle": "사건 #{id}: {title}",
+      "sourceLabel": "소스",
+      "imagesTitle": "예시 이미지",
+      "promptsTitle": "프롬프트",
+      "promptLabel": "프롬프트 {index}",
+      "copy": "복사",
+      "copied": "복사됨",
+      "copyAria": "프롬프트 {index} 복사",
+      "descriptionTitle": "설명",
+      "notesTitle": "메모"
+    }
+  },
+  "copy": {
+    "success": "프롬프트 복사 완료",
+    "failure": "프롬프트 복사에 실패했습니다"
+  },
+  "tools": {
+    "ariaLabel": "관련 AI 도구",
+    "gemini3": "Gemini 3 AI 어시스턴트",
+    "gemini30": "Gemini 3.0 Pro 기능",
+    "imageGuide": "이미지 생성 가이드",
+    "compare": "Gemini 3 vs GPT-4o 비교"
+  },
+  "detail": {
+    "backToGallery": "갤러리로 돌아가기",
+    "source": "원본",
+    "recreateButton": "Gempix2에서 다시 만들기",
+    "share": {
+      "button": "공유하기",
+      "buttonLabel": "프롬프트 공유하기",
+      "copied": "링크 복사 완료",
+      "linkCopied": "링크가 클립보드에 복사되었습니다",
+      "success": "성공적으로 공유되었습니다",
+      "failed": "공유 실패"
+    },
+    "sections": {
+      "prompt": "프롬프트",
+      "description": "설명",
+      "notes": "노트",
+      "relatedPrompts": "관련 프롬프트"
+    },
+    "navigation": {
+      "previous": "이전",
+      "next": "다음"
+    }
+  }
+}

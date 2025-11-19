@@ -1,0 +1,454 @@
+{
+  "template": "shipany-template-one",
+  "theme": "dark",
+  "header": {
+    "brand": {
+      "title": "Gemini Studio",
+      "logo": {
+        "srcLight": "/logo_light.svg",
+        "srcDark": "/logo_dark.svg",
+        "alt": "Gemini Studio"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Home",
+          "url": "/",
+          "icon": "RiHome2Line"
+        },
+        {
+          "title": "Prompts",
+          "url": "/prompts",
+          "icon": "RiGalleryLine"
+        },
+        {
+          "title": "News",
+          "url": "/news",
+          "icon": "RiArticleLine"
+        },
+        {
+          "title": "About",
+          "url": "/about",
+          "icon": "RiInformationLine"
+        }
+      ]
+    },
+    "show_sign": false,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "Gemini 3 & 3.0 Guide Hub",
+    "highlight_text": "Gemini 3",
+    "subtitle": "Understand Gemini 3 and Gemini 3.0, learn real-world workflows, and find a practical Gemini-grade image generator you can use today.",
+    "description": "Gemini Studio is an English hub focused on Gemini 3 and Gemini 3.0. Explore capabilities, API concepts, prompt engineering techniques, and image generation workflows—then route high-intent image tasks to a simple browser-based tool at gempix2.site.",
+    "announcement": {
+      "label": "2025",
+      "title": "🚀 New: Gemini 3 image generation guide",
+      "url": "/guides/image-generation"
+    },
+    "tip": "",
+    "buttons": [],
+    "show_happy_users": false,
+    "show_badge": false
+  },
+  "branding": {
+    "title": "ShipAny is built on the shoulders of giants",
+    "items": [
+      {
+        "title": "Next.js",
+        "image": {
+          "src": "/imgs/logos/nextjs.svg",
+          "alt": "Next.js"
+        }
+      },
+      {
+        "title": "React",
+        "image": {
+          "src": "/imgs/logos/react.svg",
+          "alt": "React"
+        }
+      },
+      {
+        "title": "TailwindCSS",
+        "image": {
+          "src": "/imgs/logos/tailwindcss.svg",
+          "alt": "TailwindCSS"
+        }
+      },
+      {
+        "title": "Shadcn/UI",
+        "image": {
+          "src": "/imgs/logos/shadcn.svg",
+          "alt": "Shadcn/UI"
+        }
+      },
+      {
+        "title": "Vercel",
+        "image": {
+          "src": "/imgs/logos/vercel.svg",
+          "alt": "Vercel"
+        }
+      }
+    ]
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "What is Gemini 3?",
+    "label": "Introduction",
+    "description": "Gemini 3 is Google's latest generation of the Gemini family: a multimodal model that can work with text, images, code and long documents in a single context. \"Gemini 3.0\" refers to the wave of models released in this generation, with variants tuned for different latency and deployment needs.",
+    "image": {
+      "src": "/imgs/features/1.png"
+    },
+    "items": [
+      {
+        "title": "Multimodal by design",
+        "description": "Gemini 3 can read and reason over text, images and other data types together, making it useful for research, debugging and creative workflows.",
+        "icon": "RiImageEditLine"
+      },
+      {
+        "title": "Long-context reasoning",
+        "description": "Built on the long-context work from Gemini 1.5, Gemini 3 is designed to keep answers grounded across large documents, codebases and transcripts.",
+        "icon": "RiUserHeartLine"
+      },
+      {
+        "title": "Tool-aware workflows",
+        "description": "In many real apps, Gemini 3 orchestrates work: planning, calling tools, and refining outputs — including routing prompts into external image generators such as gempix2.site.",
+        "icon": "RiEditBoxLine"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "Why Use Gemini 3 (and this site)",
+    "label": "Benefits",
+    "description": "Gemini Studio focuses on practical Gemini 3 and Gemini 3.0 usage: how to turn the models into real workflows instead of just chasing benchmark numbers.",
+    "items": [
+      {
+        "title": "Workflow-first guidance",
+        "description": "Content is written for developers, creators and teams who want to apply Gemini 3 to concrete tasks like coding, analysis and creative work.",
+        "icon": "RiRocketLine",
+        "image": {
+          "src": "/imgs/features/2.png"
+        }
+      },
+      {
+        "title": "Reusable prompt patterns",
+        "description": "We emphasise prompt templates and structures you can reuse across projects, not one-off screenshots of impressive answers.",
+        "icon": "RiRefreshLine",
+        "image": {
+          "src": "/imgs/features/3.png"
+        }
+      },
+      {
+        "title": "Clear path to real tools",
+        "description": "When you are ready to generate images, we point you to a Gemini-grade image generator so you can plug in the prompts from this site.",
+        "icon": "RiPaletteLine",
+        "image": {
+          "src": "/imgs/features/4.png"
+        }
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "How to Use This Site",
+    "description": "Use Gemini Studio as your entry point into Gemini 3 and Gemini 3.0 workflows.",
+    "image": {
+      "src": "/imgs/features/1.png"
+    },
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "Start with the Gemini 3 guides",
+        "description": "Read the Gemini 3 and Gemini 3.0 pages to understand capabilities, limitations and typical use cases.",
+        "image": {
+          "src": "/imgs/features/5.png"
+        }
+      },
+      {
+        "title": "Learn prompt patterns",
+        "description": "Explore the prompt engineering guide to see how to structure instructions and constraints for more reliable behaviour.",
+        "image": {
+          "src": "/imgs/features/6.png"
+        }
+      },
+      {
+        "title": "Explore image workflows",
+        "description": "Use the image generation guide to connect Gemini 3 prompts to external image generators for production-quality visuals.",
+        "image": {
+          "src": "/imgs/features/7.png"
+        }
+      },
+      {
+        "title": "Reuse the prompt library",
+        "description": "Browse the prompt library for ready-made templates you can customise and plug into your own Gemini 3 flows.",
+        "image": {
+          "src": "/imgs/features/8.png"
+        }
+      }
+    ]
+  },
+  "comparison": {
+    "label": "Generation Comparison",
+    "title": "Gemini 3 vs Earlier Generations",
+    "description": "A high-level look at how Gemini 3 improves on earlier Gemini releases in terms of reasoning, long-context handling and real-world workflows.",
+    "headers": {
+      "feature": "Feature",
+      "improvement": "Improvement"
+    },
+    "features": {
+      "processing_speed": "Processing Speed",
+      "character_consistency": "Character Consistency",
+      "detail_accuracy": "Detail Accuracy",
+      "aspect_ratios": "Supported Aspect Ratios",
+      "max_iterations": "Maximum Iterations",
+      "multi_image_fusion": "Multi-Image Fusion",
+      "text_rendering": "Text Rendering Capability"
+    },
+    "values": {
+      "good": "Good",
+      "excellent": "Excellent",
+      "enhanced": "Enhanced",
+      "standard": "Standard",
+      "superior": "Superior",
+      "improved": "Improved",
+      "unlimited": "Unlimited",
+      "basic": "Basic",
+      "advanced": "Advanced",
+      "upgraded": "Upgraded",
+      "extended": "Extended"
+    },
+    "footer_note": "* All performance metrics based on official advanced AI technology benchmarks"
+  },
+  "feature": {
+    "name": "feature",
+    "title": "Core Capabilities of Gemini 3",
+    "description": "A quick snapshot of the kinds of things Gemini 3 is designed to handle well.",
+    "items": [
+      {
+        "title": "Multimodal understanding",
+        "description": "Reason over text, images and other data together to answer questions, review designs or debug screenshots.",
+        "icon": "RiFlowChart"
+      },
+      {
+        "title": "Long-context analysis",
+        "description": "Work across long documents, transcripts or repositories while keeping answers grounded in the relevant parts.",
+        "icon": "RiSpeedUpLine"
+      },
+      {
+        "title": "Code and tooling",
+        "description": "Generate and review code, call tools and APIs, and help keep multi-step development workflows on track.",
+        "icon": "RiEditLine"
+      },
+      {
+        "title": "Structured reasoning",
+        "description": "Follow instructions about plans, steps and constraints so you can build more reliable multi-step flows.",
+        "icon": "RiImageLine"
+      },
+      {
+        "title": "Knowledge integration",
+        "description": "Combine long-context recall with external tools to keep answers up to date and well scoped.",
+        "icon": "RiMagicLine"
+      },
+      {
+        "title": "Safety & control",
+        "description": "Use system prompts and guardrails to steer behaviour, reduce unwanted outputs and keep apps aligned with your policies.",
+        "icon": "RiShieldCheckLine"
+      }
+    ]
+  },
+  "stats": {
+    "name": "stats",
+    "label": "Stats",
+    "title": "Who Gemini Studio is For",
+    "description": "A quick sense of the kinds of people who get value from a focused Gemini 3 hub.",
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "Developers & builders",
+        "label": "Engineers",
+        "description": "Using Gemini 3 for code, analysis and internal tools."
+      },
+      {
+        "title": "Creators & teams",
+        "label": "Creators",
+        "description": "Designing prompts and workflows for content, imagery and storytelling."
+      },
+      {
+        "title": "Learners & tinkerers",
+        "label": "Explorers",
+        "description": "People who want a clear starting point before wiring Gemini 3 into production apps."
+      }
+    ]
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "Testimonial",
+    "title": "How People Use Gemini 3",
+    "description": "Examples of how different types of users think about Gemini 3 and sites like this one.",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "Sarah Chen",
+        "label": "Frontend engineer",
+        "description": "I use Gemini 3 for code reviews and quick refactors. Having a focused guide makes it easier to design prompts that fit our stack instead of guessing.",
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
+      },
+      {
+        "title": "Michael Rodriguez",
+        "label": "Content & video creator",
+        "description": "Gemini 3 helps me brainstorm scripts and visual ideas. I grab prompt patterns from the library here, then plug them into my favourite image generator.",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "Emily Watson",
+        "label": "Product lead",
+        "description": "When we started prototyping with Gemini 3, this site gave the team a shared vocabulary for prompts, safety and workflows. It saved weeks of trial-and-error.",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "Frequently Asked Questions About Gemini 3",
+    "description": "Quick answers to a few common questions. For more, see the dedicated FAQ page.",
+    "items": [
+      {
+        "title": "Is this an official Gemini site?",
+        "description": "No. Gemini Studio is an independent content hub focused on Gemini 3 and Gemini 3.0. It is not an official Google or Gemini property."
+      },
+      {
+        "title": "Can I call the Gemini 3 API directly from this site?",
+        "description": "This site does not expose direct API access. Instead, it focuses on guides, comparisons and prompt patterns that you can apply in your own integrations."
+      },
+      {
+        "title": "Where should I start if I am new to Gemini?",
+        "description": "Begin with the Gemini 3 and Gemini 3.0 guides, then read the prompt engineering and image generation guides. You can also browse the prompt library for ready-made templates."
+      }
+    ]
+  },
+  "cta": {
+    "name": "cta",
+    "title": "Start Exploring Gemini 3 Today",
+    "description": "Use these guides, comparisons, and prompt libraries to understand Gemini 3 and Gemini 3.0—and then plug your prompts into a Gemini-grade image generator.",
+    "buttons": [
+      {
+        "title": "Read the Gemini 3 Guide",
+        "url": "/gemini-3",
+        "target": "_self",
+        "icon": "GoArrowUpRight"
+      },
+      {
+        "title": "Open Prompt Library",
+        "url": "/prompts",
+        "target": "_self",
+        "variant": "outline"
+      }
+    ]
+  },
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "Gemini Studio",
+      "description": "Gemini Studio is an independent hub focused on Gemini 3 and Gemini 3.0 guides, tutorials, and prompt libraries. It is not an official Google or Gemini property.",
+      "logo": {
+        "srcLight": "/logo_light.svg",
+        "srcDark": "/logo_dark.svg",
+        "alt": "Gemini Studio"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • SixBryan LLC All rights reserved.",
+    "nav": {
+      "items": [
+        {
+          "title": "Product",
+          "children": [
+            {
+              "title": "Gemini 3 Guide",
+              "url": "/gemini-3",
+              "target": "_self"
+            },
+            {
+              "title": "Prompt Library",
+              "url": "/prompts",
+              "target": "_self"
+            },
+            {
+              "title": "Image Generation Guide",
+              "url": "/guides/image-generation",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Other Services",
+          "children": [
+            {
+              "title": "Gemini-grade Image Generator",
+              "url": "https://www.gempix2.site/?utm_source=gemini.studio&utm_medium=footer&utm_campaign=gemini3_seo",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "title": "Other",
+          "children": [
+            {
+              "title": "About Us",
+              "url": "/about",
+              "target": "_self"
+            },
+            {
+              "title": "Climate Action Plan",
+              "url": "https://climate.stripe.com/AoIcTh",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "X",
+          "icon": "RiTwitterXFill",
+          "target": "_self"
+        },
+        {
+          "title": "Email",
+          "icon": "RiMailLine",
+          "url": "mailto:support@gempix2.site",
+          "target": "_self"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "Terms of Service",
+          "url": "/terms-of-service"
+        },
+        {
+          "title": "Refund Policy",
+          "url": "/refund-policy"
+        }
+      ]
+    }
+  }
+}

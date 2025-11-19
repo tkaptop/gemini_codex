@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "title": "Gempix2 料金 - Gempix2 AI画像エディター",
+    "description": "AI画像生成ニーズに最適なプランを選択。"
+  },
+  "pricing": {
+    "name": "pricing",
+    "label": "料金",
+    "title": "シンプルで透明なGempix2料金プラン",
+    "description": "AI画像作成のニーズに最適なプランを選択してください。",
+    "save_yearly": "50%節約",
+    "cancel_anytime": "いつでもキャンセルできます",
+    "cancel_subscription_text": "サブスクリプションのキャンセルは、サポートメールにご連絡ください：",
+    "trial_pack_limit_error": "お試しクレジットパックは一度のみ購入可能です",
+    "mo": "月",
+    "year": "年",
+    "groups": [
+      { "name": "monthly", "title": "月料金" },
+      { "name": "yearly", "title": "年料金" },
+      { "name": "credits-packs", "title": "クレジットパック" }
+    ],
+    "items": [
+      {
+        "title": "初級版",
+        "description": "AI画像生成を試したり、小規模プロジェクトに最適です。",
+        "features_title": "含まれる機能",
+        "features": [
+          "200 AI生成クレジット毎月",
+          "Gempix2高品質モデル",
+          "テキストから画像への生成",
+          "画像編集機能",
+          "3x,4x画像拡張サービス",
+          "標準生成速度",
+          "標準成功率",
+          "標準カスタマーサポート"
+        ],
+        "group": "monthly",
+        "interval": "month",
+        "amount": 999,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$9.99",
+        "original_price": "$19.99",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "AI画像生成と編集効果の体験に適しています。",
+        "button": {
+          "title": "初級版を購読",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_Ssq8Ltsmjqeiw9",
+        "product_name": "Gempix2 初級版",
+        "credits": 200,
+        "valid_months": 1
+      },
+      {
+        "title": "プロ",
+        "description": "クリエイター、デザイナー、コンテンツプロフェッショナルに理想的です。",
+        "label": "最も人気",
+        "features_title": "初級版のすべてを含む",
+        "features": [
+          "700 AI生成クレジット毎月",
+          "優先処理速度",
+          "高成功率",
+          "高度な編集機能",
+          "多図参照生成",
+          "高速ダウンロードチャンネル",
+          "優先カスタマーサポート",
+          "商用ライセンス"
+        ],
+        "group": "monthly",
+        "interval": "month",
+        "amount": 2399,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$23.99",
+        "original_price": "$89.99",
+        "unit": "USD",
+        "is_featured": true,
+        "tip": "🔥 期間限定オファー！今すぐプロ版を入手",
+        "button": {
+          "title": "プロを購読",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_SsqBq5Jdkmjp4l",
+        "product_name": "Gempix2プロ",
+        "credits": 700,
+        "valid_months": 1
+      },
+      {
+        "title": "プレミアム",
+        "description": "チーム、エージェンシー、大量商用利用向けです。",
+        "features_title": "プロのすべてを含む",
+        "features": [
+          "2000 AI生成クレジット毎月",
+          "最速生成速度",
+          "最も高度なAI編集機能",
+          "永続的な画像ストレージ",
+          "専任アカウントマネージャー"
+        ],
+        "group": "monthly",
+        "interval": "month",
+        "amount": 8999,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$89.99",
+        "original_price": "$179.99",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "チームとビジネスに最適",
+        "button": {
+          "title": "プレミアムを購読",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_SsqCkSQWvK8NzC",
+        "product_name": "Gempix2プレミアム",
+        "credits": 2000,
+        "valid_months": 1
+      },
+      {
+        "title": "初級版",
+        "description": "AI画像生成を試したり、小規模プロジェクトに最適です。",
+        "features_title": "含まれる機能",
+        "features": [
+          "2400 AI生成クレジット毎年",
+          "Gempix2高品質モデル",
+          "テキストから画像への生成",
+          "画像編集機能",
+          "3x,4x画像拡張サービス",
+          "標準生成速度",
+          "標準成功率",
+          "標準カスタマーサポート",
+          "商用ライセンス"
+        ],
+        "group": "yearly",
+        "interval": "year",
+        "amount": 9588,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$7.99",
+        "discount_price": "$4.99",
+        "discount_amount": 5988,
+        "original_price": "$19.99",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "AI画像生成と編集効果の体験に適しています。",
+        "button": {
+          "title": "初級版を購読",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_Ssq8Ltsmjqeiw9-2",
+        "product_name": "Gempix2 初級版年料",
+        "credits": 2400,
+        "valid_months": 12
+      },
+      {
+        "title": "プロ",
+        "description": "クリエイター、デザイナー、コンテンツプロフェッショナルに理想的です。",
+        "label": "最も人気",
+        "features_title": "初級版のすべてを含む",
+        "features": [
+          "8400 AI生成クレジット毎年",
+          "優先処理速度",
+          "高成功率",
+          "高度な編集機能",
+          "多図参照生成",
+          "高速ダウンロードチャンネル",
+          "優先カスタマーサポート"
+        ],
+        "group": "yearly",
+        "interval": "year",
+        "amount": 20388,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$16.99",
+        "discount_price": "$11.99",
+        "discount_amount": 14388,
+        "original_price": "$89.99",
+        "unit": "USD",
+        "is_featured": true,
+        "tip": "🔥 期間限定オファー！今すぐプロ版を入手",
+        "button": {
+          "title": "プロを購読",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_SsqBq5Jdkmjp4l1-2",
+        "product_name": "Gempix2プロ年料",
+        "credits": 8400,
+        "valid_months": 12
+      },
+      {
+        "title": "プレミアム",
+        "description": "チーム、エージェンシー、大量商用利用向けです。",
+        "features_title": "プロのすべてを含む",
+        "features": [
+          "30000 AI生成クレジット毎年",
+          "最速生成速度",
+          "最も高度なAI編集機能",
+          "永続的な画像ストレージ",
+          "専任アカウントマネージャー"
+        ],
+        "group": "yearly",
+        "interval": "year",
+        "amount": 83988,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$69.99",
+        "discount_price": "$44.99",
+        "discount_amount": 53988,
+        "original_price": "$179.99",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "チームとビジネスに最適",
+        "button": {
+          "title": "プレミアムを購読",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_SsqCkSQWvK8NzC-2",
+        "product_name": "Gempix2プレミアム年料",
+        "credits": 30000,
+        "valid_months": 12
+      },
+
+      {
+        "title": "エントリークレジットパック",
+        "description": "一回限りの購入、クレジットは永遠に期限が切れません",
+        "features_title": "含まれる機能",
+        "features": [
+          "500個のAI生成クレジット",
+          "永遠に期限が切れません",
+          "すべての機能を解除"
+        ],
+        "group": "credits-packs",
+        "interval": "one-time",
+        "amount": 2999,
+        "cn_amount": 19999,
+        "currency": "USD",
+        "price": "$29.99",
+        "original_price": "$40",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "🔥 期間限定特価！",
+        "button": {
+          "title": "今すぐ購入",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "credits-packs-1",
+        "product_name": "Gempix2 エントリークレジットパック",
+        "credits": 500,
+        "valid_months": 12
+      },
+      {
+        "title": "プロフェッショナルクレジットパック",
+        "description": "一回限りの購入、クレジットは永遠に期限が切れません",
+        "features_title": "含まれる機能",
+        "features": [
+          "2000個のAI生成クレジット",
+          "永遠に期限が切れません",
+          "すべての機能を解除"
+        ],
+        "group": "credits-packs",
+        "interval": "one-time",
+        "amount": 9999,
+        "cn_amount": 69900,
+        "currency": "USD",
+        "price": "$99.99",
+        "original_price": "$120",
+        "unit": "USD",
+        "is_featured": true,
+        "tip": "🔥 期間限定特価！",
+        "button": {
+          "title": "今すぐ購入",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "credits-packs-2",
+        "product_name": "Gempix2 プロフェッショナルクレジットパック",
+        "credits": 2000,
+        "valid_months": 12
+      },
+      {
+        "title": "プレミアムクレジットパック",
+        "description": "一回限りの購入、クレジットは永遠に期限が切れません、プロフェッショナルデザイナーに最適",
+        "features_title": "含まれる機能",
+        "features": [
+          "7000個のAI生成クレジット",
+          "永遠に期限が切れません",
+          "すべての機能を解除",
+          "優先カスタマーサポート",
+          "プロフェッショナルな生成品質"
+        ],
+        "group": "credits-packs",
+        "interval": "one-time",
+        "amount": 23000,
+        "cn_amount": 175000,
+        "currency": "USD",
+        "price": "$230",
+        "original_price": "$400",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "🔥 期間限定特価！",
+        "button": {
+          "title": "今すぐ購入",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "credits-packs-3",
+        "product_name": "Gempix2 プレミアムクレジットパック",
+        "credits": 7000,
+        "valid_months": 12
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "よくある質問",
+    "title": "Gempix2の支払いに関するよくある質問",
+    "description": "Gempix2の支払いについて他にもご質問がございましたら、サポートチームまでお気軽にお問い合わせください。",
+    "items": [
+      {
+        "title": "どのような支払い方法がサポートされていますか？",
+        "description": "Visa、MasterCard、American Expressなどのクレジットカード、またはAlipay、WeChat Payなど、さまざまな支払い方法をご利用いただけます。すべての支払いは、安全なサードパーティー決済プラットフォームを通じて処理され、お客様の情報のセキュリティを確保しています。暗号通貨での支払いをご希望の場合は、サポートメールまでお問い合わせください。"
+      },
+      {
+        "title": "年払い、月払い、クレジットパックとは何ですか？",
+        "description": "年払い、月払い、クレジットパックはGempix2の料金プランです。年払いは年間料金を一括支払いし、年単位で自動更新され、年間分のクレジットが一度に付与され1年間有効で、年払いを選択すると 50% お得になります。月払いは毎月自動課金・チャージされ、クレジットは1ヶ月間有効です。クレジットパックは一度きりの購入で、有効期限はなく、自動更新されません。支払い時には実際の支払い金額をご確認の上、適切なプランをお選びください。"
+      },
+      {
+        "title": "クレジットとは何ですか、どのように使用しますか？",
+        "description": "4クレジットで高品質な画像を1枚生成できます。クレジットは、各請求サイクルの開始時に自動的にチャージされます。月額サブスクリプションプランでは、毎月自動で請求・チャージされ、クレジットは1ヶ月間有効です。年額サブスクリプションプランでは、年間料金を一度に支払い、1年分のクレジットが一度に付与され、クレジットは1年間有効です。また、一度限りのクレジットパックを購入することもでき、これらのクレジットは永続的に有効です。"
+      },
+      {
+        "title": "サブスクリプションを管理またはキャンセルするにはどうすればよいですか？",
+        "description": "サブスクリプションのキャンセルは、サポートチーム support@gempix2.site までご連絡ください。通常1営業日以内にご回答いたします。ご理解とご支援をいただき、ありがとうございます。"
+      },
+      {
+        "title": "WeChatやAlipayで支払いするにはどうすればよいですか？",
+        "description": "ウェブサイトの上部ナビゲーションバーで言語を中国語に切り替えると、料金ページでWeChatとAlipayの支払いチャンネルを見ることができます。"
+      },
+      {
+        "title": "未使用のクレジットは蓄積されますか？",
+        "description": "試用クレジットパックを除き、その他の一度限りで購入されたクレジットパックは永続的に有効です。サブスクリプションクレジットは月ごとに更新され、月額サブスクリプションプランでは、前月に未使用のクレジットはサブスクリプション更新時にリセットされます。年額サブスクリプションプランでは、前年に未使用のクレジットはサブスクリプション更新時にリセットされます。実際の使用ニーズに応じて適切なプランを選択することをお勧めします。"
+      },
+      {
+        "title": "追加のクレジットを購入するにはどうすればよいですか？",
+        "description": "追加のクレジットを取得する方法は2つあります：一度限りのクレジットパックを購入すると、すぐにクレジットを取得でき、永続的に有効で、何度でも購入でき、既存のサブスクリプションと組み合わせて使用できます。より大量のクレジットが必要な場合は、support@gempix2.site までお問い合わせください。適切なクレジットプランをご提供いたします。"
+      },
+      {
+        "title": "いつでもサブスクリプションプランを変更できますか？",
+        "description": "はい、いつでもプランのアップグレードまたはダウングレードが可能です。サブスクリプションを変更する場合は、まず support@gempix2.site サポートカスタマーサービスに連絡してサブスクリプションをキャンセルし、その後新しいプランに再度サブスクライブしてください。"
+      },
+      {
+        "title": "Gempix2とは一体何ですか？",
+        "description": "Gempix2は、革命的なAI駆動の画像生成・編集プラットフォームです。従来のモデルとは異なり、テキストと画像の入力を組み合わせてシームレスなビジュアル創作を行い、キャラクター一貫性保持、シーン編集、多画像融合参照などの強力な機能を提供します。"
+      },
+      {
+        "title": "Gempix2はプロの創作作業に適していますか？",
+        "description": "もちろんです！Gempix2は専門的なクリエイティブ業務のために設計されており、リアルなレンダリングと制作級品質の結果を提供します。多くのプロのアーティスト、デザイナー、コンテンツ制作者、クリエイティブエージェンシーが、日常のワークフローやクライアントプロジェクトにGempix2を活用しています。"
+      },
+      {
+        "title": "カスタマーサポートチームに連絡するにはどうすればよいですか？",
+        "description": "ご質問がございましたら、support@gempix2.site まで電子メールをお送りください。当チームができるだけ早くご回答いたします。通常、1営業日以内にご返答いたします。"
+      }
+    ]
+  }
+}

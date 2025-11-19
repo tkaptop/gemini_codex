@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "Prompt-Galerie – Entdecken Sie KI-Bildprompts | Gempix2",
+    "description": "Entdecken Sie über 400 sorgfältig zusammengestellte KI-Bildgenerierungs-Prompts mit Beispielen. Finden Sie Inspiration für Ihr nächstes Kreativprojekt.",
+    "keywords": "KI-Prompts, Bildgenerierung, GPT-4o, Prompt-Galerie, KI-Kunst"
+  },
+  "hero": {
+    "title": "Galerie für KI-Bildgenerierungs-Prompts",
+    "description": "Entdecken Sie über 400 sorgfältig ausgewählte KI-Bildgenerierungs-Prompts für Gempix2 . Finden Sie kreative Beispiele für Charakterdesign, Szenen und künstlerische Stile."
+  },
+  "card_image_alt": "{title}{tags}",
+  "gallery": {
+    "stats": "{count} von {total} Prompts werden angezeigt",
+    "loading": "Prompte werden geladen...",
+    "errorTitle": "Fehler beim Laden der Prompts",
+    "errorDescription": "Wir konnten die Vorlagenbibliothek nicht laden. Bitte versuchen Sie es erneut.",
+    "retry": "Wiederholen",
+    "empty": "Es wurden keine Anfragen gefunden, die Ihren Kriterien entsprechen.",
+    "search": {
+      "placeholder": "Suche nach Fallnummer, Titel oder Eingabeaufforderung...",
+      "clear": "Suche löschen",
+      "input_label": "Suchvorschläge"
+    },
+    "filter": {
+      "selectedLabel": "Ausgewählt:",
+      "clearAll": "Alle löschen",
+      "tagsLabel": "Schlagwörter:",
+      "removeTag": "{tag} entfernen"
+    },
+    "modal": {
+      "caseTitle": "Fall #{id}: {title}",
+      "sourceLabel": "Quelle",
+      "imagesTitle": "Beispielbilder",
+      "promptsTitle": "Aufforderungen",
+      "promptLabel": "Eingabeaufforderung {index}",
+      "copy": "Kopieren",
+      "copied": "Kopiert",
+      "copyAria": "Kopieraufforderung {index}",
+      "descriptionTitle": "Beschreibung",
+      "notesTitle": "Notizen"
+    }
+  },
+  "copy": {
+    "success": "Prompt kopiert",
+    "failure": "Fehler beim Kopieren des Prompts"
+  },
+  "tools": {
+    "ariaLabel": "Verwandte KI-Tools",
+    "gemini3": "Gemini 3 KI-Assistent",
+    "gemini30": "Gemini 3.0 Pro Funktionen",
+    "imageGuide": "Bildgenerierungsanleitung",
+    "compare": "Gemini 3 vs GPT-4o Vergleich"
+  },
+  "detail": {
+    "backToGallery": "Zurück zur Galerie",
+    "source": "Quelle",
+    "recreateButton": "In Gempix2 neu erstellen",
+    "share": {
+      "button": "Teilen",
+      "buttonLabel": "Diesen Prompt teilen",
+      "copied": "Link kopiert",
+      "linkCopied": "Link in die Zwischenablage kopiert",
+      "success": "Erfolgreich geteilt",
+      "failed": "Freigabe fehlgeschlagen"
+    },
+    "sections": {
+      "prompt": "Aufforderung",
+      "description": "Beschreibung",
+      "notes": "Notizen",
+      "relatedPrompts": "Ähnliche Vorschläge"
+    },
+    "navigation": {
+      "previous": "Zurück",
+      "next": "Weiter"
+    }
+  }
+}

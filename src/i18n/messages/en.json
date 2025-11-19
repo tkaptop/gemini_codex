@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "title": "Gemini Studio - Gemini 3 Guide & Gempix2 Image Workflows",
+    "description": "Gemini Studio is an English hub for Gemini 3, Gemini 3.0 and gemini3 workflows, with guides, prompts and image tutorials that route to Gempix2 (Gempix 2) running on the Nano Banana 2 stack for high-quality AI image generation.",
+    "keywords": "Gemini 3, gemini3, Gemini 3.0, Gempix2, Gempix 2, Nano Banana 2, AI image generator"
+  },
+  "user": {
+    "sign_in": "Sign In",
+    "sign_out": "Sign Out",
+    "credits": "Credits",
+    "api_keys": "API Keys",
+    "my_orders": "My Orders",
+    "user_center": "User Center",
+    "admin_system": "Admin System"
+  },
+  "sign_modal": {
+    "sign_in_title": "Sign In",
+    "sign_in_description": "Sign in to your account",
+    "sign_up_title": "Sign Up",
+    "sign_up_description": "Create a new account",
+    "login_slogan": "Get 10 Free Credits Instantly!",
+    "email": "Email",
+    "email_title": "Email",
+    "email_placeholder": "Please enter your email",
+    "password_title": "Password",
+    "password_placeholder": "Please enter your password",
+    "forgot_password": "Forgot password?",
+    "or": "Or",
+    "continue": "Continue",
+    "no_account": "Don't have an account yet?",
+    "email_sign_in": "Sign in with Email",
+    "google_sign_in": "Sign in with Google",
+    "github_sign_in": "Sign in with GitHub",
+    "send_magic_link": "Send login link",
+    "sending": "Sending...",
+    "email_sent": "Please check your email, we've sent you a login link!",
+    "email_required": "Please enter your email",
+    "code_required": "Please enter email and verification code",
+    "code_sent": "Verification code has been sent to your email",
+    "enter_email": "Enter your email",
+    "enter_code": "Enter verification code",
+    "send_code": "Send verification code",
+    "sending_code": "Sending...",
+    "verification_code": "Verification code",
+    "resend_code": "Resend",
+    "resend_in": "Resend countdown",
+    "sign_in": "Sign In",
+    "signing_in": "Signing in...",
+    "back": "Back",
+    "invalid_code": "Invalid verification code",
+    "code_expired": "Verification code expired or does not exist",
+    "sign_in_failed": "Sign in failed, please try again",
+    "close_title": "Close",
+    "cancel_title": "Cancel",
+    "terms_text": "By continuing, you agree to our",
+    "terms_of_service": "Terms of Service",
+    "and": "and",
+    "privacy_policy": "Privacy Policy"
+  },
+  "my_orders": {
+    "title": "My Orders",
+    "description": "Orders purchased on ShipAny.",
+    "no_orders": "No orders found",
+    "tip": "",
+    "activate_order": "Activate Order",
+    "actived": "Activated",
+    "join_discord": "Join Discord",
+    "read_docs": "Read Docs",
+    "table": {
+      "order_no": "Order No",
+      "email": "Email",
+      "product_name": "Product Name",
+      "amount": "Amount",
+      "paid_at": "Paid At",
+      "github_username": "GitHub Username",
+      "status": "Status"
+    }
+  },
+  "my_credits": {
+    "title": "My Credits",
+    "left_tip": "Remaining credits: {left_credits}",
+    "no_credits": "No credit records",
+    "recharge": "Recharge",
+    "table": {
+      "trans_no": "Transaction No",
+      "trans_type": "Transaction Type",
+      "credits": "Credits",
+      "updated_at": "Updated At",
+      "status": "Status"
+    }
+  },
+  "api_keys": {
+    "title": "API Keys",
+    "tip": "Please keep your API key safe to avoid leaks",
+    "no_api_keys": "No API Keys",
+    "create_api_key": "Create API Key",
+    "table": {
+      "name": "Name",
+      "key": "Key",
+      "created_at": "Created At"
+    },
+    "form": {
+      "name": "Name",
+      "name_placeholder": "API Key Name",
+      "submit": "Submit"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "News, resources, and updates about ShipAny",
+    "read_more_text": "Read More"
+  },
+  "my_invites": {
+    "title": "My Invites",
+    "description": "View your invitation records",
+    "no_invites": "No invitation records found",
+    "my_invite_link": "My Invitation Link",
+    "edit_invite_link": "Edit Invitation Link",
+    "copy_invite_link": "Copy Invitation Link",
+    "invite_code": "Invitation Code",
+    "invite_tip": "Invite 1 friend to purchase ShipAny, reward $50.",
+    "invite_balance": "Invitation Reward Balance",
+    "total_invite_count": "Total Invitation Count",
+    "total_paid_count": "Total Paid Count",
+    "total_award_amount": "Total Award Amount",
+    "update_invite_code": "Set Invitation Code",
+    "update_invite_code_tip": "Enter your custom invitation code",
+    "update_invite_button": "Save",
+    "no_orders": "You need to purchase ShipAny first before inviting friends",
+    "no_affiliates": "You don't have permission to invite friends yet, please contact us to apply.",
+    "table": {
+      "invite_time": "Invitation Time",
+      "invite_user": "Invited User",
+      "status": "Status",
+      "reward_percent": "Reward Percentage",
+      "reward_amount": "Reward Amount",
+      "pending": "Registered, not paid",
+      "completed": "Paid"
+    }
+  },
+  "feedback": {
+    "title": "Feedback",
+    "description": "We'd love to hear your thoughts about the product or how to improve the product experience.",
+    "submit": "Submit",
+    "loading": "Submitting...",
+    "contact_tip": "Other contact methods",
+    "rating_tip": "How do you feel about ShipAny?",
+    "placeholder": "Leave your feedback here..."
+  },
+  "pricing": {
+    "most_popular": "Most Popular"
+  },
+  "announcement": {
+    "banner": {
+      "text": "✨ New: Gemini 3 image generation guide is live.",
+      "button": "Read now"
+    }
+  },
+  "pages": {
+    "landing": {
+      "comparison": {
+        "label": "Generation Comparison",
+        "title": "Legacy \"Nano Banana\" stack vs Gempix2",
+        "description": "See how the official Gempix2 service, running on the stack the community nicknames \"Nano Banana 2,\" improves on the legacy \"Nano Banana\" workflows with enhanced performance and capabilities",
+        "headers": {
+          "feature": "Feature",
+          "improvement": "Improvement"
+        },
+        "features": {
+          "processing_speed": "Processing Speed",
+          "character_consistency": "Character Consistency",
+          "detail_accuracy": "Detail Accuracy",
+          "aspect_ratios": "Aspect Ratios Supported",
+          "max_iterations": "Max Iterations",
+          "multi_image_fusion": "Multi-Image Fusion",
+          "text_rendering": "Text Rendering"
+        },
+        "values": {
+          "good": "Good",
+          "excellent": "Excellent",
+          "enhanced": "Enhanced",
+          "standard": "Standard",
+          "superior": "Superior",
+          "improved": "Improved",
+          "unlimited": "Unlimited",
+          "basic": "Basic",
+          "advanced": "Advanced",
+          "upgraded": "Upgraded",
+          "extended": "Extended"
+        },
+        "footer_note": "* Performance improvements measured under standard test conditions. Actual results may vary based on usage scenarios."
+      }
+    }
+  },
+  "gempix2": {
+    "wrapper": {
+      "loading_text": "Loading Gempix2...",
+      "title": "Gempix2 AI Creation Workbench",
+      "description": "Use advanced AI technology to transform your imagination into beautiful images"
+    },
+    "workspace": {
+      "mode_selector": {
+        "image_edit": "Image Edit",
+        "text_to_image": "Text-to-Image"
+      },
+      "operation_panel": {
+        "login_required": "Please login first",
+        "insufficient_credits": "Insufficient credits, need {amount} credits",
+        "please_enter_prompt": "Please enter a prompt",
+        "prompt_min_length": "Please enter at least 3 characters",
+        "generating": "Generating...",
+        "start_creation": "Start Creation"
+      },
+      "image_upload": {
+        "title": "Reference Images",
+        "add_image": "Add Image",
+        "max_size": "Max 10MB",
+        "supported_formats": "JPG, PNG, WebP",
+        "drag_to_upload": "Release file",
+        "clear_all": "Clear all images",
+        "error_invalid_type": "Unsupported file format, only JPG, PNG, WebP are supported",
+        "error_too_large": "File size exceeds 10MB limit",
+        "error_too_many": "Maximum 10 files can be uploaded at once"
+      },
+      "prompt_input": {
+        "title": "Describe your idea",
+        "placeholder_image_edit": "Describe the effect you want, including style, color, composition and other details...",
+        "placeholder_text_to_image": "Describe in detail the image you want to generate, including subject, scene, style, color, etc...",
+        "tip": "Detailed descriptions lead to better results"
+      },
+      "image_size_selector": {
+        "title": "Aspect Ratio",
+        "auto": "Auto",
+        "ratios": {
+          "auto": "AI auto-decide",
+          "1:1": "Social avatar",
+          "9:16": "Vertical video",
+          "16:9": "Horizontal video",
+          "3:4": "Portrait photo",
+          "4:3": "Landscape photo",
+          "3:2": "Classic photo",
+          "2:3": "Vertical classic",
+          "5:4": "Medium format",
+          "4:5": "Vertical medium",
+          "21:9": "Ultrawide"
+        }
+      },
+      "credits_display": {
+        "title": "Credit Cost",
+        "unit": "credits"
+      },
+      "display_panel": {
+        "generation_complete": "Generation complete!",
+        "regenerate": "Regenerate",
+        "image_download_success": "Image downloaded successfully",
+        "download_failed": "Download failed",
+        "link_copied": "Link copied",
+        "copy_failed": "Copy failed"
+      },
+      "empty_state": {
+        "title": "Ready to start creating?",
+        "description": "Select a mode on the left, upload images or enter descriptions, and let AI create amazing visuals for you",
+        "feature_ai": "AI Intelligence",
+        "feature_speed": "Ultra-fast Generation",
+        "feature_quality": "High Quality"
+      },
+      "progress_state": {
+        "title": "AI is creating...",
+        "description": "Please wait a moment, something amazing is coming",
+        "task_id": "Task ID: {taskId}"
+      },
+      "error_state": {
+        "title": "Generation failed",
+        "default_message": "Sorry, there was an issue during image generation. Please try again later. If the problem persists, please contact our technical support team.",
+        "support_message": "If the problem persists, our technical support team will help you",
+        "retry_button": "Try again",
+        "contact_support": "Contact support",
+        "support_email_text": "Technical support email:",
+        "email_subject": "Gempix2 - Technical support request",
+        "email_body": "Hello,\\n\\nI encountered an issue while using Gempix2:\\n\\nError message: {title}\\nDetailed description: {message}\\n\\nPlease assist with resolution, thank you!\\n\\nUser"
+      },
+      "image_card": {
+        "image_load_failed": "Image loading failed",
+        "image_number": "#{number}",
+        "from_link": "From link"
+      },
+      "image_action_bar": {
+        "download": "Download",
+        "enhance": "Image Enhancement",
+        "continue_edit": "Edit Again",
+        "image_to_video": "Image to Video",
+        "image_not_found": "Image not found",
+        "invalid_image_url": "Invalid image URL",
+        "continue_edit_coming_soon": "Continue editing feature coming soon",
+        "use_veo3": "Use Veo 3",
+        "use_sora2": "Use Sora 2",
+        "use_wan25": "Use Wan 2.5"
+      },
+      "ai_description": {
+        "title": "AI Generated Description"
+      },
+      "action_buttons": {
+        "download": "Download",
+        "copy_link": "Copy Link",
+        "copied": "Copied",
+        "image_to_video": "Image to Video",
+        "view_large": "View Large"
+      },
+      "image_preview": {
+        "download_success": "Image downloaded successfully",
+        "download_failed": "Download failed",
+        "link_copied": "Link copied",
+        "copy_failed": "Copy failed",
+        "click_to_view": "Click to view large image"
+      },
+      "image_viewer": {
+        "image_not_found": "Image not found",
+        "invalid_image_url": "Invalid image URL",
+        "download": "Download",
+        "enhance": "Image Enhancement",
+        "close": "Close",
+        "prev_image": "Previous",
+        "next_image": "Next",
+        "image_count": "{current} / {total}",
+        "use_veo3": "Use Veo 3",
+        "use_sora2": "Use Sora 2",
+        "use_wan25": "Use Wan 2.5",
+        "image_to_video": "Image to Video"
+      },
+      "quick_prompts": {
+        "image_mode": {
+          "enhance_details": "Enhance Details",
+          "enhance_details_prompt": "enhance details, high definition, fine",
+          "art_style": "Art Style",
+          "art_style_prompt": "art style, oil painting texture",
+          "anime_style": "Anime Style",
+          "anime_style_prompt": "anime style, 2D",
+          "realistic_photo": "Realistic Photo",
+          "realistic_photo_prompt": "realistic style, photographic texture"
+        },
+        "text_mode": {
+          "art_creation": "Art Creation",
+          "art_creation_prompt": "art style, high quality, exquisite",
+          "realistic_style": "Realistic Style",
+          "realistic_style_prompt": "realistic style, high-definition photography",
+          "sci_fi": "Sci-Fi Future",
+          "sci_fi_prompt": "sci-fi style, futuristic",
+          "creative_design": "Creative Design",
+          "creative_design_prompt": "creative design, unique perspective"
+        }
+      }
+    },
+    "hooks": {
+      "file_validation": {
+        "unsupported_format": "Unsupported file format, only JPG, PNG, WebP are supported",
+        "file_too_large": "File size is {sizeMB}MB, exceeds 10MB limit",
+        "image_applied": "Image applied to reference area",
+        "invalid_image_url": "Invalid image URL"
+      }
+    },
+    "messages": {
+      "starting_upload": "Starting to upload {count} images...",
+      "upload_success": "All images uploaded successfully!",
+      "upload_failed": "Image upload failed",
+      "upload_image_failed": "Failed to upload image {filename}",
+      "submit_failed": "Failed to submit task",
+      "task_submitted": "Task submitted, processing...",
+      "insufficient_credits": "Insufficient credits, please recharge and try again",
+      "generation_success": "Successfully generated {count} images!",
+      "get_results_failed": "Failed to get results",
+      "task_failed": "Task execution failed",
+      "max_images_warning": "Maximum 10 images allowed, automatically limited"
+    },
+    "validation": {
+      "please_enter_prompt": "Please enter a prompt",
+      "please_upload_image": "Please upload at least one image"
+    },
+    "prompts": {
+      "card_image_alt": "{title} - AI prompt example image{tags}"
+    }
+  }
+}

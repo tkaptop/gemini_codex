@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "title": "Gempix2 Showcase - Gempix2 AI Image Editor",
+    "description": "Explore amazing AI-generated artworks and creative designs powered by advanced image generation and editing technology"
+  },
+  "showcase": {
+    "name": "showcase",
+    "title": "Gempix2 Showcase",
+    "description": "Explore various types of image processing effects and experience the power of professional AI technology.",
+    "subtitle": "Unleash your creativity and explore more ways to play, not just the cases below.",
+    "items": [
+      {
+        "id": "background-replacement",
+        "category": "Background Replacement",
+        "title": "Background Replacement",
+        "description": "Separate the subject from the original background and replace it with a new, more creative scene.",
+        "original": "https://cdn.gempix2.site/showcase/1.webp",
+        "effects": [
+          {
+            "id": "vintage-desk",
+            "name": "Vintage Tool Desk",
+            "image": "https://cdn.gempix2.site/showcase/1-1.png",
+            "prompt": "Change background to a vast grassland",
+            "description": "Place subject in a craftsman's workshop setting"
+          },
+          {
+            "id": "tropical-beach",
+            "name": "Tropical Beach",
+            "image": "https://cdn.gempix2.site/showcase/1-2.png",
+            "prompt": "Change background to a winding mountain road",
+            "description": "Sunny beach background with crystal clear water"
+          },
+          {
+            "id": "modern-office",
+            "name": "Modern Office",
+            "image": "https://cdn.gempix2.site/showcase/1-3.png",
+            "prompt": "Change the background to a retro tool workbench.",
+            "description": "Clean, minimalist office space"
+          }
+        ]
+      },
+      {
+        "id": "lighting-adjustment",
+        "category": "Lighting Adjustment",
+        "title": "Lighting Adjustment",
+        "description": "Adjust lighting effects with AI to change the mood and give your pictures a cinematic feel.",
+        "original": "https://cdn.gempix2.site/showcase/2.webp",
+        "effects": [
+          {
+            "id": "golden-hour",
+            "name": "Golden Hour",
+            "image": "https://cdn.gempix2.site/showcase/2-1.png",
+            "prompt": "Add warm sunlight effect",
+            "description": "Recreate magical golden hour lighting"
+          },
+          {
+            "id": "dramatic-shadows",
+            "name": "Dramatic Shadows",
+            "image": "https://cdn.gempix2.site/showcase/2-2.png",
+            "prompt": "Adjust to the cool tones of the 'blue hour'",
+            "description": "High contrast dramatic lighting"
+          },
+          {
+            "id": "soft-glow",
+            "name": "Soft Glow",
+            "image": "https://cdn.gempix2.site/showcase/2-3.png",
+            "prompt": "Switch to a night scene with point light sources",
+            "description": "Gentle, flattering light effect"
+          }
+        ]
+      },
+      {
+        "id": "style-conversion",
+        "category": "Style Conversion",
+        "title": "Style Conversion",
+        "description": "Transform your photos into different artistic styles with AI.",
+        "original": "https://cdn.gempix2.site/showcase/3.webp",
+        "effects": [
+          {
+            "id": "oil-painting",
+            "name": "Oil Painting",
+            "image": "https://cdn.gempix2.site/showcase/3-1.webp",
+            "prompt": "Convert to Japanese anime style",
+            "description": "Classic oil painting artistic effect"
+          },
+          {
+            "id": "watercolor",
+            "name": "Watercolor",
+            "image": "https://cdn.gempix2.site/showcase/3-2.webp",
+            "prompt": "Convert to a rich oil painting style",
+            "description": "Delicate watercolor art style"
+          },
+          {
+            "id": "anime",
+            "name": "Anime Style",
+            "image": "https://cdn.gempix2.site/showcase/3-3.webp",
+            "prompt": "Convert to a retro pixel art style",
+            "description": "Japanese anime character style"
+          }
+        ]
+      },
+      {
+        "id": "color-change",
+        "category": "Color Change",
+        "title": "Color Change",
+        "description": "Professional color grading to completely change the mood of your photos.",
+        "original": "https://cdn.gempix2.site/showcase/4.webp",
+        "effects": [
+          {
+            "id": "vibrant",
+            "name": "Vibrant Colors",
+            "image": "https://cdn.gempix2.site/showcase/4-1.png",
+            "prompt": "Change all green leaves to red",
+            "description": "Eye-catching vivid colors"
+          },
+          {
+            "id": "moody",
+            "name": "Moody Tones",
+            "image": "https://cdn.gempix2.site/showcase/4-2.png",
+            "prompt": "Change all green leaves to yellow",
+            "description": "Deep, atmospheric color grading"
+          },
+          {
+            "id": "vintage",
+            "name": "Vintage Film",
+            "image": "https://cdn.gempix2.site/showcase/4-3.png",
+            "prompt": "Change all green leaves to blue",
+            "description": "Classic film color palette"
+          }
+        ]
+      },
+      {
+        "id": "age-transformation",
+        "category": "Age Transformation",
+        "title": "Age Transformation",
+        "description": "See yourself at different ages with advanced AI technology.",
+        "original": "https://cdn.gempix2.site/showcase/5.webp",
+        "effects": [
+          {
+            "id": "younger",
+            "name": "10 Years Younger",
+            "image": "https://cdn.gempix2.site/showcase/5-1.webp",
+            "prompt": "Change age to 3 years old",
+            "description": "Natural age reduction effect"
+          },
+          {
+            "id": "teenage",
+            "name": "Teenage Years",
+            "image": "https://cdn.gempix2.site/showcase/5-2.webp",
+            "prompt": "Change age to 16 years old",
+            "description": "Youthful teenage look"
+          },
+          {
+            "id": "elderly",
+            "name": "Future You",
+            "image": "https://cdn.gempix2.site/showcase/5-3.webp",
+            "prompt": "Change age to 60 years old",
+            "description": "Natural aging simulation"
+          }
+        ]
+      }
+    ]
+  }
+}

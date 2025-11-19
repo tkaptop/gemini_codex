@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "title": "Gempix2 ショーケース - Gempix2 AI画像エディター",
+    "description": "Gempix2 AIで生成された素晴らしいアートワークとクリエイティブなデザインを探索し、先進的な画像生成と編集技術を体験"
+  },
+  "showcase": {
+    "name": "ショーケース",
+    "title": "Gempix2 ショーケース",
+    "description": "様々な画像処理効果を探索し、プロフェッショナルなAI技術の力を体験してください。",
+    "subtitle": "創造性を解き放ち、以下のケースに限らず、さらなる可能性を探求しましょう。",
+    "items": [
+      {
+        "id": "background-replacement",
+        "category": "背景の置き換え",
+        "title": "背景の置き換え",
+        "description": "被写体を元の背景から分離し、より創造的な新しいシーンに置き換えます。",
+        "original": "https://cdn.gempix2.site/showcase/1.webp",
+        "effects": [
+          {
+            "id": "vintage-desk",
+            "name": "ヴィンテージツールデスク",
+            "image": "https://cdn.gempix2.site/showcase/1-1.png",
+            "prompt": "背景を広大な草原に変更",
+            "description": "職人の工房の設定に被写体を配置"
+          },
+          {
+            "id": "tropical-beach",
+            "name": "トロピカルビーチ",
+            "image": "https://cdn.gempix2.site/showcase/1-2.png",
+            "prompt": "背景を曲がりくねった山道に変更",
+            "description": "透き通った水の晴れたビーチの背景"
+          },
+          {
+            "id": "modern-office",
+            "name": "モダンオフィス",
+            "image": "https://cdn.gempix2.site/showcase/1-3.png",
+            "prompt": "背景をレトロなツールワークベンチに変更",
+            "description": "清潔でミニマリストなオフィススペース"
+          }
+        ]
+      },
+      {
+        "id": "lighting-adjustment",
+        "category": "照明調整",
+        "title": "照明調整",
+        "description": "AIで照明効果を調整し、雰囲気を変えて写真に映画的な感覚を与えます。",
+        "original": "https://cdn.gempix2.site/showcase/2.webp",
+        "effects": [
+          {
+            "id": "golden-hour",
+            "name": "ゴールデンアワー",
+            "image": "https://cdn.gempix2.site/showcase/2-1.png",
+            "prompt": "暖かい日光の効果を追加",
+            "description": "魔法のゴールデンアワーの照明を再現"
+          },
+          {
+            "id": "dramatic-shadows",
+            "name": "ドラマチックな影",
+            "image": "https://cdn.gempix2.site/showcase/2-2.png",
+            "prompt": "'ブルーアワー'のクールトーンに調整",
+            "description": "高コントラストのドラマチックな照明"
+          },
+          {
+            "id": "soft-glow",
+            "name": "ソフトグロー",
+            "image": "https://cdn.gempix2.site/showcase/2-3.png",
+            "prompt": "ポイント光源のある夜景に切り替え",
+            "description": "優しく魅力的な光の効果"
+          }
+        ]
+      },
+      {
+        "id": "style-conversion",
+        "category": "スタイル変換",
+        "title": "スタイル変換",
+        "description": "AIで写真を異なる芸術的なスタイルに変換します。",
+        "original": "https://cdn.gempix2.site/showcase/3.webp",
+        "effects": [
+          {
+            "id": "oil-painting",
+            "name": "油絵",
+            "image": "https://cdn.gempix2.site/showcase/3-1.webp",
+            "prompt": "日本のアニメスタイルに変換",
+            "description": "クラシックな油絵の芸術的効果"
+          },
+          {
+            "id": "watercolor",
+            "name": "水彩画",
+            "image": "https://cdn.gempix2.site/showcase/3-2.webp",
+            "prompt": "豊かな油絵スタイルに変換",
+            "description": "繊細な水彩画アートスタイル"
+          },
+          {
+            "id": "anime",
+            "name": "アニメスタイル",
+            "image": "https://cdn.gempix2.site/showcase/3-3.webp",
+            "prompt": "レトロピクセルアートスタイルに変換",
+            "description": "日本のアニメキャラクタースタイル"
+          }
+        ]
+      },
+      {
+        "id": "color-change",
+        "category": "カラーチェンジ",
+        "title": "カラーチェンジ",
+        "description": "プロフェッショナルなカラーグレーディングで写真の雰囲気を完全に変更します。",
+        "original": "https://cdn.gempix2.site/showcase/4.webp",
+        "effects": [
+          {
+            "id": "vibrant",
+            "name": "ビビッドカラー",
+            "image": "https://cdn.gempix2.site/showcase/4-1.png",
+            "prompt": "すべての緑の葉を赤に変更",
+            "description": "目を引く鮮やかな色彩"
+          },
+          {
+            "id": "moody",
+            "name": "ムーディートーン",
+            "image": "https://cdn.gempix2.site/showcase/4-2.png",
+            "prompt": "すべての緑の葉を黄色に変更",
+            "description": "深く、雰囲気のあるカラーグレーディング"
+          },
+          {
+            "id": "vintage",
+            "name": "ヴィンテージフィルム",
+            "image": "https://cdn.gempix2.site/showcase/4-3.png",
+            "prompt": "すべての緑の葉を青に変更",
+            "description": "クラシックなフィルムカラーパレット"
+          }
+        ]
+      },
+      {
+        "id": "age-transformation",
+        "category": "年齢変換",
+        "title": "年齢変換",
+        "description": "高度なAI技術で異なる年齢の自分を見ることができます。",
+        "original": "https://cdn.gempix2.site/showcase/5.webp",
+        "effects": [
+          {
+            "id": "younger",
+            "name": "10歳若く",
+            "image": "https://cdn.gempix2.site/showcase/5-1.webp",
+            "prompt": "年齢を3歳に変更",
+            "description": "自然な若返り効果"
+          },
+          {
+            "id": "teenage",
+            "name": "ティーンエイジャー",
+            "image": "https://cdn.gempix2.site/showcase/5-2.webp",
+            "prompt": "年齢を16歳に変更",
+            "description": "若々しいティーンエイジャーの外観"
+          },
+          {
+            "id": "elderly",
+            "name": "未来のあなた",
+            "image": "https://cdn.gempix2.site/showcase/5-3.webp",
+            "prompt": "年齢を60歳に変更",
+            "description": "自然な老化シミュレーション"
+          }
+        ]
+      }
+    ]
+  }
+}

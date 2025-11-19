@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "title": "Prompt Gallery - Explore AI Image Prompts | Gempix2",
+    "description": "Explore 400+ curated AI image generation prompts with examples. Find inspiration for your next creative project.",
+    "keywords": "AI prompts, image generation, GPT-4o, prompt gallery, AI art"
+  },
+  "hero": {
+    "title": "AI Image Generation Prompts Gallery",
+    "description": "Explore 400+ curated AI image generation prompts for Gempix2. Find creative examples for character design, scenes, and artistic styles."
+  },
+  "card_image_alt": "{title}{tags}",
+  "gallery": {
+    "stats": "Showing {count} of {total} prompts",
+    "loading": "Loading prompts...",
+    "errorTitle": "Failed to load prompts",
+    "errorDescription": "We couldn't load the prompt library. Please try again.",
+    "retry": "Retry",
+    "empty": "No prompts found matching your criteria",
+    "search": {
+      "placeholder": "Search by case number, title, or prompt...",
+      "clear": "Clear search",
+      "input_label": "Search prompts"
+    },
+    "filter": {
+      "selectedLabel": "Selected:",
+      "clearAll": "Clear all",
+      "tagsLabel": "Tags:",
+      "removeTag": "Remove {tag}"
+    },
+    "modal": {
+      "caseTitle": "Case #{id}: {title}",
+      "sourceLabel": "Source",
+      "imagesTitle": "Example Images",
+      "promptsTitle": "Prompts",
+      "promptLabel": "Prompt {index}",
+      "copy": "Copy",
+      "copied": "Copied",
+      "copyAria": "Copy prompt {index}",
+      "descriptionTitle": "Description",
+      "notesTitle": "Notes"
+    }
+  },
+  "copy": {
+    "success": "Prompt copied",
+    "failure": "Failed to copy prompt"
+  },
+  "tools": {
+    "ariaLabel": "Related AI tools",
+    "gemini3": "Gemini 3 AI Assistant",
+    "gemini30": "Gemini 3.0 Pro Features",
+    "imageGuide": "Image Generation Guide",
+    "compare": "Compare Gemini 3 vs GPT-4o"
+  },
+  "detail": {
+    "backToGallery": "Back to Gallery",
+    "source": "Source",
+    "recreateButton": "Recreate in Gempix2",
+    "share": {
+      "button": "Share",
+      "buttonLabel": "Share this prompt",
+      "copied": "Link Copied",
+      "linkCopied": "Link copied to clipboard",
+      "success": "Shared successfully",
+      "failed": "Failed to share"
+    },
+    "modelLabel": "Model",
+    "modelValue": "Gempix2 (runs on the community \"Nano Banana 2\" stack)",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "sections": {
+      "prompt": "Prompt",
+      "description": "Description",
+      "notes": "Notes",
+      "relatedPrompts": "Related Prompts"
+    },
+    "navigation": {
+      "previous": "Previous",
+      "next": "Next"
+    }
+  }
+}

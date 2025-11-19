@@ -1,0 +1,25 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /privacy-policy
+Disallow: /terms-of-service
+Allow: /
+
+# AI Crawlers - Allow full access
+User-agent: GPTBot
+User-agent: Claude-Web
+User-agent: Anthropic-AI
+User-agent: PerplexityBot
+User-agent: GoogleOther
+User-agent: DuckAssistBot
+Allow: /
+
+# Google crawlers
+User-agent: AdsBot-Google
+User-agent: Googlebot
+User-agent: Googlebot-Image
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.gempix2.site/sitemap.xml
+
+

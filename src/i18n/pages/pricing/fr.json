@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "title": "Gempix2 Tarifs - Gempix2 Éditeur d'Images IA",
+    "description": "Choisissez le plan parfait pour vos besoins de génération d'images IA."
+  },
+  "pricing": {
+    "name": "pricing",
+    "label": "Tarifs",
+    "title": "Tarification simple et transparente de Gempix2",
+    "description": "Choisissez le plan parfait pour vos besoins de création d'images IA.",
+    "save_yearly": "Économisez 50%",
+    "cancel_anytime": "Annuler à tout moment",
+    "cancel_subscription_text": "Pour annuler l'abonnement, veuillez contacter l'e-mail de support:",
+    "trial_pack_limit_error": "Le pack de crédits d'essai ne peut être acheté qu'une seule fois",
+    "mo": "mois",
+    "year": "An",
+    "groups": [
+      { "name": "monthly", "title": "Mensuel" },
+      { "name": "yearly", "title": "Annuel" },
+      { "name": "credits-packs", "title": "Packs de Crédits" }
+    ],
+    "items": [
+      {
+        "title": "Débutant",
+        "description": "Parfait pour essayer la génération d'images IA et les petits projets.",
+        "features_title": "Ce qui est inclus",
+        "features": [
+          "200 crédits de génération IA par mois",
+          "Modèles haute qualité Gempix2",
+          "Génération texte vers image",
+          "Fonctionnalités d'édition d'image",
+          "Service d'amélioration d'image 3x,4x",
+          "Vitesse de génération standard",
+          "Taux de réussite standard",
+          "Support client standard"
+        ],
+        "group": "monthly",
+        "interval": "month",
+        "amount": 999,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$9.99",
+        "original_price": "$19.99",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "Parfait pour expérimenter la génération et l'édition d'images IA.",
+        "button": {
+          "title": "S'abonner Débutant",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_Ssq8Ltsmjqeiw9",
+        "product_name": "Gempix2 Débutant",
+        "credits": 200,
+        "valid_months": 1
+      },
+      {
+        "title": "Pro",
+        "description": "Idéal pour les créateurs, designers et professionnels du contenu.",
+        "label": "Le plus populaire",
+        "features_title": "Tout dans Débutant",
+        "features": [
+          "700 crédits de génération IA par mois",
+          "Vitesse de traitement prioritaire",
+          "Taux de réussite élevé",
+          "Fonctionnalités d'édition avancées",
+          "Génération multi-références",
+          "Canal de téléchargement haute vitesse",
+          "Support client prioritaire",
+          "Licence commerciale"
+        ],
+        "group": "monthly",
+        "interval": "month",
+        "amount": 2399,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$23.99",
+        "original_price": "$89.99",
+        "unit": "USD",
+        "is_featured": true,
+        "tip": "🔥 Offre limitée ! Obtenez Pro maintenant",
+        "button": {
+          "title": "S'abonner Pro",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_SsqBq5Jdkmjp4l",
+        "product_name": "Gempix2 Pro",
+        "credits": 700,
+        "valid_months": 1
+      },
+      {
+        "title": "Premium",
+        "description": "Pour les équipes, agences et utilisation commerciale intensive.",
+        "features_title": "Tout dans Pro",
+        "features": [
+          "2000 crédits de génération IA par mois",
+          "Vitesse de génération la plus rapide",
+          "Capacités d'édition IA les plus avancées",
+          "Stockage d'images permanent",
+          "Gestionnaire de compte dédié"
+        ],
+        "group": "monthly",
+        "interval": "month",
+        "amount": 8999,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$89.99",
+        "original_price": "$179.99",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "Parfait pour les équipes et les entreprises",
+        "button": {
+          "title": "S'abonner Premium",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_SsqCkSQWvK8NzC",
+        "product_name": "Gempix2 Premium",
+        "credits": 2000,
+        "valid_months": 1
+      },
+      {
+        "title": "Débutant",
+        "description": "Parfait pour essayer la génération d'images IA et les petits projets.",
+        "features_title": "Ce qui est inclus",
+        "features": [
+          "2400 crédits de génération IA par an",
+          "Modèles haute qualité Gempix2",
+          "Génération texte vers image",
+          "Fonctionnalités d'édition d'image",
+          "Service d'amélioration d'image 3x,4x",
+          "Vitesse de génération standard",
+          "Taux de réussite standard",
+          "Support client standard",
+          "Licence commerciale"
+        ],
+        "group": "yearly",
+        "interval": "year",
+        "amount": 9588,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$7.99",
+        "discount_price": "$4.99",
+        "discount_amount": 5988,
+        "original_price": "$19.99",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "Parfait pour expérimenter la génération et l'édition d'images IA.",
+        "button": {
+          "title": "S'abonner Débutant",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_Ssq8Ltsmjqeiw9-2",
+        "product_name": "Gempix2 Débutant Annuel",
+        "credits": 2400,
+        "valid_months": 12
+      },
+      {
+        "title": "Pro",
+        "description": "Idéal pour les créateurs, designers et professionnels du contenu.",
+        "label": "Le plus populaire",
+        "features_title": "Tout dans Débutant",
+        "features": [
+          "8400 crédits de génération IA par an",
+          "Vitesse de traitement prioritaire",
+          "Taux de réussite élevé",
+          "Fonctionnalités d'édition avancées",
+          "Génération multi-références",
+          "Canal de téléchargement haute vitesse",
+          "Support client prioritaire"
+        ],
+        "group": "yearly",
+        "interval": "year",
+        "amount": 20388,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$16.99",
+        "discount_price": "$11.99",
+        "discount_amount": 14388,
+        "original_price": "$89.99",
+        "unit": "USD",
+        "is_featured": true,
+        "tip": "🔥 Offre limitée ! Obtenez Pro maintenant",
+        "button": {
+          "title": "S'abonner Pro",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_SsqBq5Jdkmjp4l1-2",
+        "product_name": "Gempix2 Pro Annuel",
+        "credits": 8400,
+        "valid_months": 12
+      },
+      {
+        "title": "Premium",
+        "description": "Pour les équipes, agences et utilisation commerciale intensive.",
+        "features_title": "Tout dans Pro",
+        "features": [
+          "30000 crédits de génération IA par an",
+          "Vitesse de génération la plus rapide",
+          "Capacités d'édition IA les plus avancées",
+          "Stockage d'images permanent",
+          "Gestionnaire de compte dédié"
+        ],
+        "group": "yearly",
+        "interval": "year",
+        "amount": 83988,
+        "cn_amount": 0,
+        "currency": "USD",
+        "price": "$69.99",
+        "discount_price": "$44.99",
+        "discount_amount": 53988,
+        "original_price": "$179.99",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "Parfait pour les équipes et les entreprises",
+        "button": {
+          "title": "S'abonner Premium",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "prod_SsqCkSQWvK8NzC-2",
+        "product_name": "Gempix2 Premium Annuel",
+        "credits": 30000,
+        "valid_months": 12
+      },
+      {
+        "title": "Pack de Crédits Débutant",
+        "description": "Achat unique, crédits n'expirent jamais",
+        "features_title": "Ce qui est inclus",
+        "features": [
+          "500 crédits de génération IA",
+          "N'expirent jamais",
+          "Débloquer toutes les fonctionnalités"
+        ],
+        "group": "credits-packs",
+        "interval": "one-time",
+        "amount": 2999,
+        "cn_amount": 19999,
+        "currency": "USD",
+        "price": "$29.99",
+        "original_price": "$40",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "🔥 Offre limitée !",
+        "button": {
+          "title": "Acheter maintenant",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "credits-packs-1",
+        "product_name": "Gempix2 Pack de Crédits Débutant",
+        "credits": 500,
+        "valid_months": 12
+      },
+      {
+        "title": "Pack de Crédits Professionnel",
+        "description": "Achat unique, crédits n'expirent jamais",
+        "features_title": "Ce qui est inclus",
+        "features": [
+          "2000 crédits de génération IA",
+          "N'expirent jamais",
+          "Débloquer toutes les fonctionnalités"
+        ],
+        "group": "credits-packs",
+        "interval": "one-time",
+        "amount": 9999,
+        "cn_amount": 69900,
+        "currency": "USD",
+        "price": "$99.99",
+        "original_price": "$120",
+        "unit": "USD",
+        "is_featured": true,
+        "tip": "🔥 Offre limitée !",
+        "button": {
+          "title": "Acheter maintenant",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "credits-packs-2",
+        "product_name": "Gempix2 Pack de Crédits Professionnel",
+        "credits": 2000,
+        "valid_months": 12
+      },
+      {
+        "title": "Pack de Crédits Premium",
+        "description": "Achat unique, crédits n'expirent jamais, parfait pour les designers professionnels",
+        "features_title": "Ce qui est inclus",
+        "features": [
+          "7000 crédits de génération IA",
+          "N'expirent jamais",
+          "Débloquer toutes les fonctionnalités",
+          "Support client prioritaire",
+          "Qualité de génération professionnelle"
+        ],
+        "group": "credits-packs",
+        "interval": "one-time",
+        "amount": 23000,
+        "cn_amount": 175000,
+        "currency": "USD",
+        "price": "$230",
+        "original_price": "$400",
+        "unit": "USD",
+        "is_featured": false,
+        "tip": "🔥 Offre limitée !",
+        "button": {
+          "title": "Acheter maintenant",
+          "url": "/#pricing",
+          "icon": "RiFlashlightFill"
+        },
+        "product_id": "credits-packs-3",
+        "product_name": "Gempix2 Pack de Crédits Premium",
+        "credits": 7000,
+        "valid_months": 12
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "Questions Fréquentes",
+    "title": "Questions Fréquentes sur les Paiements Gempix2",
+    "description": "D'autres questions sur les paiements Gempix2 ? Contactez notre équipe de support pour obtenir de l'aide.",
+    "items": [
+      {
+        "title": "Quels modes de paiement sont pris en charge ?",
+        "description": "Nous acceptons les cartes de crédit telles que Visa, MasterCard, American Express, ainsi que divers autres modes de paiement comme Alipay et WeChat Pay. Tous les paiements sont traités via des plateformes de paiement tierces sécurisées pour assurer la sécurité de vos informations. Si vous souhaitez payer avec des cryptomonnaies, veuillez contacter notre email de support."
+      },
+      {
+        "title": "Que sont les abonnements annuels, mensuels et les packs de crédits ?",
+        "description": "Les abonnements annuels, mensuels et les packs de crédits sont les plans de paiement de Gempix2. L'abonnement annuel est un paiement unique pour toute l'année avec renouvellement automatique annuel, fournissant tous les crédits de l'année en une fois valables pour un an, avec 50% d'économies en choisissant l'abonnement annuel. L'abonnement mensuel se recharge automatiquement chaque mois, avec des crédits valables pour un mois. Les packs de crédits sont des achats uniques qui n'expirent jamais et ne se renouvellent pas automatiquement. Veuillez vérifier le montant réel du paiement lors du paiement et choisir le plan approprié."
+      },
+      {
+        "title": "Que sont les crédits et comment les utiliser ?",
+        "description": "4 crédits permettent de générer 1 image de haute qualité. Les crédits sont automatiquement rechargés au début de chaque cycle de facturation. Pour les plans d'abonnement mensuel, les crédits sont rechargés automatiquement chaque mois et sont valables pour un mois. Pour les plans d'abonnement annuel, vous payez les frais annuels en une fois et recevez les crédits pour une année entière, valables pendant un an. Vous pouvez également acheter des packs de crédits ponctuels, ces crédits n'expirent jamais."
+      },
+      {
+        "title": "Comment gérer ou annuler mon abonnement ?",
+        "description": "Vous pouvez contacter notre équipe de support à support@gempix2.site pour annuler votre abonnement. Nous répondons généralement dans un délai d'un jour ouvrable. Merci de votre compréhension et de votre soutien."
+      },
+      {
+        "title": "Comment utiliser WeChat ou Alipay pour payer ?",
+        "description": "Dans la barre de navigation supérieure du site web, changez la langue en chinois, et vous pourrez voir les canaux de paiement WeChat et Alipay sur la page de tarification."
+      },
+      {
+        "title": "Les crédits non utilisés s'accumulent-ils ?",
+        "description": "À l'exception du pack de crédits d'essai, tous les autres packs de crédits achetés en une fois sont valides de manière permanente. Les crédits d'abonnement sont mis à jour mensuellement. Pour les plans d'abonnement mensuel, les crédits non utilisés du mois précédent sont réinitialisés lors du renouvellement de l'abonnement. Pour les plans d'abonnement annuel, les crédits non utilisés de l'année précédente sont réinitialisés lors du renouvellement de l'abonnement. Nous recommandons de choisir un plan approprié selon vos besoins d'utilisation réels."
+      },
+      {
+        "title": "Comment acheter plus de crédits ?",
+        "description": "Il existe deux façons d'obtenir des crédits supplémentaires : acheter des packs de crédits ponctuels, qui vous donnent des crédits immédiatement et n'expirent jamais, peuvent être achetés plusieurs fois et utilisés en combinaison avec votre abonnement existant. Si vous avez besoin de plus gros volumes de crédits, veuillez contacter support@gempix2.site, nous vous fournirons un plan de crédits adapté."
+      },
+      {
+        "title": "Puis-je changer de plan d'abonnement à tout moment ?",
+        "description": "Oui, vous pouvez upgrader ou downgrader votre plan à tout moment. Pour changer d'abonnement, veuillez d'abord contacter le service client support@gempix2.site pour annuler votre abonnement, puis vous réabonner au nouveau plan."
+      },
+      {
+        "title": "Qu'est-ce que Gempix2 exactement ?",
+        "description": "Gempix2 est une plateforme révolutionnaire de génération et d'édition d'images pilotée par l'IA. Contrairement aux modèles traditionnels, elle combine les entrées texte et image pour une création visuelle transparente, offrant des fonctionnalités puissantes telles que le maintien de la cohérence des personnages, l'édition de scènes et la fusion de références multi-images."
+      },
+      {
+        "title": "Gempix2 convient-il au travail créatif professionnel ?",
+        "description": "Absolument ! Gempix2 est conçu pour les professionnels créatifs, offrant un rendu réaliste et des résultats de qualité professionnelle. De nombreux artistes professionnels, designers, créateurs de contenu et agences créatives s'appuient sur Gempix2 pour leurs flux de travail quotidiens et leurs projets clients."
+      },
+      {
+        "title": "Comment contacter l'équipe de support client ?",
+        "description": "Si vous avez des questions, veuillez envoyer un email à support@gempix2.site, notre équipe vous répondra dès que possible. Généralement, vous recevrez une réponse dans un délai d'un jour ouvrable."
+      }
+    ]
+  }
+}

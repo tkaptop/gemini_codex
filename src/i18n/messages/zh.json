@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "title": "Gempix2 - AI图像生成器 | 通过对话编辑图片",
+    "description": "Gempix2 是一个AI驱动的图像生成器，让您通过对话聊天来创建和编辑图片。Flux Kontext 的强大替代品。",
+    "keywords": ""
+  },
+  "user": {
+    "sign_in": "登录",
+    "sign_out": "退出登录",
+    "credits": "额度",
+    "api_keys": "API 密钥",
+    "my_orders": "我的订单",
+    "user_center": "用户中心",
+    "admin_system": "管理后台"
+  },
+  "sign_modal": {
+    "sign_in_title": "登录",
+    "sign_in_description": "登录您的账户",
+    "sign_up_title": "注册",
+    "sign_up_description": "创建新账户",
+    "login_slogan": "立即获得10积分！",
+    "email": "邮箱",
+    "email_title": "邮箱",
+    "email_placeholder": "请输入您的邮箱",
+    "password_title": "密码",
+    "password_placeholder": "请输入您的密码",
+    "forgot_password": "忘记密码？",
+    "or": "或",
+    "continue": "继续",
+    "no_account": "还没有账户？",
+    "email_sign_in": "使用邮箱登录",
+    "google_sign_in": "使用 Google 登录",
+    "github_sign_in": "使用 GitHub 登录",
+    "send_magic_link": "发送登录链接",
+    "sending": "发送中...",
+    "email_sent": "请查看您的邮箱，我们已发送登录链接！",
+    "email_required": "请输入您的邮箱",
+    "code_required": "请输入邮箱和验证码",
+    "code_sent": "验证码已发送到您的邮箱",
+    "enter_email": "输入您的邮箱",
+    "enter_code": "输入验证码",
+    "send_code": "发送验证码",
+    "sending_code": "发送中...",
+    "verification_code": "验证码",
+    "resend_code": "重新发送",
+    "resend_in": "重新发送倒计时",
+    "sign_in": "登录",
+    "signing_in": "登录中...",
+    "back": "返回",
+    "invalid_code": "验证码错误",
+    "code_expired": "验证码已过期或不存在",
+    "sign_in_failed": "登录失败，请重试",
+    "close_title": "关闭",
+    "cancel_title": "取消",
+    "terms_text": "继续即表示您同意我们的",
+    "terms_of_service": "服务条款",
+    "and": "和",
+    "privacy_policy": "隐私政策"
+  },
+  "my_orders": {
+    "title": "我的订单",
+    "description": "您购买的订单记录。",
+    "no_orders": "未找到订单",
+    "tip": "",
+    "activate_order": "激活订单",
+    "actived": "已激活",
+    "join_discord": "加入 Discord",
+    "read_docs": "阅读文档",
+    "table": {
+      "order_no": "订单号",
+      "email": "邮箱",
+      "product_name": "产品名称",
+      "amount": "金额",
+      "paid_at": "支付时间",
+      "github_username": "GitHub 用户名",
+      "status": "状态"
+    }
+  },
+  "my_credits": {
+    "title": "我的积分",
+    "left_tip": "剩余积分: {left_credits}",
+    "no_credits": "没有积分记录",
+    "recharge": "充值",
+    "table": {
+      "trans_no": "交易号",
+      "trans_type": "交易类型",
+      "credits": "积分",
+      "updated_at": "更新时间",
+      "status": "状态"
+    }
+  },
+  "api_keys": {
+    "title": "API 密钥",
+    "tip": "请妥善保管您的 API 密钥，避免泄露",
+    "no_api_keys": "没有 API 密钥",
+    "create_api_key": "创建 API 密钥",
+    "table": {
+      "name": "名称",
+      "key": "密钥",
+      "created_at": "创建时间"
+    },
+    "form": {
+      "name": "名称",
+      "name_placeholder": "API 密钥名称",
+      "submit": "提交"
+    }
+  },
+  "blog": {
+    "title": "博客",
+    "description": "最新的新闻、资源和更新",
+    "read_more_text": "阅读更多"
+  },
+  "my_invites": {
+    "title": "我的邀请",
+    "description": "查看您的邀请记录",
+    "no_invites": "未找到邀请记录",
+    "my_invite_link": "我的邀请链接",
+    "edit_invite_link": "编辑邀请链接",
+    "copy_invite_link": "复制邀请链接",
+    "invite_code": "邀请码",
+    "invite_tip": "每邀请 1 位朋友购买，奖励 $50。",
+    "invite_balance": "邀请奖励余额",
+    "total_invite_count": "总邀请人数",
+    "total_paid_count": "已充值人数",
+    "total_award_amount": "总奖励金额",
+    "update_invite_code": "设置邀请码",
+    "update_invite_code_tip": "输入你的自定义邀请码",
+    "update_invite_button": "保存",
+    "no_orders": "你需要先购买产品才能邀请朋友",
+    "no_affiliates": "你暂无邀请朋友的权限，请联系我们申请开通。",
+    "table": {
+      "invite_time": "邀请时间",
+      "invite_user": "邀请用户",
+      "status": "状态",
+      "reward_percent": "奖励比例",
+      "reward_amount": "奖励金额",
+      "pending": "已注册，未支付",
+      "completed": "已支付"
+    }
+  },
+  "feedback": {
+    "title": "反馈",
+    "description": "我们很乐意听取您对产品的看法或如何改进产品体验。",
+    "submit": "提交",
+    "loading": "提交中...",
+    "contact_tip": "其他联系方式",
+    "rating_tip": "您对我们的产品有什么看法？",
+    "placeholder": "在这里留下您的反馈..."
+  },
+  "pricing": {
+    "most_popular": "最受欢迎"
+  },
+  "announcement": {
+    "banner": {
+      "text": "🎉 Gempix2 即将发布!折扣即将结束!",
+      "button": "立即查看"
+    }
+  },
+  "pages": {
+    "landing": {
+      "comparison": {
+        "label": "世代对比",
+        "title": "社区昵称 \"Nano Banana\" 堆栈 vs Gempix2",
+        "description": "看看官方 Gempix2 服务（运行在社区称作 \"Nano Banana 2\" 的堆栈）如何在性能和功能上超越第一代 \"Nano Banana\" 工作流",
+        "headers": {
+          "feature": "功能特性",
+          "improvement": "提升幅度"
+        },
+        "features": {
+          "processing_speed": "处理速度",
+          "character_consistency": "角色一致性",
+          "detail_accuracy": "细节准确度",
+          "aspect_ratios": "支持比例数",
+          "max_iterations": "最大迭代次数",
+          "multi_image_fusion": "多图融合",
+          "text_rendering": "文本渲染"
+        },
+        "values": {
+          "good": "良好",
+          "excellent": "卓越",
+          "enhanced": "增强",
+          "standard": "标准",
+          "superior": "优越",
+          "improved": "提升",
+          "unlimited": "无限制",
+          "basic": "基础",
+          "advanced": "高级",
+          "upgraded": "升级",
+          "extended": "扩展"
+        },
+        "footer_note": "* 性能提升基于标准测试条件下的测量结果，实际效果可能因使用场景而异。"
+      }
+    }
+  },
+  "gempix2": {
+    "wrapper": {
+      "loading_text": "正在加载 Gempix2...",
+      "title": "Gempix2 AI 创作工作台",
+      "description": "使用先进的AI技术将您的想象力转化为美丽的图像"
+    },
+    "workspace": {
+      "mode_selector": {
+        "image_edit": "图片编辑",
+        "text_to_image": "文生图"
+      },
+      "operation_panel": {
+        "login_required": "请先登录",
+        "insufficient_credits": "积分不足，需要 {amount} 积分",
+        "please_enter_prompt": "请输入提示词",
+        "prompt_min_length": "请输入至少3个字符",
+        "generating": "生成中...",
+        "start_creation": "开始创作"
+      },
+      "image_upload": {
+        "title": "参考图片",
+        "add_image": "添加图片",
+        "max_size": "Max 10MB",
+        "supported_formats": "JPG, PNG, WebP",
+        "drag_to_upload": "释放文件",
+        "clear_all": "清空所有图片",
+        "error_invalid_type": "不支持的文件格式，仅支持 JPG、PNG、WebP",
+        "error_too_large": "文件大小超过 10MB 限制",
+        "error_too_many": "一次最多上传10个文件"
+      },
+      "prompt_input": {
+        "title": "描述你的想法",
+        "placeholder_image_edit": "描述你想要的效果，可以包含风格、色彩、构图等细节...",
+        "placeholder_text_to_image": "详细描述你想要生成的图片，包含主体、场景、风格、色彩等...",
+        "tip": "详细描述能获得更好效果"
+      },
+      "image_size_selector": {
+        "title": "图片比例",
+        "auto": "自动",
+        "ratios": {
+          "auto": "AI 自动决定比例",
+          "1:1": "社交头像",
+          "9:16": "竖屏短视频",
+          "16:9": "横屏视频",
+          "3:4": "竖版照片",
+          "4:3": "横版照片",
+          "3:2": "经典照片",
+          "2:3": "竖版经典",
+          "5:4": "中画幅",
+          "4:5": "竖版中画幅",
+          "21:9": "超宽屏"
+        }
+      },
+      "credits_display": {
+        "title": "积分消耗",
+        "unit": "积分"
+      },
+      "display_panel": {
+        "generation_complete": "生成完成！",
+        "regenerate": "重新生成",
+        "image_download_success": "图片下载成功",
+        "download_failed": "下载失败",
+        "link_copied": "链接已复制",
+        "copy_failed": "复制失败"
+      },
+      "empty_state": {
+        "title": "准备好开始创作了吗？",
+        "description": "在左侧选择模式，上传图片或输入描述，让 AI 为你创造精彩的视觉作品",
+        "feature_ai": "AI 智能",
+        "feature_speed": "极速生成",
+        "feature_quality": "高质量"
+      },
+      "progress_state": {
+        "title": "AI 正在创作中...",
+        "description": "请稍等片刻，精彩即将呈现",
+        "task_id": "任务 ID: {taskId}"
+      },
+      "error_state": {
+        "title": "生成失败",
+        "default_message": "很抱歉，图片生成过程中遇到了问题。请稍后重试，如果问题持续存在，请联系我们的技术支持团队。",
+        "support_message": "如果问题持续存在，我们的技术支持团队将为您提供帮助",
+        "retry_button": "重新尝试",
+        "contact_support": "联系支持",
+        "support_email_text": "技术支持邮箱：",
+        "email_subject": "Gempix2 - 技术支持请求",
+        "email_body": "您好，\n\n我在使用 Gempix2 时遇到了问题：\n\n错误信息：{title}\n详细描述：{message}\n\n请协助解决，谢谢！\n\n用户"
+      },
+      "image_card": {
+        "image_load_failed": "图片加载失败",
+        "image_number": "#{number}",
+        "from_link": "从链接"
+      },
+      "image_action_bar": {
+        "download": "下载",
+        "enhance": "图片增强",
+        "continue_edit": "再次编辑",
+        "image_to_video": "图生视频",
+        "image_not_found": "未找到图片",
+        "invalid_image_url": "无效的图片链接",
+        "continue_edit_coming_soon": "继续编辑功能即将上线",
+        "use_veo3": "使用 Veo 3",
+        "use_sora2": "使用 Sora 2",
+        "use_wan25": "使用 Wan 2.5"
+      },
+      "ai_description": {
+        "title": "AI 生成描述"
+      },
+      "action_buttons": {
+        "download": "下载",
+        "copy_link": "复制链接",
+        "copied": "已复制",
+        "image_to_video": "图生视频",
+        "view_large": "查看大图"
+      },
+      "image_preview": {
+        "download_success": "图片下载成功",
+        "download_failed": "下载失败",
+        "link_copied": "链接已复制",
+        "copy_failed": "复制失败",
+        "click_to_view": "点击查看大图"
+      },
+      "image_viewer": {
+        "image_not_found": "未找到图片",
+        "invalid_image_url": "无效的图片链接",
+        "download": "下载",
+        "enhance": "图片增强",
+        "close": "关闭",
+        "prev_image": "上一张",
+        "next_image": "下一张",
+        "image_count": "{current} / {total}",
+        "use_veo3": "使用 Veo 3",
+        "use_sora2": "使用 Sora 2",
+        "use_wan25": "使用 Wan 2.5",
+        "image_to_video": "图生视频"
+      },
+      "quick_prompts": {
+        "image_mode": {
+          "enhance_details": "增强细节",
+          "enhance_details_prompt": "增强细节，高清，精细",
+          "art_style": "艺术风格",
+          "art_style_prompt": "艺术风格，油画质感",
+          "anime_style": "动漫风格",
+          "anime_style_prompt": "动漫风格，二次元",
+          "realistic_photo": "写实照片",
+          "realistic_photo_prompt": "写实风格，摄影质感"
+        },
+        "text_mode": {
+          "art_creation": "艺术创作",
+          "art_creation_prompt": "艺术风格，高质量，精美",
+          "realistic_style": "写实风格",
+          "realistic_style_prompt": "写实风格，高清摄影",
+          "sci_fi": "科幻未来",
+          "sci_fi_prompt": "科幻风格，未来感",
+          "creative_design": "创意设计",
+          "creative_design_prompt": "创意设计，独特视角"
+        }
+      }
+    },
+    "hooks": {
+      "file_validation": {
+        "unsupported_format": "不支持的文件格式，仅支持 JPG、PNG、WebP",
+        "file_too_large": "文件大小为 {sizeMB}MB，超过 10MB 限制",
+        "image_applied": "图片已应用到参考区域",
+        "invalid_image_url": "无效的图片链接"
+      }
+    },
+    "messages": {
+      "starting_upload": "开始上传 {count} 张图片...",
+      "upload_success": "所有图片上传成功！",
+      "upload_failed": "图片上传失败",
+      "upload_image_failed": "上传图片 {filename} 失败",
+      "submit_failed": "提交任务失败",
+      "task_submitted": "任务已提交，正在处理...",
+      "insufficient_credits": "积分不足，请充值后重试",
+      "generation_success": "成功生成 {count} 张图片！",
+      "get_results_failed": "获取结果失败",
+      "task_failed": "任务执行失败",
+      "max_images_warning": "最多允许10张图片，已自动限制"
+    },
+    "validation": {
+      "please_enter_prompt": "请输入提示词",
+      "please_upload_image": "请至少上传一张图片"
+    },
+    "prompts": {
+      "card_image_alt": "{title} - AI生成提示词示例图片{tags}"
+    }
+  }
+}

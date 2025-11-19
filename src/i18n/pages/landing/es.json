@@ -1,0 +1,573 @@
+{
+  "template": "shipany-template-one",
+  "theme": "dark",
+  "header": {
+    "brand": {
+      "title": "Gempix2",
+      "logo": {
+        "srcLight": "/logo_light.svg",
+        "srcDark": "/logo_dark.svg",
+        "alt": "Gempix2"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Imagen IA",
+          "url": "/#gempix2",
+          "icon": "RiImageEditFill"
+        },
+        {
+          "title": "Ampliador de Imágenes",
+          "url": "/ai-image-upscaler",
+          "icon": "RiImageAiFill"
+        },
+        {
+          "title": "Generador de Vídeo AI",
+          "icon": "RiVideoLine",
+          "is_new": true,
+          "children": [
+            {
+              "title": "Veo 3",
+              "url": "/veo3",
+              "icon": "RiVideoLine",
+              "description": "Soporta sincronización de vídeo + audio con excelente física realista"
+            },
+            {
+              "title": "Veo 3.1",
+              "url": "/veo3-1",
+              "icon": "RiVideoLine",
+              "description": "Soporta vídeo de primer/último fotograma, generación con múltiples imágenes de referencia"
+            },
+            {
+              "title": "Sora 2",
+              "url": "/sora2",
+              "icon": "RiVideoLine",
+              "description": "Soporta generación de vídeos HD de 10s y 15s"
+            },
+            {
+              "title": "Wan 2.5",
+              "url": "/wan2-5",
+              "icon": "RiVideoLine",
+              "is_new": true,
+              "description": "Política de contenido relajada con alta libertad creativa"
+            }
+          ]
+        },
+        {
+          "title": "Historial de Creación",
+          "url": "/history",
+          "icon": "RiHistoryLine"
+        },
+        {
+          "title": "Precios",
+          "url": "/pricing",
+          "icon": "RiMoneyDollarCircleLine"
+        },
+        {
+          "title": "Galería",
+          "url": "/showcase",
+          "icon": "RiApps2Line"
+        },
+        {
+          "title": "Blog",
+          "url": "/posts",
+          "icon": "RiArticleLine"
+        },
+        {
+          "title": "Prompts",
+          "url": "/prompts",
+          "icon": "RiGalleryLine",
+          "is_new": true
+        }
+      ]
+    },
+    "show_sign": true,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "Gempix2",
+    "highlight_text": "Gempix2",
+    "description": "Gempix2 ofrece edición consistente de personajes y preservación de escenas que supera a Flux Kontext. La comunidad de IA suele referirse a esta misma pila con el apodo \"Nano Banana 2\", por eso lo mencionamos para que los usuarios identifiquen la tecnología aunque toda la experiencia se entregue con la marca oficial Gempix2.<br/>Elige Gempix2 para experimentar el futuro de la edición de imágenes con IA usando simples indicaciones de texto.",
+    "announcement": {
+      "label": "2025",
+      "title": "🚀 Prueba Gempix2 Gratis",
+      "url": "/#gempix2"
+    },
+    "tip": "🎨 Comienza a crear con Gempix2 hoy",
+    "buttons": [
+      {
+        "title": "Probar Gempix2",
+        "icon": "RiFlashlightFill",
+        "url": "/#gempix2",
+        "target": "_self",
+        "variant": "default"
+      },
+      {
+        "title": "Ver Ejemplos de Gempix2",
+        "icon": "RiBookOpenLine",
+        "url": "/showcase",
+        "target": "_self",
+        "variant": "outline"
+      }
+    ],
+    "show_happy_users": true,
+    "show_badge": false,
+    "subtitle": "Construido sobre la pila de IA de próxima generación que la comunidad apoda \"Nano Banana 2\" y se ofrece oficialmente como Gempix2"
+  },
+  "branding": {
+    "title": "ShipAny está construido sobre hombros de gigantes",
+    "items": [
+      {
+        "title": "Next.js",
+        "image": {
+          "src": "/imgs/logos/nextjs.svg",
+          "alt": "Next.js"
+        }
+      },
+      {
+        "title": "React",
+        "image": {
+          "src": "/imgs/logos/react.svg",
+          "alt": "React"
+        }
+      },
+      {
+        "title": "TailwindCSS",
+        "image": {
+          "src": "/imgs/logos/tailwindcss.svg",
+          "alt": "TailwindCSS"
+        }
+      },
+      {
+        "title": "Shadcn/UI",
+        "image": {
+          "src": "/imgs/logos/shadcn.svg",
+          "alt": "Shadcn/UI"
+        }
+      },
+      {
+        "title": "Vercel",
+        "image": {
+          "src": "/imgs/logos/vercel.svg",
+          "alt": "Vercel"
+        }
+      }
+    ]
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "Qué es Gempix2",
+    "label": "Introducción",
+    "description": "Gempix2 es una plataforma revolucionaria de generación y edición de imágenes impulsada por IA que ofrece edición consistente de personajes y preservación de escenas. A diferencia de los modelos tradicionales de texto a imagen, Gempix2 realiza generación de imágenes en contexto, permitiéndote usar tanto texto como imágenes mientras extrae y modifica conceptos visuales sin problemas.",
+    "image": {
+      "src": "/imgs/features/1.png"
+    },
+    "items": [
+      {
+        "title": "Generación de Imágenes en Contexto",
+        "description": "Gempix2 combina entradas de texto e imagen para la extracción y modificación fluida de conceptos visuales, entregando renderizados coherentes cada vez.",
+        "icon": "RiImageEditLine"
+      },
+      {
+        "title": "Consistencia de Personajes",
+        "description": "Gempix2 preserva elementos únicos como personajes de referencia u objetos a través de múltiples escenas y entornos con precisión incomparable.",
+        "icon": "RiUserHeartLine"
+      },
+      {
+        "title": "Precisión de Edición Local",
+        "description": "Realiza modificaciones específicas de elementos con Gempix2 sin afectar el resto de tu imagen, permitiendo edición instantánea flexible.",
+        "icon": "RiEditBoxLine"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "Por Qué Elegir Gempix2",
+    "label": "Beneficios",
+    "description": "Experimenta la edición de imágenes con IA de próxima generación con la tecnología revolucionaria de Gempix2 que supera a Flux Kontext en todos los aspectos.",
+    "items": [
+      {
+        "title": "Rendimiento Superior",
+        "description": "Gempix2 ofrece velocidades de inferencia más rápidas y resultados de mayor calidad que los modelos competidores, con consistencia de personajes y comprensión contextual de última generación.",
+        "icon": "RiRocketLine",
+        "image": {
+          "src": "/imgs/features/2.png"
+        }
+      },
+      {
+        "title": "Dominio de Edición Iterativa",
+        "description": "Con Gempix2, construye sobre ediciones anteriores a través de múltiples turnos mientras mantienes personajes, identidades, estilos y características distintivas en diferentes escenas.",
+        "icon": "RiRefreshLine",
+        "image": {
+          "src": "/imgs/features/3.png"
+        }
+      },
+      {
+        "title": "Innovación en Referencias de Estilo",
+        "description": "Gempix2 genera escenas novedosas mientras preserva estilos únicos de imágenes de referencia, dirigido por simples indicaciones de texto con latencia mínima.",
+        "icon": "RiPaletteLine",
+        "image": {
+          "src": "/imgs/features/4.png"
+        }
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "Cómo Crear con Gempix2",
+    "description": "Transforma tu flujo de trabajo creativo con Gempix2 en tres simples pasos:",
+    "image": {
+      "src": "/imgs/features/1.png"
+    },
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "Comienza con Gempix2",
+        "description": "Inicia tu viaje creativo con Gempix2 subiendo tu imagen de referencia o comenzando con una indicación de texto para generación instantánea.",
+        "image": {
+          "src": "/imgs/features/5.png"
+        }
+      },
+      {
+        "title": "Edita con Gempix2",
+        "description": "Usa las poderosas instrucciones de texto de Gempix2 para modificar tus imágenes: cambia expresiones, agrega objetos o transforma escenas completas sin problemas.",
+        "image": {
+          "src": "/imgs/features/6.png"
+        }
+      },
+      {
+        "title": "Itera con Gempix2",
+        "description": "Construye sobre ediciones anteriores con las capacidades iterativas de Gempix2, refinando tu creación paso a paso mientras preservas la consistencia del personaje.",
+        "image": {
+          "src": "/imgs/features/7.png"
+        }
+      },
+      {
+        "title": "Perfecciona con Gempix2",
+        "description": "Logra tu resultado deseado con la edición precisa de Gempix2: desde ajustes locales hasta transformaciones completas de escenas en tiempo mínimo.",
+        "image": {
+          "src": "/imgs/features/8.png"
+        }
+      }
+    ]
+  },
+  "comparison": {
+    "label": "Comparación de generaciones",
+    "title": "Apodo comunitario \"Nano Banana 1\" vs Gempix2",
+    "description": "Vea cómo el servicio oficial Gempix2, basado en la pila que la comunidad apoda \"Nano Banana 2\", supera los flujos de la primera generación \"Nano Banana 1\" con mejoras revolucionarias",
+    "headers": {
+      "feature": "Característica",
+      "improvement": "Mejora"
+    },
+    "features": {
+      "processing_speed": "Velocidad de procesamiento",
+      "character_consistency": "Consistencia de personajes",
+      "detail_accuracy": "Precisión de detalles",
+      "aspect_ratios": "Relaciones de aspecto soportadas",
+      "max_iterations": "Iteraciones máximas",
+      "multi_image_fusion": "Fusión de múltiples imágenes",
+      "text_rendering": "Capacidad de renderizado de texto"
+    },
+    "values": {
+      "good": "Bueno",
+      "excellent": "Excelente",
+      "enhanced": "Mejorado",
+      "standard": "Estándar",
+      "superior": "Superior",
+      "improved": "Optimizado",
+      "unlimited": "Ilimitado",
+      "basic": "Básico",
+      "advanced": "Avanzado",
+      "upgraded": "Actualizado",
+      "extended": "Extendido"
+    },
+    "footer_note": "* Todas las métricas de rendimiento se basan en los benchmarks oficiales de advanced AI technology"
+  },
+  "feature": {
+    "name": "feature",
+    "title": "Capacidades Principales de Gempix2",
+    "description": "Experimenta la tecnología de edición de imágenes con IA más avanzada con las características revolucionarias de Gempix2.",
+    "items": [
+      {
+        "title": "Modelo de Flujo Multimodal",
+        "description": "Gempix2 combina consistencia de personajes de última generación, comprensión contextual y capacidades de edición local con síntesis potente de texto a imagen.",
+        "icon": "RiFlowChart"
+      },
+      {
+        "title": "Tecnología de Velocidad Interactiva",
+        "description": "Gempix2 ofrece latencia mínima tanto para generación como edición de imágenes, operando hasta 8 veces más rápido que los modelos líderes actuales.",
+        "icon": "RiSpeedUpLine"
+      },
+      {
+        "title": "Edición de Imágenes Basada en Texto",
+        "description": "Gempix2 permite edición instantánea flexible de imágenes a través de simples instrucciones de texto: sin necesidad de flujos de trabajo complejos o ajustes finos.",
+        "icon": "RiEditLine"
+      },
+      {
+        "title": "Renderizado Fotorrealista",
+        "description": "Gempix2 proporciona un fuerte seguimiento de indicaciones, renderizado fotorrealista y tipografía competitiva con salida de calidad distintiva.",
+        "icon": "RiImageLine"
+      },
+      {
+        "title": "Transformación de Escenas",
+        "description": "Gempix2 maneja transformaciones complejas de escenas completas mientras mantiene la coherencia visual y consistencia de personajes a través de diferentes puntos de vista.",
+        "icon": "RiMagicLine"
+      },
+      {
+        "title": "Preservación de Calidad",
+        "description": "Gempix2 mantiene la calidad de imagen y consistencia de personajes a través de sesiones de edición iterativas, preservando características distintivas sin problemas.",
+        "icon": "RiShieldCheckLine"
+      }
+    ]
+  },
+  "stats": {
+    "name": "stats",
+    "label": "Estadísticas",
+    "title": "Los Creadores Eligen Gempix2",
+    "description": "por su rendimiento y confiabilidad incomparables en edición de imágenes con IA.",
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "Usuarios de Gempix2",
+        "label": "10K+",
+        "description": "Creadores"
+      },
+      {
+        "title": "Velocidad de Gempix2",
+        "label": "8x",
+        "description": "Más Rápido"
+      },
+      {
+        "title": "Precisión de Gempix2",
+        "label": "99%",
+        "description": "Consistencia"
+      }
+    ]
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "Testimonios",
+    "title": "Lo Que Dicen los Creadores Sobre Gempix2",
+    "description": "Escucha a artistas, diseñadores y creadores de contenido que transformaron su flujo de trabajo con Gempix2.",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "Sarah Chen",
+        "label": "Artista Digital e Ilustradora",
+        "description": "¡Gempix2 revolucionó mi proceso creativo! La consistencia de personajes es increíble: puedo mantener el mismo personaje en docenas de escenas. Gempix2 me ahorra horas todos los días.",
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
+      },
+      {
+        "title": "Michael Rodriguez",
+        "label": "Creador de Contenido e Influencer",
+        "description": "He probado todos los editores de imágenes con IA, pero Gempix2 está en una liga propia. La función de edición iterativa me permite perfeccionar cada detalle. Gempix2 hace que mi contenido destaque.",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "Emily Watson",
+        "label": "Directora Creativa en PixelStudio",
+        "description": "Nuestro equipo cambió a Gempix2 y la productividad se disparó. La precisión de edición local es incomparable: podemos modificar elementos específicos sin afectar toda la imagen. Gempix2 es revolucionario.",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      },
+      {
+        "title": "Alex Kim",
+        "label": "Diseñador Freelance",
+        "description": "¡La velocidad de Gempix2 me dejó impresionado! Lo que solía tomar horas ahora toma minutos. La función de referencia de estilo mantiene mi marca consistente en todos los proyectos. No puedo imaginar trabajar sin Gempix2.",
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
+      },
+      {
+        "title": "Lisa Thompson",
+        "label": "Propietaria de Agencia de Marketing",
+        "description": "Entregamos campañas 10 veces más rápido con Gempix2. A los clientes les encanta la calidad fotorrealista y a nosotros nos encanta la eficiencia. Gempix2 transformó todo nuestro proceso creativo.",
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "David Park",
+        "label": "Artista de Pre-Visualización Cinematográfica",
+        "description": "¡Gempix2 da vida a mis storyboards! Las capacidades de transformación de escenas son perfectas para prototipos rápidos. Cada cineasta debería usar Gempix2 para el trabajo de pre-visualización.",
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes sobre Gempix2",
+    "description": "Conozca más sobre la próxima generación de tecnología de edición de imágenes con IA impulsada por advanced AI technology.",
+    "items": [
+      {
+        "title": "¿Por qué la comunidad menciona \"Nano Banana 2\" al hablar de Gempix2?",
+        "description": "Operamos la misma pila de próxima generación que los entusiastas apodan \"Nano Banana 2\", por eso se usa ese nombre en discusiones. Esa pila aporta 15% más velocidad, iteraciones ilimitadas (frente a la limitación en \"Nano Banana 1\"), 10 relaciones de aspecto, fusión avanzada de múltiples imágenes y renderizado de texto largo. En conjunto, lleva la consistencia de personajes de \"buena\" a \"excelente\", razón por la que Gempix2 es confiable para narrativa profesional y coherencia de marca."
+      },
+      {
+        "title": "¿Gempix2 está basado en tecnología de advanced AI technology?",
+        "description": "¡Sí! Gempix2 está impulsado por Nano Banana 2, el modelo de IA de próxima generación de advanced AI technology lanzado en noviembre de 2025. Esta base da a Gempix2 acceso a arquitectura de flujo multimodal de vanguardia, comprensión contextual de primer nivel e investigación avanzada de recherche avancée en generación consistente de personajes y renderizado fotorrealista."
+      },
+      {
+        "title": "¿Puedo usar mis proyectos de \"Nano Banana 1\" directamente en Gempix2?",
+        "description": "Sí. Al operar la misma familia de tecnología, las referencias, diseños y guías de estilo de flujos \"Nano Banana 1\" funcionan en Gempix2 sin migración. Obtienes al instante más velocidad, mejor consistencia y funciones nuevas como iteraciones ilimitadas y renderizado de texto extenso."
+      },
+      {
+        "title": "¿Qué mejoras técnicas trae la arquitectura apodada \"Nano Banana 2\" que usamos?",
+        "description": "Ese apodo se refiere a un modelo de flujo multimodal que procesa texto y contexto visual a la vez con mayor eficiencia. Sus mecanismos de atención preservan personajes, los pipelines optimizados suman 15% de velocidad, el soporte de relaciones de aspecto pasa de 8 a 10 y se refuerzan la precisión de detalle y el texto largo; todo esto lo exponemos en la interfaz de Gempix2."
+      },
+      {
+        "title": "¿Cómo se compara la iteración ilimitada con el modelo de \"Nano Banana 1\"?",
+        "description": "El apodo \"Nano Banana 1\" se usa para un modelo con iteración limitada. Gempix2, sobre la pila apodada \"Nano Banana 2\", permite iteraciones ilimitadas manteniendo consistencia de personajes y coherencia visual. Cada iteración se apoya en la anterior, preserva rasgos, estilo y contexto de escena, habilitando flujos complejos de varios pasos."
+      },
+      {
+        "title": "¿Por qué los profesionales creativos deberían elegir Gempix2 sobre otros editores de IA?",
+        "description": "Gempix2 combina la tecnología de próxima generación de advanced AI technology con características listas para producción. Obtiene procesamiento 8x más rápido que modelos heredados, consistencia de personajes líder en la industria validada en 10,000+ proyectos profesionales, fusión avanzada de múltiples imágenes para composiciones complejas y calidad fotorrealista que cumple estándares de transmisión. La plataforma es confiada mundialmente por agencias creativas líderes, estudios de cine y artistas digitales por su fiabilidad y calidad de salida superior."
+      }
+    ]
+  },
+  "cta": {
+    "name": "cta",
+    "title": "Transforma Tu Flujo de Trabajo Creativo con Gempix2",
+    "description": "Experimenta el futuro de la edición de imágenes con IA. Comienza a crear con Gempix2 hoy.",
+    "buttons": [
+      {
+        "title": "Prueba Gempix2 Ahora",
+        "url": "/#gempix2",
+        "target": "_self",
+        "icon": "GoArrowUpRight"
+      },
+      {
+        "title": "Ver Ejemplos de Gempix2",
+        "url": "/showcase",
+        "target": "_self",
+        "variant": "outline"
+      }
+    ]
+  },
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "Gempix2",
+      "description": "Gempix2 es la plataforma revolucionaria de generación y edición de imágenes impulsada por IA que ofrece edición consistente de personajes y preservación de escenas con rendimiento superior.",
+      "logo": {
+        "srcLight": "/logo_light.svg",
+        "srcDark": "/logo_dark.svg",
+        "alt": "Gempix2"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • SixBryan LLC Todos los derechos reservados.",
+    "nav": {
+      "items": [
+        {
+          "title": "Producto",
+          "children": [
+            {
+              "title": "Características",
+              "url": "/#feature",
+              "target": "_self"
+            },
+            {
+              "title": "Galería",
+              "url": "/showcase",
+              "target": "_self"
+            },
+            {
+              "title": "Precios",
+              "url": "/#pricing",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Otros Servicios",
+          "children": [
+            {
+              "title": "Mejorador de Imágenes IA",
+              "url": "/ai-image-upscaler",
+              "target": "_self"
+            },
+            {
+              "title": "Veo 3",
+              "url": "/veo3",
+              "target": "_self"
+            },
+            {
+              "title": "Veo 3.1",
+              "url": "/veo3-1",
+              "target": "_self"
+            },
+            {
+              "title": "Sora2",
+              "url": "/sora2",
+              "target": "_self"
+            },
+            {
+              "title": "Wan 2.5",
+              "url": "/wan2-5",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Otros",
+          "children": [
+            {
+              "title": "Acerca de Nosotros",
+              "url": "/about",
+              "target": "_self"
+            },
+            {
+              "title": "Plan de Acción Climática",
+              "url": "https://climate.stripe.com/AoIcTh",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "X",
+          "icon": "RiTwitterXFill",
+          "target": "_self"
+        },
+        {
+          "title": "Email",
+          "icon": "RiMailLine",
+          "url": "mailto:support@gempix2.site",
+          "target": "_self"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "Política de Privacidad",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "Términos de Servicio",
+          "url": "/terms-of-service"
+        },
+        {
+          "title": "Política de Reembolso",
+          "url": "/refund-policy"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "title": "Histórico de Criação - Gempix2",
+    "description": "Visualize e gerencie seu histórico de criação de imagens geradas por IA"
+  },
+  "status": {
+    "completed": "Completo",
+    "failed": "Falhou",
+    "processing": "Processando",
+    "pending": "Pendente"
+  },
+  "actions": {
+    "view": "Ver",
+    "download": "Download",
+    "delete": "Excluir",
+    "enhance": "Melhorar"
+  },
+  "labels": {
+    "prompt": "Prompt",
+    "images": "Imagens",
+    "credits": "Créditos",
+    "created_at": "Criado",
+    "provider": "Provedor"
+  },
+  "messages": {
+    "no_tasks": "Nenhum histórico de criação",
+    "loading": "Carregando...",
+    "load_more": "Carregar Mais",
+    "delete_confirm": "Tem certeza de que deseja excluir esta tarefa?",
+    "delete_success": "Excluído com sucesso",
+    "delete_failed": "Falha ao excluir",
+    "download_success": "Baixado com sucesso",
+    "download_failed": "Falha no download"
+  },
+  "image_preview": "Pré-visualização da Imagem",
+  "download": "Download",
+  "enhance_image": "Melhorar",
+  "copy_link": "Copiar Link",
+  "copied": "Copiado!",
+  "link_copied": "Link copiado para a área de transferência",
+  "copy_failed": "Falha ao copiar link",
+  "coming_soon": "Em breve!",
+  "no_image_selected": "Nenhuma imagem selecionada",
+  "redirecting_to_upscaler": "Redirecionando para o ampliador de imagem...",
+  "invalid_image_url": "URL da imagem inválida",
+  "title": "Histórico de Criação Gempix2",
+  "description": "Visualize todas as imagens que você gerou e editou com Gempix2 antes",
+  "credits_used": "{amount} créditos",
+  "credits_refunded": "Reembolsado {amount} créditos",
+  "images": "imagens",
+  "view": "Ver",
+  "download_success": "Imagem baixada com sucesso",
+  "delete_success": "Registro deletado com sucesso",
+  "delete_error": "Falha ao deletar registro",
+  "load_more": "Carregar Mais",
+  "loading": "Carregando...",
+  "load_more_error": "Falha ao carregar mais registros",
+  "no_more": "Todos os registros carregados",
+  "image_to_video": "Imagem para Vídeo",
+  "i2v": "I2V",
+  "use_veo3": "Usar Veo 3",
+  "use_sora2": "Usar Sora 2",
+  "use_wan25": "Usar Wan 2.5",
+  "tabs": {
+    "gempix2": "Geração de Imagens",
+    "veo3": "Veo 3",
+    "sora2": "Sora 2",
+    "wan25": "Wan 2.5",
+    "upscaler": "Aprimoramento de Imagens"
+  },
+  "veo3": {
+    "video_preview": "Visualização de Vídeo",
+    "720p": "720p",
+    "1080p": "1080p (HD)",
+    "prompt": "Prompt",
+    "input_image": "Imagem de Entrada",
+    "download_video": "Baixar Vídeo"
+  },
+  "sora2": {
+    "video_preview": "Sora 2 Video Preview",
+    "prompt": "Prompt",
+    "download_video": "Download Video"
+  },
+  "wan25": {
+    "video_preview": "Visualização de Vídeo Wan 2.5",
+    "prompt": "Prompt",
+    "duration": "Duração",
+    "resolution": "Resolução",
+    "aspect_ratio": "Proporção",
+    "download_video": "Baixar Vídeo"
+  },
+  "upscaler": {
+    "compare_title": "Visualização de Comparação",
+    "scale": "Fator de Escala",
+    "face_enhance": "Aprimoramento Facial",
+    "enabled": "Ativado",
+    "disabled": "Desativado",
+    "drag_hint": "Arraste o divisor para comparar imagens",
+    "download_original": "Baixar Original",
+    "download_enhanced": "Baixar Aprimorada"
+  },
+  "error": {
+    "unknown": "Erro desconhecido ocorreu"
+  },
+  "empty": {
+    "title": "Nenhum Histórico de Geração",
+    "description": "Comece criando imagens incríveis com IA",
+    "action": "Começar a Criar"
+  },
+  "delete_confirm": {
+    "title": "Deletar Registro",
+    "description": "Tem certeza de que deseja deletar este registro de geração? Esta ação não pode ser desfeita.",
+    "cancel": "Cancelar",
+    "confirm": "Deletar"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "title": "About Gemini Studio | Independent Gemini 3 Guide Hub",
+    "description": "Learn about Gemini Studio’s mission as an independent hub focused on Gemini 3 and Gemini 3.0 guides, tutorials, and prompt libraries."
+  },
+  "about": {
+    "title": "About Gemini Studio",
+    "subtitle": "A focused hub for Gemini 3 and Gemini 3.0",
+    "paragraph1": "Gemini Studio is an independent content project dedicated to explaining Gemini 3 and Gemini 3.0 in practical, developer-friendly language. We are not an official Google or Gemini property. Instead, we aim to sit alongside the official documentation and help people understand how to turn the models into real workflows.",
+    "paragraph2": "The site brings together guides, prompt patterns, comparisons and a prompt library so that developers, creators and teams have a single place to start when exploring Gemini 3. Rather than chasing benchmarks or hype, we focus on concrete tasks: coding, analysis, multimodal reasoning and image workflows that route into external tools.",
+    "climateTitle": "Independence & responsibility",
+    "paragraph3": "Although Gemini Studio itself is a lightweight content site, we believe AI projects should be transparent about their role in the ecosystem. That includes being clear about what is and is not official, and pointing people to safe, well-documented ways to use Gemini 3 and related tools.",
+    "climateButton": "Learn how we position this site",
+    "companyTitle": "Company Information",
+    "companyNameLabel": "Company Name:",
+    "companyName": "SixBryan LLC",
+    "einLabel": "EIN (Employer Identification Number):",
+    "ein": "39-4607304",
+    "stateLabel": "State of Formation:",
+    "state": "Wyoming",
+    "addressLabel": "Registered Address:",
+    "address": "30 N Gould St Ste R, Sheridan, WY 82801 US",
+    "phoneLabel": "Phone:",
+    "phone": "",
+    "emailLabel": "Email:",
+    "contactTitle": "Contact",
+    "paragraph4": "If you have feedback about the guides, spot an inaccuracy, or want to suggest new topics around Gemini 3 and Gemini 3.0, we’d be happy to hear from you.",
+    "email": "support@gempix2.site"
+  }
+}

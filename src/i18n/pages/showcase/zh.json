@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "title": "Gempix2 案例展示 - Gempix2 AI图像编辑器",
+    "description": "探索Gempix2 AI生成的精彩艺术作品和创意设计，体验先进的图像生成和编辑技术"
+  },
+  "showcase": {
+    "name": "案例展示",
+    "title": "Gempix2 案例展示",
+    "description": "探索各种图像处理效果，体验专业AI技术的强大力量。",
+    "subtitle": "释放你的创造力，探索更多玩法，不仅限于下方案例。",
+    "items": [
+      {
+        "id": "background-replacement",
+        "category": "背景替换",
+        "title": "背景替换",
+        "description": "将主体从原始背景中分离，替换为更具创意的新场景。",
+        "original": "https://cdn.gempix2.site/showcase/1.webp",
+        "effects": [
+          {
+            "id": "vintage-desk",
+            "name": "复古工具台",
+            "image": "https://cdn.gempix2.site/showcase/1-1.png",
+            "prompt": "将背景更换为广阔的草原",
+            "description": "将主体置于工匠工作室环境中"
+          },
+          {
+            "id": "tropical-beach",
+            "name": "热带海滩",
+            "image": "https://cdn.gempix2.site/showcase/1-2.png",
+            "prompt": "将背景更换为蜿蜒的山路",
+            "description": "阳光明媚的海滩背景，水晶般清澈的海水"
+          },
+          {
+            "id": "modern-office",
+            "name": "现代办公室",
+            "image": "https://cdn.gempix2.site/showcase/1-3.png",
+            "prompt": "将背景改为复古工具工作台",
+            "description": "干净、极简的办公空间"
+          }
+        ]
+      },
+      {
+        "id": "lighting-adjustment",
+        "category": "光线调整",
+        "title": "光线调整",
+        "description": "使用AI调整光线效果，改变氛围，赋予照片电影感。",
+        "original": "https://cdn.gempix2.site/showcase/2.webp",
+        "effects": [
+          {
+            "id": "golden-hour",
+            "name": "黄金时刻",
+            "image": "https://cdn.gempix2.site/showcase/2-1.png",
+            "prompt": "添加温暖的阳光效果",
+            "description": "重现神奇的黄金时刻光线"
+          },
+          {
+            "id": "dramatic-shadows",
+            "name": "戏剧性阴影",
+            "image": "https://cdn.gempix2.site/showcase/2-2.png",
+            "prompt": "调整为'蓝调时刻'的冷色调",
+            "description": "高对比度戏剧性光线"
+          },
+          {
+            "id": "soft-glow",
+            "name": "柔和光晕",
+            "image": "https://cdn.gempix2.site/showcase/2-3.png",
+            "prompt": "切换到有点光源的夜景",
+            "description": "温柔、迷人的光线效果"
+          }
+        ]
+      },
+      {
+        "id": "style-conversion",
+        "category": "风格转换",
+        "title": "风格转换",
+        "description": "使用AI将您的照片转换为不同的艺术风格。",
+        "original": "https://cdn.gempix2.site/showcase/3.webp",
+        "effects": [
+          {
+            "id": "oil-painting",
+            "name": "油画",
+            "image": "https://cdn.gempix2.site/showcase/3-1.webp",
+            "prompt": "转换为动漫风格",
+            "description": "经典油画艺术效果"
+          },
+          {
+            "id": "watercolor",
+            "name": "水彩画",
+            "image": "https://cdn.gempix2.site/showcase/3-2.webp",
+            "prompt": "转换为浓郁的油画风格",
+            "description": "细腻的水彩艺术风格"
+          },
+          {
+            "id": "anime",
+            "name": "动漫风格",
+            "image": "https://cdn.gempix2.site/showcase/3-3.webp",
+            "prompt": "转换为复古像素艺术风格",
+            "description": "日本动漫角色风格"
+          }
+        ]
+      },
+      {
+        "id": "color-change",
+        "category": "颜色调整",
+        "title": "颜色调整",
+        "description": "专业色彩分级，彻底改变照片的情绪。",
+        "original": "https://cdn.gempix2.site/showcase/4.webp",
+        "effects": [
+          {
+            "id": "vibrant",
+            "name": "鲜艳色彩",
+            "image": "https://cdn.gempix2.site/showcase/4-1.png",
+            "prompt": "将所有绿叶变为红色",
+            "description": "引人注目的鲜艳色彩"
+          },
+          {
+            "id": "moody",
+            "name": "情绪色调",
+            "image": "https://cdn.gempix2.site/showcase/4-2.png",
+            "prompt": "将所有绿叶变为黄色",
+            "description": "深沉、有氛围的色彩分级"
+          },
+          {
+            "id": "vintage",
+            "name": "复古胶片",
+            "image": "https://cdn.gempix2.site/showcase/4-3.png",
+            "prompt": "将所有绿叶变为蓝色",
+            "description": "经典胶片色彩调色板"
+          }
+        ]
+      },
+      {
+        "id": "age-transformation",
+        "category": "年龄变换",
+        "title": "年龄变换",
+        "description": "通过先进的AI技术，看到不同年龄的自己。",
+        "original": "https://cdn.gempix2.site/showcase/5.webp",
+        "effects": [
+          {
+            "id": "younger",
+            "name": "年轻10岁",
+            "image": "https://cdn.gempix2.site/showcase/5-1.webp",
+            "prompt": "将年龄改为3岁",
+            "description": "自然减龄效果"
+          },
+          {
+            "id": "teenage",
+            "name": "青少年时期",
+            "image": "https://cdn.gempix2.site/showcase/5-2.webp",
+            "prompt": "将年龄改为16岁",
+            "description": "青春少年造型"
+          },
+          {
+            "id": "elderly",
+            "name": "未来的你",
+            "image": "https://cdn.gempix2.site/showcase/5-3.webp",
+            "prompt": "将年龄改为60岁",
+            "description": "自然老化模拟"
+          }
+        ]
+      }
+    ]
+  }
+}

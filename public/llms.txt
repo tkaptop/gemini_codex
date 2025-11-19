@@ -1,0 +1,43 @@
+# Gempix2 | AI Creative Platform running on the stack the community nicknames "Nano Banana 2"
+
+> We deliver the official Gempix2 service on top of the next-generation stack widely nicknamed by the community as “Nano Banana 2,” featuring 15% faster processing, enhanced character consistency, and superior scene preservation.
+
+Gempix2 uses that community-nicknamed stack as its underlying technology but keeps all customer experience, branding, and support under the official Gempix2 service. This combines cutting-edge machine learning with intuitive text prompting for professional-grade image manipulation and generation.
+
+## Core Services
+
+### Gempix2 (Nano Banana 2) Image Generation
+- [Text to Image](https://www.gempix2.site/#gempix2): Generate images from text prompts with advanced AI
+- [Image Editing](https://www.gempix2.site/#gempix2): Edit and transform existing images with contextual understanding
+- [Feature Highlights](https://www.gempix2.site/#feature): Explore character consistency and scene preservation capabilities
+
+### Veo 3 AI Video Generator
+- [Text to Video](https://www.gempix2.site/veo3): Google's Veo 3 model with 4K resolution and native audio
+- [Image to Video](https://www.gempix2.site/veo3): Transform static images into dynamic video content
+- [Professional Video Creation](https://www.gempix2.site/veo3): Cinema-quality video generation with 720P/1080P support
+
+### Veo 3.1 AI Video Generator
+- [Keyframe Control](https://www.gempix2.site/veo3-1): Precise control over start and end frames for cinematic transitions
+- [Multi-Image References](https://www.gempix2.site/veo3-1): Use multiple reference images for consistent visual style
+- [Extended Duration](https://www.gempix2.site/veo3-1): Break through 8-second limit with seamless scene continuation
+- [Native Audio Generation](https://www.gempix2.site/veo3-1): Synchronized sound effects and dialogue
+
+### Sora 2 AI Video Generator
+- [OpenAI Sora 2](https://www.gempix2.site/sora2): No watermark, no invitation code required
+- [Physics Simulation](https://www.gempix2.site/sora2): Advanced physical accuracy and realistic motion effects
+- [Multi-Format Support](https://www.gempix2.site/sora2): Portrait and landscape formats, up to 15 seconds
+
+### AI Image Upscaler
+- [Quality Enhancement](https://www.gempix2.site/ai-image-upscaler): Professional AI-driven image quality improvement
+- [Smart Upscaling](https://www.gempix2.site/ai-image-upscaler): Up to 4x resolution enhancement with detail preservation
+- [Batch Processing](https://www.gempix2.site/ai-image-upscaler): Fast and efficient professional-grade image processing
+
+## Key Resources
+- [Pricing Plans](https://www.gempix2.site/pricing): Flexible credit-based and subscription options
+- [Showcase](https://www.gempix2.site/showcase): View amazing AI-generated creations
+- [My Creations](https://www.gempix2.site/history): Manage all your AI-generated content
+
+## Additional Information
+- [Terms of Service](https://www.gempix2.site/terms-of-service): Usage terms and policies
+- [Privacy Policy](https://www.gempix2.site/privacy-policy): Data protection and privacy statement
+- [Refund Policy](https://www.gempix2.site/refund-policy): Refund terms and procedures

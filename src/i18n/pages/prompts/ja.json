@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "プロンプトギャラリー - AI画像プロンプトを探索 | Gempix2",
+    "description": "400以上の厳選されたAI画像生成プロンプトと作例を探索。あなたの次のクリエイティブプロジェクトにインスピレーションを見つけましょう。",
+    "keywords": "AIプロンプト、画像生成、GPT-4o、プロンプトギャラリー、AIアート"
+  },
+  "hero": {
+    "title": "AI画像生成プロンプトギャラリー",
+    "description": "400種類以上の厳選されたAI画像生成プロンプトでGempix2 を探求しましょう。キャラクターデザイン、シーン、アートスタイルのクリエイティブな例を見つけられます。"
+  },
+  "card_image_alt": "{title}{tags}",
+  "gallery": {
+    "stats": "{total}件中{count}件を表示中",
+    "loading": "プロンプトを読み込み中…",
+    "errorTitle": "プロンプトの読み込みに失敗しました",
+    "errorDescription": "プロンプトライブラリを読み込めませんでした。もう一度お試しください。",
+    "retry": "再試行",
+    "empty": "条件に一致するプロンプトは見つかりませんでした",
+    "search": {
+      "placeholder": "ケース番号、タイトル、またはプロンプトで検索...",
+      "clear": "検索をクリア",
+      "input_label": "検索プロンプト"
+    },
+    "filter": {
+      "selectedLabel": "選択済み:",
+      "clearAll": "すべてクリア",
+      "tagsLabel": "タグ:",
+      "removeTag": "{tag}を削除"
+    },
+    "modal": {
+      "caseTitle": "ケース #{id}: {title}",
+      "sourceLabel": "ソース",
+      "imagesTitle": "サンプル画像",
+      "promptsTitle": "プロンプト",
+      "promptLabel": "プロンプト {index}",
+      "copy": "コピー",
+      "copied": "コピーしました",
+      "copyAria": "コピープロンプト {index}",
+      "descriptionTitle": "説明",
+      "notesTitle": "メモ"
+    }
+  },
+  "copy": {
+    "success": "プロンプトをコピーしました",
+    "failure": "プロンプトのコピーに失敗しました"
+  },
+  "tools": {
+    "ariaLabel": "関連するAIツール",
+    "gemini3": "Gemini 3 AIアシスタント",
+    "gemini30": "Gemini 3.0 Pro機能",
+    "imageGuide": "画像生成ガイド",
+    "compare": "Gemini 3 vs GPT-4o 比較"
+  },
+  "detail": {
+    "backToGallery": "ギャラリーに戻る",
+    "source": "ソース",
+    "recreateButton": "GemPix2で再作成",
+    "share": {
+      "button": "共有",
+      "buttonLabel": "このプロンプトを共有",
+      "copied": "リンクをコピーしました",
+      "linkCopied": "リンクをクリップボードにコピーしました",
+      "success": "共有しました",
+      "failed": "共有に失敗しました"
+    },
+    "sections": {
+      "prompt": "プロンプト",
+      "description": "説明",
+      "notes": "ノート",
+      "relatedPrompts": "関連プロンプト"
+    },
+    "navigation": {
+      "previous": "前へ",
+      "next": "次へ"
+    }
+  }
+}

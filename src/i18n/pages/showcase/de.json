@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "title": "Gempix2 Galerie - Gempix2 KI-Bildeditor",
+    "description": "Entdecken Sie erstaunliche von Gempix2 KI generierte Kunstwerke und kreative Designs, erleben Sie fortschrittliche Bildgenerierungs- und Bearbeitungstechnologie"
+  },
+  "showcase": {
+    "name": "showcase",
+    "title": "Gempix2 Galerie",
+    "description": "Erkunden Sie verschiedene Arten von Bildbearbeitungseffekten und erleben Sie die Kraft professioneller KI-Technologie.",
+    "subtitle": "Entfesseln Sie Ihre Kreativität und entdecken Sie weitere Möglichkeiten, nicht nur die unten gezeigten Fälle.",
+    "items": [
+      {
+        "id": "background-replacement",
+        "category": "Background Replacement",
+        "title": "Hintergrundaustausch",
+        "description": "Trennen Sie das Motiv vom ursprünglichen Hintergrund und ersetzen Sie ihn durch eine neue, kreativere Szene.",
+        "original": "https://cdn.gempix2.site/showcase/1.webp",
+        "effects": [
+          {
+            "id": "vintage-desk",
+            "name": "Vintage Werkzeugbank",
+            "image": "https://cdn.gempix2.site/showcase/1-1.png",
+            "prompt": "Hintergrund zu einer weiten Graslandschaft ändern",
+            "description": "Platzieren Sie das Motiv in einer Handwerker-Werkstatt"
+          },
+          {
+            "id": "tropical-beach",
+            "name": "Tropischer Strand",
+            "image": "https://cdn.gempix2.site/showcase/1-2.png",
+            "prompt": "Hintergrund zu einer kurvenreichen Bergstraße ändern",
+            "description": "Sonniger Strandhintergrund mit kristallklarem Wasser"
+          },
+          {
+            "id": "modern-office",
+            "name": "Modernes Büro",
+            "image": "https://cdn.gempix2.site/showcase/1-3.png",
+            "prompt": "Ändern Sie den Hintergrund in eine Retro-Werkbank.",
+            "description": "Sauberer, minimalistischer Büroraum"
+          }
+        ]
+      },
+      {
+        "id": "lighting-adjustment",
+        "category": "Lighting Adjustment",
+        "title": "Lichtanpassung",
+        "description": "Passen Sie Lichteffekte mit KI an, um die Stimmung zu ändern und Ihren Bildern ein kinoreifes Gefühl zu verleihen.",
+        "original": "https://cdn.gempix2.site/showcase/2.webp",
+        "effects": [
+          {
+            "id": "golden-hour",
+            "name": "Goldene Stunde",
+            "image": "https://cdn.gempix2.site/showcase/2-1.png",
+            "prompt": "Warmen Sonnenlichteffekt hinzufügen",
+            "description": "Magisches Licht der goldenen Stunde nachbilden"
+          },
+          {
+            "id": "dramatic-shadows",
+            "name": "Dramatische Schatten",
+            "image": "https://cdn.gempix2.site/showcase/2-2.png",
+            "prompt": "An die kühlen Töne der 'blauen Stunde' anpassen",
+            "description": "Hoher Kontrast, dramatische Beleuchtung"
+          },
+          {
+            "id": "soft-glow",
+            "name": "Sanftes Leuchten",
+            "image": "https://cdn.gempix2.site/showcase/2-3.png",
+            "prompt": "Zu einer Nachtszene mit Punktlichtquellen wechseln",
+            "description": "Sanfter, schmeichelhafter Lichteffekt"
+          }
+        ]
+      },
+      {
+        "id": "style-conversion",
+        "category": "Style Conversion",
+        "title": "Stilkonvertierung",
+        "description": "Verwandeln Sie Ihre Fotos mit KI in verschiedene künstlerische Stile.",
+        "original": "https://cdn.gempix2.site/showcase/3.webp",
+        "effects": [
+          {
+            "id": "oil-painting",
+            "name": "Ölgemälde",
+            "image": "https://cdn.gempix2.site/showcase/3-1.webp",
+            "prompt": "In japanischen Anime-Stil umwandeln",
+            "description": "Klassischer Ölgemälde-Kunsteffekt"
+          },
+          {
+            "id": "watercolor",
+            "name": "Aquarell",
+            "image": "https://cdn.gempix2.site/showcase/3-2.webp",
+            "prompt": "In einen reichhaltigen Ölgemälde-Stil umwandeln",
+            "description": "Zarter Aquarell-Kunststil"
+          },
+          {
+            "id": "anime",
+            "name": "Anime-Stil",
+            "image": "https://cdn.gempix2.site/showcase/3-3.webp",
+            "prompt": "In einen Retro-Pixel-Art-Stil umwandeln",
+            "description": "Japanischer Anime-Charakterstil"
+          }
+        ]
+      },
+      {
+        "id": "color-change",
+        "category": "Color Change",
+        "title": "Farbänderung",
+        "description": "Professionelle Farbkorrektur, um die Stimmung Ihrer Fotos vollständig zu ändern.",
+        "original": "https://cdn.gempix2.site/showcase/4.webp",
+        "effects": [
+          {
+            "id": "vibrant",
+            "name": "Lebendige Farben",
+            "image": "https://cdn.gempix2.site/showcase/4-1.png",
+            "prompt": "Alle grünen Blätter in rote umwandeln",
+            "description": "Auffällige, lebhafte Farben"
+          },
+          {
+            "id": "moody",
+            "name": "Stimmungsvolle Töne",
+            "image": "https://cdn.gempix2.site/showcase/4-2.png",
+            "prompt": "Alle grünen Blätter in gelbe umwandeln",
+            "description": "Tiefe, atmosphärische Farbkorrektur"
+          },
+          {
+            "id": "vintage",
+            "name": "Vintage-Film",
+            "image": "https://cdn.gempix2.site/showcase/4-3.png",
+            "prompt": "Alle grünen Blätter in blaue umwandeln",
+            "description": "Klassische Film-Farbpalette"
+          }
+        ]
+      },
+      {
+        "id": "age-transformation",
+        "category": "Age Transformation",
+        "title": "Alterstransformation",
+        "description": "Sehen Sie sich in verschiedenen Altern mit fortschrittlicher KI-Technologie.",
+        "original": "https://cdn.gempix2.site/showcase/5.webp",
+        "effects": [
+          {
+            "id": "younger",
+            "name": "10 Jahre jünger",
+            "image": "https://cdn.gempix2.site/showcase/5-1.webp",
+            "prompt": "Alter auf 3 Jahre ändern",
+            "description": "Natürlicher Altersreduktionseffekt"
+          },
+          {
+            "id": "teenage",
+            "name": "Jugendjahre",
+            "image": "https://cdn.gempix2.site/showcase/5-2.webp",
+            "prompt": "Alter auf 16 Jahre ändern",
+            "description": "Jugendliches Aussehen"
+          },
+          {
+            "id": "elderly",
+            "name": "Zukünftiges Ich",
+            "image": "https://cdn.gempix2.site/showcase/5-3.webp",
+            "prompt": "Alter auf 60 Jahre ändern",
+            "description": "Natürliche Alterungssimulation"
+          }
+        ]
+      }
+    ]
+  }
+}

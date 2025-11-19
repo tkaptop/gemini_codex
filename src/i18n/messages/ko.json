@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "title": "Gempix2 - AI 이미지 생성기 | 채팅으로 이미지 편집",
+    "description": "Gempix2는 자연스러운 채팅 대화를 통해 이미지를 생성하고 편집할 수 있는 AI 기반 이미지 생성기입니다. Flux Kontext의 강력한 대안입니다.",
+    "keywords": ""
+  },
+  "user": {
+    "sign_in": "로그인",
+    "sign_out": "로그아웃",
+    "credits": "크레딧",
+    "api_keys": "API 키",
+    "my_orders": "내 주문",
+    "user_center": "사용자 센터",
+    "admin_system": "관리 시스템"
+  },
+  "sign_modal": {
+    "sign_in_title": "로그인",
+    "sign_in_description": "계정에 로그인",
+    "sign_up_title": "회원가입",
+    "sign_up_description": "새 계정 만들기",
+    "login_slogan": "즉시 10 크레딧 무료 획득!",
+    "email": "이메일",
+    "email_title": "이메일",
+    "email_placeholder": "이메일을 입력해주세요",
+    "password_title": "비밀번호",
+    "password_placeholder": "비밀번호를 입력해주세요",
+    "forgot_password": "비밀번호를 잊으셨나요?",
+    "or": "또는",
+    "continue": "계속",
+    "no_account": "아직 계정이 없으신가요?",
+    "email_sign_in": "이메일로 로그인",
+    "google_sign_in": "Google로 로그인",
+    "github_sign_in": "GitHub로 로그인",
+    "send_magic_link": "로그인 링크 전송",
+    "sending": "전송 중...",
+    "email_sent": "이메일을 확인해주세요. 로그인 링크를 보냈습니다!",
+    "email_required": "이메일을 입력해주세요",
+    "code_required": "이메일과 인증 코드를 입력해주세요",
+    "code_sent": "인증 코드가 이메일로 전송되었습니다",
+    "enter_email": "이메일 입력",
+    "enter_code": "인증 코드 입력",
+    "send_code": "인증 코드 전송",
+    "sending_code": "전송 중...",
+    "verification_code": "인증 코드",
+    "resend_code": "재전송",
+    "resend_in": "재전송 카운트다운",
+    "sign_in": "로그인",
+    "signing_in": "로그인 중...",
+    "back": "뒤로",
+    "invalid_code": "인증 코드가 올바르지 않습니다",
+    "code_expired": "인증 코드가 만료되었거나 존재하지 않습니다",
+    "sign_in_failed": "로그인에 실패했습니다. 다시 시도해주세요",
+    "close_title": "닫기",
+    "cancel_title": "취소",
+    "terms_text": "계속하면 다음에 동의하는 것입니다",
+    "terms_of_service": "서비스 약관",
+    "and": "및",
+    "privacy_policy": "개인정보 처리방침"
+  },
+  "my_orders": {
+    "title": "내 주문",
+    "description": "ShipAny에서 구매한 주문.",
+    "no_orders": "주문을 찾을 수 없습니다",
+    "tip": "",
+    "activate_order": "주문 활성화",
+    "actived": "활성화됨",
+    "join_discord": "Discord 참여",
+    "read_docs": "문서 읽기",
+    "table": {
+      "order_no": "주문 번호",
+      "email": "이메일",
+      "product_name": "제품 이름",
+      "amount": "금액",
+      "paid_at": "결제 일시",
+      "github_username": "GitHub 사용자명",
+      "status": "상태"
+    }
+  },
+  "my_credits": {
+    "title": "내 크레딧",
+    "left_tip": "남은 크레딧: {left_credits}",
+    "no_credits": "크레딧 기록이 없습니다",
+    "recharge": "충전",
+    "table": {
+      "trans_no": "거래 번호",
+      "trans_type": "거래 유형",
+      "credits": "크레딧",
+      "updated_at": "업데이트 일시",
+      "status": "상태"
+    }
+  },
+  "api_keys": {
+    "title": "API 키",
+    "tip": "유출을 방지하기 위해 API 키를 안전하게 보관하세요",
+    "no_api_keys": "API 키가 없습니다",
+    "create_api_key": "API 키 생성",
+    "table": {
+      "name": "이름",
+      "key": "키",
+      "created_at": "생성 일시"
+    },
+    "form": {
+      "name": "이름",
+      "name_placeholder": "API 키 이름",
+      "submit": "제출"
+    }
+  },
+  "blog": {
+    "title": "블로그",
+    "description": "ShipAny에 대한 뉴스, 리소스 및 업데이트",
+    "read_more_text": "더 읽기"
+  },
+  "my_invites": {
+    "title": "내 초대",
+    "description": "초대 기록 보기",
+    "no_invites": "초대 기록을 찾을 수 없습니다",
+    "my_invite_link": "내 초대 링크",
+    "edit_invite_link": "초대 링크 편집",
+    "copy_invite_link": "초대 링크 복사",
+    "invite_code": "초대 코드",
+    "invite_tip": "친구 1명이 ShipAny를 구매하도록 초대하면 $50 보상.",
+    "invite_balance": "초대 보상 잔액",
+    "total_invite_count": "총 초대 수",
+    "total_paid_count": "총 결제 수",
+    "total_award_amount": "총 보상 금액",
+    "update_invite_code": "초대 코드 설정",
+    "update_invite_code_tip": "사용자 정의 초대 코드를 입력하세요",
+    "update_invite_button": "저장",
+    "no_orders": "친구를 초대하기 전에 먼저 ShipAny를 구매해야 합니다",
+    "no_affiliates": "아직 친구를 초대할 권한이 없습니다. 신청을 위해 문의해주세요.",
+    "table": {
+      "invite_time": "초대 시간",
+      "invite_user": "초대 사용자",
+      "status": "상태",
+      "reward_percent": "보상 비율",
+      "reward_amount": "보상 금액",
+      "pending": "등록됨, 미결제",
+      "completed": "결제됨"
+    }
+  },
+  "feedback": {
+    "title": "피드백",
+    "description": "제품에 대한 의견이나 제품 경험을 개선하는 방법을 듣고 싶습니다.",
+    "submit": "제출",
+    "loading": "제출 중...",
+    "contact_tip": "기타 연락 방법",
+    "rating_tip": "ShipAny에 대해 어떻게 생각하시나요?",
+    "placeholder": "여기에 피드백을 남겨주세요..."
+  },
+  "pricing": {
+    "most_popular": "가장 인기"
+  },
+  "announcement": {
+    "banner": {
+      "text": "🎉 Gempix2 출시 예정! 할인 마감 임박!",
+      "button": "지금 확인"
+    }
+  },
+  "pages": {
+    "landing": {
+      "comparison": {
+        "label": "세대 비교",
+        "title": "커뮤니티에서 'Nano Banana'라 부르는 스택 vs Gempix2",
+        "description": "커뮤니티가 'Nano Banana 2'라 부르는 동일한 스택 위에서 공식 서비스로 제공되는 Gempix2가 1세대 'Nano Banana' 워크플로보다 성능과 기능을 어떻게 높이는지 확인하세요",
+        "headers": {
+          "feature": "기능",
+          "improvement": "개선"
+        },
+        "features": {
+          "processing_speed": "처리 속도",
+          "character_consistency": "캐릭터 일관성",
+          "detail_accuracy": "세부 정확도",
+          "aspect_ratios": "지원 비율",
+          "max_iterations": "최대 반복 횟수",
+          "multi_image_fusion": "다중 이미지 융합",
+          "text_rendering": "텍스트 렌더링"
+        },
+        "values": {
+          "good": "양호",
+          "excellent": "우수",
+          "enhanced": "향상됨",
+          "standard": "표준",
+          "superior": "우월",
+          "improved": "개선됨",
+          "unlimited": "무제한",
+          "basic": "기본",
+          "advanced": "고급",
+          "upgraded": "업그레이드됨",
+          "extended": "확장됨"
+        },
+        "footer_note": "* 성능 개선은 표준 테스트 조건에서 측정된 결과입니다. 실제 결과는 사용 시나리오에 따라 다를 수 있습니다."
+      }
+    }
+  },
+  "gempix2": {
+    "wrapper": {
+      "loading_text": "Gempix2 로딩 중...",
+      "title": "Gempix2 AI 창작 워크벤치",
+      "description": "고급 AI 기술을 사용하여 상상력을 아름다운 이미지로 변환합니다"
+    },
+    "workspace": {
+      "mode_selector": {
+        "image_edit": "이미지 편집",
+        "text_to_image": "텍스트를 이미지로"
+      },
+      "operation_panel": {
+        "login_required": "먼저 로그인해주세요",
+        "insufficient_credits": "크레딧 부족, {amount} 크레딧이 필요합니다",
+        "please_enter_prompt": "프롬프트를 입력해주세요",
+        "prompt_min_length": "최소 3글자 이상 입력해주세요",
+        "generating": "생성 중...",
+        "start_creation": "창작 시작"
+      },
+      "image_upload": {
+        "title": "참고 이미지",
+        "add_image": "이미지 추가",
+        "max_size": "최대 10MB",
+        "supported_formats": "JPG, PNG, WebP",
+        "drag_to_upload": "파일 놓기",
+        "clear_all": "모든 이미지 지우기",
+        "error_invalid_type": "지원되지 않는 파일 형식입니다. JPG, PNG, WebP만 지원됩니다",
+        "error_too_large": "파일 크기가 10MB 제한을 초과합니다",
+        "error_too_many": "한 번에 최대 10개 파일만 업로드할 수 있습니다"
+      },
+      "prompt_input": {
+        "title": "아이디어 설명하기",
+        "placeholder_image_edit": "스타일, 색상, 구도 등의 세부 사항을 포함하여 원하는 효과를 설명해주세요...",
+        "placeholder_text_to_image": "주제, 장면, 스타일, 색상 등을 포함하여 생성하고 싶은 이미지를 자세히 설명해주세요...",
+        "tip": "자세한 설명이 더 나은 결과를 가져옵니다"
+      },
+      "image_size_selector": {
+        "title": "화면 비율",
+        "auto": "Auto",
+        "ratios": {
+          "auto": "AI 자동 결정",
+          "1:1": "소셜 아바타",
+          "9:16": "세로 동영상",
+          "16:9": "가로 동영상",
+          "3:4": "세로 사진",
+          "4:3": "가로 사진",
+          "3:2": "클래식 사진",
+          "2:3": "세로 클래식",
+          "5:4": "중형 포맷",
+          "4:5": "세로 중형",
+          "21:9": "울트라와이드"
+        }
+      },
+      "credits_display": {
+        "title": "크레딧 소모",
+        "unit": "크레딧"
+      },
+      "display_panel": {
+        "generation_complete": "생성 완료!",
+        "regenerate": "재생성",
+        "image_download_success": "이미지 다운로드 성공",
+        "download_failed": "다운로드 실패",
+        "link_copied": "링크 복사됨",
+        "copy_failed": "복사 실패"
+      },
+      "empty_state": {
+        "title": "창작을 시작할 준비가 되셨나요?",
+        "description": "왼쪽에서 모드를 선택하고, 이미지를 업로드하거나 설명을 입력하여 AI가 멋진 비주얼을 만들도록 하세요",
+        "feature_ai": "AI 지능",
+        "feature_speed": "초고속 생성",
+        "feature_quality": "고품질"
+      },
+      "progress_state": {
+        "title": "AI가 창작 중...",
+        "description": "잠시만 기다려주세요, 멋진 것이 곧 나타날 예정입니다",
+        "task_id": "작업 ID: {taskId}"
+      },
+      "error_state": {
+        "title": "생성 실패",
+        "default_message": "죄송합니다. 이미지 생성 중에 문제가 발생했습니다. 나중에 다시 시도해주세요. 문제가 지속되면 기술 지원팀에 문의해주세요.",
+        "support_message": "문제가 지속되면 기술 지원팀이 도와드리겠습니다",
+        "retry_button": "다시 시도",
+        "contact_support": "지원팀에 문의",
+        "support_email_text": "기술 지원 이메일:",
+        "email_subject": "Gempix2 - 기술 지원 요청",
+        "email_body": "안녕하세요,\\n\\nGempix2 사용 중 문제가 발생했습니다:\\n\\n오류 메시지: {title}\\n상세 설명: {message}\\n\\n해결을 위해 도움을 주세요, 감사합니다!\\n\\n사용자"
+      },
+      "image_card": {
+        "image_load_failed": "이미지 로딩 실패",
+        "image_number": "#{number}",
+        "from_link": "링크에서"
+      },
+      "image_action_bar": {
+        "download": "다운로드",
+        "enhance": "이미지 향상",
+        "continue_edit": "다시 편집",
+        "image_to_video": "이미지를 동영상으로",
+        "image_not_found": "이미지를 찾을 수 없습니다",
+        "invalid_image_url": "유효하지 않은 이미지 URL",
+        "continue_edit_coming_soon": "계속 편집 기능이 곧 출시됩니다",
+        "use_veo3": "Veo 3 사용",
+        "use_sora2": "Sora 2 사용",
+        "use_wan25": "Wan 2.5 사용"
+      },
+      "ai_description": {
+        "title": "AI 생성 설명"
+      },
+      "action_buttons": {
+        "download": "다운로드",
+        "copy_link": "링크 복사",
+        "copied": "복사됨",
+        "image_to_video": "이미지를 비디오로",
+        "view_large": "크게 보기"
+      },
+      "image_preview": {
+        "download_success": "이미지 다운로드 성공",
+        "download_failed": "다운로드 실패",
+        "link_copied": "링크 복사됨",
+        "copy_failed": "복사 실패",
+        "click_to_view": "클릭하여 큰 이미지 보기"
+      },
+      "image_viewer": {
+        "image_not_found": "이미지를 찾을 수 없습니다",
+        "invalid_image_url": "유효하지 않은 이미지 URL",
+        "download": "다운로드",
+        "enhance": "이미지 향상",
+        "close": "닫기",
+        "prev_image": "이전",
+        "next_image": "다음",
+        "image_count": "{current} / {total}",
+        "use_veo3": "Veo 3 사용",
+        "use_sora2": "Sora 2 사용",
+        "use_wan25": "Wan 2.5 사용",
+        "image_to_video": "이미지를 비디오로"
+      },
+      "quick_prompts": {
+        "image_mode": {
+          "enhance_details": "세부 사항 향상",
+          "enhance_details_prompt": "세부 사항 향상, 고해상도, 정밀",
+          "art_style": "예술 스타일",
+          "art_style_prompt": "예술 스타일, 유화 질감",
+          "anime_style": "애니메이션 스타일",
+          "anime_style_prompt": "애니메이션 스타일, 2D",
+          "realistic_photo": "사실적인 사진",
+          "realistic_photo_prompt": "사실적인 스타일, 사진 질감"
+        },
+        "text_mode": {
+          "art_creation": "예술 창작",
+          "art_creation_prompt": "예술 스타일, 고품질, 정교함",
+          "realistic_style": "사실적인 스타일",
+          "realistic_style_prompt": "사실적인 스타일, 고해상도 사진",
+          "sci_fi": "SF 미래",
+          "sci_fi_prompt": "SF 스타일, 미래적",
+          "creative_design": "창의적 디자인",
+          "creative_design_prompt": "창의적 디자인, 독특한 관점"
+        }
+      }
+    },
+    "hooks": {
+      "file_validation": {
+        "unsupported_format": "지원되지 않는 파일 형식입니다. JPG, PNG, WebP만 지원됩니다",
+        "file_too_large": "파일 크기가 {sizeMB}MB로 10MB 제한을 초과합니다",
+        "image_applied": "이미지가 참고 영역에 적용되었습니다",
+        "invalid_image_url": "유효하지 않은 이미지 URL"
+      }
+    },
+    "messages": {
+      "starting_upload": "{count}개 이미지 업로드 시작...",
+      "upload_success": "모든 이미지가 성공적으로 업로드되었습니다!",
+      "upload_failed": "이미지 업로드 실패",
+      "upload_image_failed": "이미지 {filename} 업로드 실패",
+      "submit_failed": "작업 제출 실패",
+      "task_submitted": "작업이 제출되어 처리 중입니다...",
+      "insufficient_credits": "크레딧이 부족합니다. 충전 후 다시 시도해주세요",
+      "generation_success": "{count}개 이미지를 성공적으로 생성했습니다!",
+      "get_results_failed": "결과 가져오기 실패",
+      "task_failed": "작업 실행 실패",
+      "max_images_warning": "최대 10개 이미지 허용, 자동으로 제한됨"
+    },
+    "validation": {
+      "please_enter_prompt": "프롬프트를 입력해주세요",
+      "please_upload_image": "최소 1개 이미지를 업로드해주세요"
+    },
+    "prompts": {
+      "card_image_alt": "{title} - AI prompt example image{tags}"
+    }
+  }
+}

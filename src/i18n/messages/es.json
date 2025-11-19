@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "title": "Gempix2 - Generador de Imágenes IA | Edita imágenes con chat",
+    "description": "Gempix2 es un generador de imágenes impulsado por IA que te permite crear y editar imágenes a través de conversaciones de chat naturales. Una poderosa alternativa a Flux Kontext.",
+    "keywords": ""
+  },
+  "user": {
+    "sign_in": "Iniciar Sesión",
+    "sign_out": "Cerrar Sesión",
+    "credits": "Créditos",
+    "api_keys": "Claves API",
+    "my_orders": "Mis Pedidos",
+    "user_center": "Centro de Usuario",
+    "admin_system": "Sistema de Administración"
+  },
+  "sign_modal": {
+    "sign_in_title": "Iniciar Sesión",
+    "sign_in_description": "Inicia sesión en tu cuenta",
+    "sign_up_title": "Registrarse",
+    "sign_up_description": "Crear nueva cuenta",
+    "login_slogan": "¡Obtén 10 Créditos Gratis Instantáneamente!",
+    "email": "Correo electrónico",
+    "email_title": "Correo electrónico",
+    "email_placeholder": "Por favor ingresa tu correo electrónico",
+    "password_title": "Contraseña",
+    "password_placeholder": "Por favor ingresa tu contraseña",
+    "forgot_password": "¿Olvidaste tu contraseña?",
+    "or": "O",
+    "continue": "Continuar",
+    "no_account": "¿Aún no tienes una cuenta?",
+    "email_sign_in": "Iniciar sesión con correo electrónico",
+    "google_sign_in": "Iniciar sesión con Google",
+    "github_sign_in": "Iniciar sesión con GitHub",
+    "send_magic_link": "Enviar enlace de inicio de sesión",
+    "sending": "Enviando...",
+    "email_sent": "¡Por favor revisa tu correo electrónico, te hemos enviado un enlace de inicio de sesión!",
+    "email_required": "Por favor ingresa tu correo electrónico",
+    "code_required": "Por favor ingresa el correo electrónico y el código de verificación",
+    "code_sent": "El código de verificación ha sido enviado a tu correo electrónico",
+    "enter_email": "Ingresa tu correo electrónico",
+    "enter_code": "Ingresa el código de verificación",
+    "send_code": "Enviar código de verificación",
+    "sending_code": "Enviando...",
+    "verification_code": "Código de verificación",
+    "resend_code": "Reenviar",
+    "resend_in": "Cuenta regresiva para reenvío",
+    "sign_in": "Iniciar Sesión",
+    "signing_in": "Iniciando sesión...",
+    "back": "Atrás",
+    "invalid_code": "Código de verificación incorrecto",
+    "code_expired": "El código de verificación ha expirado o no existe",
+    "sign_in_failed": "Error al iniciar sesión, por favor intenta de nuevo",
+    "close_title": "Cerrar",
+    "cancel_title": "Cancelar",
+    "terms_text": "Al continuar, aceptas nuestros",
+    "terms_of_service": "Términos de Servicio",
+    "and": "y",
+    "privacy_policy": "Política de Privacidad"
+  },
+  "my_orders": {
+    "title": "Mis Pedidos",
+    "description": "Pedidos comprados en ShipAny.",
+    "no_orders": "No se encontraron pedidos",
+    "tip": "",
+    "activate_order": "Activar Pedido",
+    "actived": "Activado",
+    "join_discord": "Unirse a Discord",
+    "read_docs": "Leer Documentación",
+    "table": {
+      "order_no": "Núm. de Pedido",
+      "email": "Correo electrónico",
+      "product_name": "Nombre del Producto",
+      "amount": "Cantidad",
+      "paid_at": "Pagado el",
+      "github_username": "Nombre de usuario de GitHub",
+      "status": "Estado"
+    }
+  },
+  "my_credits": {
+    "title": "Mis Créditos",
+    "left_tip": "Créditos restantes: {left_credits}",
+    "no_credits": "Sin registros de créditos",
+    "recharge": "Recargar",
+    "table": {
+      "trans_no": "Núm. de Transacción",
+      "trans_type": "Tipo de Transacción",
+      "credits": "Créditos",
+      "updated_at": "Actualizado el",
+      "status": "Estado"
+    }
+  },
+  "api_keys": {
+    "title": "Claves API",
+    "tip": "Por favor mantén tu clave API segura para evitar filtraciones",
+    "no_api_keys": "Sin Claves API",
+    "create_api_key": "Crear Clave API",
+    "table": {
+      "name": "Nombre",
+      "key": "Clave",
+      "created_at": "Creado el"
+    },
+    "form": {
+      "name": "Nombre",
+      "name_placeholder": "Nombre de la Clave API",
+      "submit": "Enviar"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Noticias, recursos y actualizaciones sobre ShipAny",
+    "read_more_text": "Leer Más"
+  },
+  "my_invites": {
+    "title": "Mis Invitaciones",
+    "description": "Ver tus registros de invitaciones",
+    "no_invites": "No se encontraron registros de invitaciones",
+    "my_invite_link": "Mi Enlace de Invitación",
+    "edit_invite_link": "Editar Enlace de Invitación",
+    "copy_invite_link": "Copiar Enlace de Invitación",
+    "invite_code": "Código de Invitación",
+    "invite_tip": "Invita a 1 amigo a comprar ShipAny, recompensa de $50.",
+    "invite_balance": "Saldo de Recompensa por Invitación",
+    "total_invite_count": "Número Total de Invitaciones",
+    "total_paid_count": "Número Total de Pagos",
+    "total_award_amount": "Cantidad Total de Recompensas",
+    "update_invite_code": "Establecer Código de Invitación",
+    "update_invite_code_tip": "Ingresa tu código de invitación personalizado",
+    "update_invite_button": "Guardar",
+    "no_orders": "Necesitas comprar ShipAny primero antes de invitar amigos",
+    "no_affiliates": "Aún no tienes permiso para invitar amigos, por favor contáctanos para solicitar.",
+    "table": {
+      "invite_time": "Hora de Invitación",
+      "invite_user": "Usuario Invitado",
+      "status": "Estado",
+      "reward_percent": "Porcentaje de Recompensa",
+      "reward_amount": "Cantidad de Recompensa",
+      "pending": "Registrado, no pagado",
+      "completed": "Pagado"
+    }
+  },
+  "feedback": {
+    "title": "Comentarios",
+    "description": "Nos encantaría conocer tus opiniones sobre el producto o cómo mejorar la experiencia del producto.",
+    "submit": "Enviar",
+    "loading": "Enviando...",
+    "contact_tip": "Otros métodos de contacto",
+    "rating_tip": "¿Qué opinas sobre ShipAny?",
+    "placeholder": "Deja tus comentarios aquí..."
+  },
+  "pricing": {
+    "most_popular": "Más Popular"
+  },
+  "announcement": {
+    "banner": {
+      "text": "🎉 ¡Gempix2 Próximamente! ¡Descuento Terminando!",
+      "button": "¡Ver Ahora!"
+    }
+  },
+  "pages": {
+    "landing": {
+      "comparison": {
+        "label": "Comparación de generaciones",
+        "title": "Apodo comunitario \"Nano Banana\" vs Gempix2",
+        "description": "Vea cómo el servicio oficial Gempix2, sobre la pila que la comunidad apoda \"Nano Banana 2\", mejora los flujos \"Nano Banana\" originales en rendimiento y capacidades",
+        "headers": {
+          "feature": "Característica",
+          "improvement": "Mejora"
+        },
+        "features": {
+          "processing_speed": "Velocidad de procesamiento",
+          "character_consistency": "Consistencia de personajes",
+          "detail_accuracy": "Precisión de detalles",
+          "aspect_ratios": "Relaciones de aspecto compatibles",
+          "max_iterations": "Iteraciones máximas",
+          "multi_image_fusion": "Fusión de múltiples imágenes",
+          "text_rendering": "Renderizado de texto"
+        },
+        "values": {
+          "good": "Bueno",
+          "excellent": "Excelente",
+          "enhanced": "Mejorado",
+          "standard": "Estándar",
+          "superior": "Superior",
+          "improved": "Mejorado",
+          "unlimited": "Ilimitado",
+          "basic": "Básico",
+          "advanced": "Avanzado",
+          "upgraded": "Actualizado",
+          "extended": "Extendido"
+        },
+        "footer_note": "* Las mejoras de rendimiento se midieron bajo condiciones de prueba estándar. Los resultados reales pueden variar según los escenarios de uso."
+      }
+    }
+  },
+  "gempix2": {
+    "wrapper": {
+      "loading_text": "Cargando Gempix2...",
+      "title": "Banco de Trabajo de Creación AI de Gempix2",
+      "description": "Usa tecnología AI avanzada para transformar tu imaginación en hermosas imágenes"
+    },
+    "workspace": {
+      "mode_selector": {
+        "image_edit": "Edición de Imagen",
+        "text_to_image": "Texto a Imagen"
+      },
+      "operation_panel": {
+        "login_required": "Por favor inicia sesión primero",
+        "insufficient_credits": "Créditos insuficientes, necesitas {amount} créditos",
+        "please_enter_prompt": "Por favor ingresa una descripción",
+        "prompt_min_length": "Por favor ingresa al menos 3 caracteres",
+        "generating": "Generando...",
+        "start_creation": "Iniciar Creación"
+      },
+      "image_upload": {
+        "title": "Imágenes de Referencia",
+        "add_image": "Agregar Imagen",
+        "max_size": "Máx 10MB",
+        "supported_formats": "JPG, PNG, WebP",
+        "drag_to_upload": "Soltar archivo",
+        "clear_all": "Limpiar todas las imágenes",
+        "error_invalid_type": "Formato de archivo no compatible, solo se admiten JPG, PNG, WebP",
+        "error_too_large": "El tamaño del archivo excede el límite de 10MB",
+        "error_too_many": "Se pueden subir máximo 10 archivos a la vez"
+      },
+      "prompt_input": {
+        "title": "Describe tu idea",
+        "placeholder_image_edit": "Describe el efecto que deseas, incluyendo estilo, color, composición y otros detalles...",
+        "placeholder_text_to_image": "Describe detalladamente la imagen que quieres generar, incluyendo sujeto, escena, estilo, color, etc...",
+        "tip": "Las descripciones detalladas conducen a mejores resultados"
+      },
+      "image_size_selector": {
+        "title": "Relación de Aspecto",
+        "auto": "Auto",
+        "ratios": {
+          "auto": "IA auto-decide",
+          "1:1": "Avatar social",
+          "9:16": "Vídeo vertical",
+          "16:9": "Vídeo horizontal",
+          "3:4": "Foto retrato",
+          "4:3": "Foto paisaje",
+          "3:2": "Foto clásica",
+          "2:3": "Retrato clásico",
+          "5:4": "Formato medio",
+          "4:5": "Retrato medio",
+          "21:9": "Ultra ancho"
+        }
+      },
+      "credits_display": {
+        "title": "Consumo de Créditos",
+        "unit": "créditos"
+      },
+      "display_panel": {
+        "generation_complete": "¡Generación completa!",
+        "regenerate": "Regenerar",
+        "image_download_success": "Imagen descargada exitosamente",
+        "download_failed": "Error de descarga",
+        "link_copied": "Enlace copiado",
+        "copy_failed": "Error al copiar"
+      },
+      "empty_state": {
+        "title": "¿Listo para empezar a crear?",
+        "description": "Selecciona un modo a la izquierda, sube imágenes o ingresa descripciones, y deja que la IA cree visuales increíbles para ti",
+        "feature_ai": "Inteligencia AI",
+        "feature_speed": "Generación Ultra-rápida",
+        "feature_quality": "Alta Calidad"
+      },
+      "progress_state": {
+        "title": "La IA está creando...",
+        "description": "Por favor espera un momento, algo increíble está llegando",
+        "task_id": "ID de Tarea: {taskId}"
+      },
+      "error_state": {
+        "title": "Error de generación",
+        "default_message": "Lo siento, hubo un problema durante la generación de la imagen. Por favor intenta más tarde. Si el problema persiste, por favor contacta a nuestro equipo de soporte técnico.",
+        "support_message": "Si el problema persiste, nuestro equipo de soporte técnico te ayudará",
+        "retry_button": "Intentar de nuevo",
+        "contact_support": "Contactar soporte",
+        "support_email_text": "Correo de soporte técnico:",
+        "email_subject": "Gempix2 - Solicitud de soporte técnico",
+        "email_body": "Hola,\\n\\nEncontré un problema al usar Gempix2:\\n\\nMensaje de error: {title}\\nDescripción detallada: {message}\\n\\n¡Por favor ayuda con la resolución, gracias!\\n\\nUsuario"
+      },
+      "image_card": {
+        "image_load_failed": "Error al cargar la imagen",
+        "image_number": "#{number}",
+        "from_link": "Desde enlace"
+      },
+      "image_action_bar": {
+        "download": "Descargar",
+        "enhance": "Mejora de Imagen",
+        "continue_edit": "Editar de Nuevo",
+        "image_to_video": "Imagen a Video",
+        "image_not_found": "Imagen no encontrada",
+        "invalid_image_url": "URL de imagen inválida",
+        "continue_edit_coming_soon": "La función de continuar editando estará disponible pronto",
+        "use_veo3": "Usar Veo 3",
+        "use_sora2": "Usar Sora 2",
+        "use_wan25": "Usar Wan 2.5"
+      },
+      "ai_description": {
+        "title": "Descripción Generada por IA"
+      },
+      "action_buttons": {
+        "download": "Descargar",
+        "copy_link": "Copiar Enlace",
+        "copied": "Copiado",
+        "image_to_video": "Imagen a Video",
+        "view_large": "Ver Grande"
+      },
+      "image_preview": {
+        "download_success": "Imagen descargada exitosamente",
+        "download_failed": "Error de descarga",
+        "link_copied": "Enlace copiado",
+        "copy_failed": "Error al copiar",
+        "click_to_view": "Haz clic para ver imagen grande"
+      },
+      "image_viewer": {
+        "image_not_found": "Imagen no encontrada",
+        "invalid_image_url": "URL de imagen inválida",
+        "download": "Descargar",
+        "enhance": "Mejora de Imagen",
+        "close": "Cerrar",
+        "prev_image": "Anterior",
+        "next_image": "Siguiente",
+        "image_count": "{current} / {total}",
+        "use_veo3": "Usar Veo 3",
+        "use_sora2": "Usar Sora 2",
+        "use_wan25": "Usar Wan 2.5",
+        "image_to_video": "Imagen a Video"
+      },
+      "quick_prompts": {
+        "image_mode": {
+          "enhance_details": "Mejorar Detalles",
+          "enhance_details_prompt": "mejorar detalles, alta definición, fino",
+          "art_style": "Estilo Artístico",
+          "art_style_prompt": "estilo artístico, textura de pintura al óleo",
+          "anime_style": "Estilo Anime",
+          "anime_style_prompt": "estilo anime, 2D",
+          "realistic_photo": "Foto Realista",
+          "realistic_photo_prompt": "estilo realista, textura fotográfica"
+        },
+        "text_mode": {
+          "art_creation": "Creación Artística",
+          "art_creation_prompt": "estilo artístico, alta calidad, exquisito",
+          "realistic_style": "Estilo Realista",
+          "realistic_style_prompt": "estilo realista, fotografía de alta definición",
+          "sci_fi": "Ciencia Ficción Futura",
+          "sci_fi_prompt": "estilo ciencia ficción, futurista",
+          "creative_design": "Diseño Creativo",
+          "creative_design_prompt": "diseño creativo, perspectiva única"
+        }
+      }
+    },
+    "hooks": {
+      "file_validation": {
+        "unsupported_format": "Formato de archivo no compatible, solo se admiten JPG, PNG, WebP",
+        "file_too_large": "El tamaño del archivo es {sizeMB}MB, excede el límite de 10MB",
+        "image_applied": "Imagen aplicada al área de referencia",
+        "invalid_image_url": "URL de imagen inválida"
+      }
+    },
+    "messages": {
+      "starting_upload": "Iniciando subida de {count} imágenes...",
+      "upload_success": "¡Todas las imágenes se subieron exitosamente!",
+      "upload_failed": "Error al subir imagen",
+      "upload_image_failed": "Error al subir imagen {filename}",
+      "submit_failed": "Error al enviar tarea",
+      "task_submitted": "Tarea enviada, procesando...",
+      "insufficient_credits": "Créditos insuficientes, por favor recarga e intenta de nuevo",
+      "generation_success": "¡{count} imágenes generadas exitosamente!",
+      "get_results_failed": "Error al obtener resultados",
+      "task_failed": "Error en la ejecución de la tarea",
+      "max_images_warning": "Máximo 10 imágenes permitidas, limitado automáticamente"
+    },
+    "validation": {
+      "please_enter_prompt": "Por favor ingresa una descripción",
+      "please_upload_image": "Por favor sube al menos una imagen"
+    },
+    "prompts": {
+      "card_image_alt": "{title} - AI prompt example image{tags}"
+    }
+  }
+}

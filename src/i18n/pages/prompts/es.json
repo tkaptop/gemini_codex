@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "Galería de Prompts - Explora Prompts para Imágenes con IA | Gempix2",
+    "description": "Explora más de 400 sugerencias curadas para generar imágenes con IA, incluyendo ejemplos. Encuentra inspiración para tu próximo proyecto creativo.",
+    "keywords": "Indicaciones de IA, generación de imágenes, GPT-4o, galería de indicaciones, arte con IA"
+  },
+  "hero": {
+    "title": "Galería de Prompts para Generación de Imágenes con IA",
+    "description": "Explora más de 400 propuestas curadas para generar imágenes con IA para Gempix2 . Encuentra ejemplos creativos para diseño de personajes, escenas y estilos artísticos."
+  },
+  "card_image_alt": "{title}{tags}",
+  "gallery": {
+    "stats": "Mostrando {count} de {total} mensajes",
+    "loading": "Cargando indicaciones...",
+    "errorTitle": "No se pudieron cargar los avisos",
+    "errorDescription": "No pudimos cargar la biblioteca de prompts. Por favor, inténtalo de nuevo.",
+    "retry": "Reintentar",
+    "empty": "No se encontraron solicitudes que coincidan con sus criterios.",
+    "search": {
+      "placeholder": "Buscar por número de caso, título o indicación...",
+      "clear": "Borrar búsqueda",
+      "input_label": "Búsquedas sugeridas"
+    },
+    "filter": {
+      "selectedLabel": "Seleccionado:",
+      "clearAll": "Borrar todo",
+      "tagsLabel": "Etiquetas:",
+      "removeTag": "Eliminar {tag}"
+    },
+    "modal": {
+      "caseTitle": "Caso #{id}: {title}",
+      "sourceLabel": "Fuente",
+      "imagesTitle": "Imágenes de Ejemplo",
+      "promptsTitle": "Sugerencias",
+      "promptLabel": "Prompt {index}",
+      "copy": "Copia",
+      "copied": "Copiado",
+      "copyAria": "Copiar indicación {index}",
+      "descriptionTitle": "Descripción",
+      "notesTitle": "Notas"
+    }
+  },
+  "copy": {
+    "success": "Comando copiado",
+    "failure": "No se pudo copiar el mensaje"
+  },
+  "tools": {
+    "ariaLabel": "Herramientas de IA relacionadas",
+    "gemini3": "Asistente de IA Gemini 3",
+    "gemini30": "Funciones de Gemini 3.0 Pro",
+    "imageGuide": "Guía de generación de imágenes",
+    "compare": "Comparar Gemini 3 vs GPT-4o"
+  },
+  "detail": {
+    "backToGallery": "Volver a la galería",
+    "source": "Fuente",
+    "recreateButton": "Recrear en Gempix2",
+    "share": {
+      "button": "Compartir",
+      "buttonLabel": "Compartir este mensaje",
+      "copied": "Enlace copiado",
+      "linkCopied": "Enlace copiado al portapapeles",
+      "success": "Compartido exitosamente",
+      "failed": "No se pudo compartir"
+    },
+    "sections": {
+      "prompt": "Inicio",
+      "description": "Descripción",
+      "notes": "Notas",
+      "relatedPrompts": "Preguntas relacionadas"
+    },
+    "navigation": {
+      "previous": "Anterior",
+      "next": "Siguiente"
+    }
+  }
+}

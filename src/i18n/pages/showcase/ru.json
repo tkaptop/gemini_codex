@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "title": "Gempix2 Галерея - Gempix2 ИИ-редактор изображений",
+    "description": "Исследуйте удивительные работы, созданные Gempix2 ИИ, и креативные дизайны, испытайте передовую технологию генерации и редактирования изображений"
+  },
+  "showcase": {
+    "name": "showcase",
+    "title": "Примеры Gempix2",
+    "description": "Исследуйте различные типы эффектов обработки изображений и испытайте мощь профессиональной технологии ИИ.",
+    "subtitle": "Раскройте свою креативность и исследуйте больше способов использования, не только примеры ниже.",
+    "items": [
+      {
+        "id": "background-replacement",
+        "category": "Замена фона",
+        "title": "Замена фона",
+        "description": "Отделите объект от оригинального фона и замените его на новую, более креативную сцену.",
+        "original": "https://cdn.gempix2.site/showcase/1.webp",
+        "effects": [
+          {
+            "id": "vintage-desk",
+            "name": "Винтажный стол с инструментами",
+            "image": "https://cdn.gempix2.site/showcase/1-1.png",
+            "prompt": "Change background to a vast grassland",
+            "description": "Поместить объект в обстановку мастерской"
+          },
+          {
+            "id": "tropical-beach",
+            "name": "Тропический пляж",
+            "image": "https://cdn.gempix2.site/showcase/1-2.png",
+            "prompt": "Change background to a winding mountain road",
+            "description": "Солнечный пляж с кристально чистой водой"
+          },
+          {
+            "id": "modern-office",
+            "name": "Современный офис",
+            "image": "https://cdn.gempix2.site/showcase/1-3.png",
+            "prompt": "Изменить фон на ретро-верстак с инструментами.",
+            "description": "Чистое, минималистичное офисное пространство"
+          }
+        ]
+      },
+      {
+        "id": "lighting-adjustment",
+        "category": "Настройка освещения",
+        "title": "Настройка освещения",
+        "description": "Настройте световые эффекты с помощью ИИ, чтобы изменить настроение и придать вашим фотографиям кинематографический вид.",
+        "original": "https://cdn.gempix2.site/showcase/2.webp",
+        "effects": [
+          {
+            "id": "golden-hour",
+            "name": "Золотой час",
+            "image": "https://cdn.gempix2.site/showcase/2-1.png",
+            "prompt": "Add warm sunlight effect",
+            "description": "Воссоздание магического освещения золотого часа"
+          },
+          {
+            "id": "dramatic-shadows",
+            "name": "Драматичные тени",
+            "image": "https://cdn.gempix2.site/showcase/2-2.png",
+            "prompt": "Adjust to the cool tones of the 'blue hour'",
+            "description": "Высококонтрастное драматичное освещение"
+          },
+          {
+            "id": "soft-glow",
+            "name": "Мягкое свечение",
+            "image": "https://cdn.gempix2.site/showcase/2-3.png",
+            "prompt": "Switch to a night scene with point light sources",
+            "description": "Нежный, льстящий световой эффект"
+          }
+        ]
+      },
+      {
+        "id": "style-conversion",
+        "category": "Преобразование стиля",
+        "title": "Преобразование стиля",
+        "description": "Трансформируйте ваши фотографии в различные художественные стили с помощью ИИ.",
+        "original": "https://cdn.gempix2.site/showcase/3.webp",
+        "effects": [
+          {
+            "id": "oil-painting",
+            "name": "Масляная живопись",
+            "image": "https://cdn.gempix2.site/showcase/3-1.webp",
+            "prompt": "Convert to Japanese anime style",
+            "description": "Классический эффект масляной живописи"
+          },
+          {
+            "id": "watercolor",
+            "name": "Акварель",
+            "image": "https://cdn.gempix2.site/showcase/3-2.webp",
+            "prompt": "Convert to a rich oil painting style",
+            "description": "Деликатный акварельный художественный стиль"
+          },
+          {
+            "id": "anime",
+            "name": "Стиль аниме",
+            "image": "https://cdn.gempix2.site/showcase/3-3.webp",
+            "prompt": "Convert to a retro pixel art style",
+            "description": "Стиль японских аниме персонажей"
+          }
+        ]
+      },
+      {
+        "id": "color-change",
+        "category": "Изменение цвета",
+        "title": "Изменение цвета",
+        "description": "Профессиональная цветокоррекция для полного изменения настроения ваших фотографий.",
+        "original": "https://cdn.gempix2.site/showcase/4.webp",
+        "effects": [
+          {
+            "id": "vibrant",
+            "name": "Яркие цвета",
+            "image": "https://cdn.gempix2.site/showcase/4-1.png",
+            "prompt": "Change all green leaves to red",
+            "description": "Привлекающие внимание яркие цвета"
+          },
+          {
+            "id": "moody",
+            "name": "Атмосферные тона",
+            "image": "https://cdn.gempix2.site/showcase/4-2.png",
+            "prompt": "Change all green leaves to yellow",
+            "description": "Глубокая, атмосферная цветокоррекция"
+          },
+          {
+            "id": "vintage",
+            "name": "Винтажная пленка",
+            "image": "https://cdn.gempix2.site/showcase/4-3.png",
+            "prompt": "Change all green leaves to blue",
+            "description": "Классическая палитра пленочных цветов"
+          }
+        ]
+      },
+      {
+        "id": "age-transformation",
+        "category": "Трансформация возраста",
+        "title": "Трансформация возраста",
+        "description": "Посмотрите на себя в разном возрасте с помощью передовой технологии ИИ.",
+        "original": "https://cdn.gempix2.site/showcase/5.webp",
+        "effects": [
+          {
+            "id": "younger",
+            "name": "На 10 лет моложе",
+            "image": "https://cdn.gempix2.site/showcase/5-1.webp",
+            "prompt": "Change age to 3 years old",
+            "description": "Естественный эффект омоложения"
+          },
+          {
+            "id": "teenage",
+            "name": "Подростковые годы",
+            "image": "https://cdn.gempix2.site/showcase/5-2.webp",
+            "prompt": "Change age to 16 years old",
+            "description": "Молодежный подростковый вид"
+          },
+          {
+            "id": "elderly",
+            "name": "Будущее вы",
+            "image": "https://cdn.gempix2.site/showcase/5-3.webp",
+            "prompt": "Изменить возраст на 60 лет",
+            "description": "Естественная симуляция старения"
+          }
+        ]
+      }
+    ]
+  }
+}

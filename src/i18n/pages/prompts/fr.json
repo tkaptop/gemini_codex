@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "Galerie de Prompts - Découvrez des prompts d'images IA | Gempix2",
+    "description": "Découvrez plus de 400 prompts de génération d'images IA soigneusement sélectionnés, accompagnés d'exemples. Trouvez l'inspiration pour votre prochain projet créatif.",
+    "keywords": "Invites IA, génération d'images, GPT-4o, galerie d'invites, art IA"
+  },
+  "hero": {
+    "title": "Galerie de suggestions pour la génération d'images IA",
+    "description": "Découvrez plus de 400 prompts de génération d'images IA spécialement conçus pour Gempix2 . Trouvez des exemples créatifs pour la conception de personnages, les scènes et les styles artistiques."
+  },
+  "card_image_alt": "{title}{tags}",
+  "gallery": {
+    "stats": "Affichage de {count} sur {total} invites",
+    "loading": "Chargement des invites...",
+    "errorTitle": "Impossible de charger les invites",
+    "errorDescription": "Nous n'avons pas pu charger la bibliothèque de prompts. Veuillez réessayer.",
+    "retry": "Réessayer",
+    "empty": "Aucune requête ne correspond à vos critères",
+    "search": {
+      "placeholder": "Rechercher par numéro de dossier, titre ou requête...",
+      "clear": "Effacer la recherche",
+      "input_label": "Suggestions de recherche"
+    },
+    "filter": {
+      "selectedLabel": "Sélectionné :",
+      "clearAll": "Tout effacer",
+      "tagsLabel": "Mots-clés :",
+      "removeTag": "Supprimer {tag}"
+    },
+    "modal": {
+      "caseTitle": "Cas #{id} : {title}",
+      "sourceLabel": "Source",
+      "imagesTitle": "Exemples d'images",
+      "promptsTitle": "Invitations",
+      "promptLabel": "Invite {index}",
+      "copy": "Copie",
+      "copied": "Copié",
+      "copyAria": "Copier l'invite {index}",
+      "descriptionTitle": "Description",
+      "notesTitle": "Notes"
+    }
+  },
+  "copy": {
+    "success": "Invite copiée",
+    "failure": "Échec de la copie du message"
+  },
+  "tools": {
+    "ariaLabel": "Outils d'IA associés",
+    "gemini3": "Assistant IA Gemini 3",
+    "gemini30": "Fonctionnalités Gemini 3.0 Pro",
+    "imageGuide": "Guide de génération d'images",
+    "compare": "Comparer Gemini 3 vs GPT-4o"
+  },
+  "detail": {
+    "backToGallery": "Retour à la galerie",
+    "source": "Source",
+    "recreateButton": "Recréer dans Gempix2",
+    "share": {
+      "button": "Partager",
+      "buttonLabel": "Partager cette instruction",
+      "copied": "Lien copié",
+      "linkCopied": "Lien copié dans le presse-papiers",
+      "success": "Partagé avec succès",
+      "failed": "Échec du partage"
+    },
+    "sections": {
+      "prompt": "Invite",
+      "description": "Description",
+      "notes": "Notes",
+      "relatedPrompts": "Suggestions associées"
+    },
+    "navigation": {
+      "previous": "Précédent",
+      "next": "Suivant"
+    }
+  }
+}
