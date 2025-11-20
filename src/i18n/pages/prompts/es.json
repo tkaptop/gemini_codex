@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "title": "Galería de Prompts - Explora Prompts para Imágenes con IA | Gempix2",
+    "title": "Galería de Prompts - Explora Prompts para Imágenes con IA | Nano Banana 2",
     "description": "Explora más de 400 sugerencias curadas para generar imágenes con IA, incluyendo ejemplos. Encuentra inspiración para tu próximo proyecto creativo.",
     "keywords": "Indicaciones de IA, generación de imágenes, GPT-4o, galería de indicaciones, arte con IA"
   },
   "hero": {
     "title": "Galería de Prompts para Generación de Imágenes con IA",
-    "description": "Explora más de 400 propuestas curadas para generar imágenes con IA para Gempix2 . Encuentra ejemplos creativos para diseño de personajes, escenas y estilos artísticos."
+    "description": "Explora más de 400 propuestas curadas para generar imágenes con IA para Nano Banana 2 . Encuentra ejemplos creativos para diseño de personajes, escenas y estilos artísticos."
   },
   "card_image_alt": "{title}{tags}",
   "gallery": {
@@ -54,7 +54,7 @@
   "detail": {
     "backToGallery": "Volver a la galería",
     "source": "Fuente",
-    "recreateButton": "Recrear en Gempix2",
+    "recreateButton": "Recrear en Nano Banana 2",
     "share": {
       "button": "Compartir",
       "buttonLabel": "Compartir este mensaje",

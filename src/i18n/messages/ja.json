@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Gempix2 - AI画像ジェネレーター | チャットで画像を編集",
-    "description": "Gempix2は、自然なチャット会話を通じて画像を作成・編集できるAI搭載の画像ジェネレーターです。Flux Kontextの強力な代替ツール。",
+    "title": "Nano Banana 2 - AI画像ジェネレーター | チャットで画像を編集",
+    "description": "Nano Banana 2は、自然なチャット会話を通じて画像を作成・編集できるAI搭載の画像ジェネレーターです。Flux Kontextの強力な代替ツール。",
     "keywords": ""
   },
   "user": {
@@ -152,7 +152,7 @@
   },
   "announcement": {
     "banner": {
-      "text": "🎉 Gempix2 まもなくリリース!割引終了間近!",
+      "text": "🎉 Nano Banana 2 まもなくリリース!割引終了間近!",
       "button": "今すぐ見る"
     }
   },
@@ -160,8 +160,8 @@
     "landing": {
       "comparison": {
         "label": "世代比較",
-        "title": "コミュニティで「Nano Banana」と呼ばれるスタック vs Gempix2",
-        "description": "コミュニティが「Nano Banana 2」と呼ぶ同じスタック上で提供される公式サービスとして、Gempix2が初代「Nano Banana」ワークフローより性能と機能をどのように高めるかをご覧ください",
+        "title": "コミュニティで「Nano Banana」と呼ばれるスタック vs Nano Banana 2",
+        "description": "コミュニティが「Nano Banana 2」と呼ぶ同じスタック上で提供される公式サービスとして、Nano Banana 2が初代「Nano Banana」ワークフローより性能と機能をどのように高めるかをご覧ください",
         "headers": {
           "feature": "機能",
           "improvement": "改善"
@@ -194,8 +194,8 @@
   },
   "gempix2": {
     "wrapper": {
-      "loading_text": "Gempix2を読み込み中...",
-      "title": "Gempix2 AI創作ワークベンチ",
+      "loading_text": "Nano Banana 2を読み込み中...",
+      "title": "Nano Banana 2 AI創作ワークベンチ",
       "description": "高度なAI技術を使用して、想像力を美しい画像に変換します"
     },
     "workspace": {
@@ -276,8 +276,8 @@
         "retry_button": "再試行",
         "contact_support": "サポートに連絡",
         "support_email_text": "技術サポートメール:",
-        "email_subject": "Gempix2 - 技術サポート要請",
-        "email_body": "こんにちは、\\n\\nGempix2の使用中に問題が発生しました：\\n\\nエラーメッセージ: {title}\\n詳細説明: {message}\\n\\n解決のサポートをお願いします、ありがとうございます！\\n\\nユーザー"
+        "email_subject": "Nano Banana 2 - 技術サポート要請",
+        "email_body": "こんにちは、\\n\\nNano Banana 2の使用中に問題が発生しました：\\n\\nエラーメッセージ: {title}\\n詳細説明: {message}\\n\\n解決のサポートをお願いします、ありがとうございます！\\n\\nユーザー"
       },
       "image_card": {
         "image_load_failed": "画像の読み込みに失敗しました",

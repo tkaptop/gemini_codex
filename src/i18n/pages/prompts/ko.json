@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "title": "프롬프트 갤러리 - AI 이미지 프롬프트 탐색하기 | Gempix2",
+    "title": "프롬프트 갤러리 - AI 이미지 프롬프트 탐색하기 | Nano Banana 2",
     "description": "400개 이상의 엄선된 AI 이미지 생성 프롬프트와 예시를 확인해 보세요. 다음 창작물에 필요한 영감을 얻어 보세요.",
     "keywords": "AI 프롬프트, 이미지 생성, GPT-4o, 프롬프트 갤러리, AI 아트"
   },
   "hero": {
     "title": "AI 이미지 생성 프롬프트 갤러리",
-    "description": "Gempix2 를 위한 400개 이상의 엄선된 AI 이미지 생성 프롬프트를 탐색해 보세요. 캐릭터 디자인, 배경 장면, 예술적 스타일에 관한 창의적인 예시들을 찾아보실 수 있습니다."
+    "description": "Nano Banana 2 를 위한 400개 이상의 엄선된 AI 이미지 생성 프롬프트를 탐색해 보세요. 캐릭터 디자인, 배경 장면, 예술적 스타일에 관한 창의적인 예시들을 찾아보실 수 있습니다."
   },
   "card_image_alt": "{title}{tags}",
   "gallery": {
@@ -54,7 +54,7 @@
   "detail": {
     "backToGallery": "갤러리로 돌아가기",
     "source": "원본",
-    "recreateButton": "Gempix2에서 다시 만들기",
+    "recreateButton": "Nano Banana 2에서 다시 만들기",
     "share": {
       "button": "공유하기",
       "buttonLabel": "프롬프트 공유하기",

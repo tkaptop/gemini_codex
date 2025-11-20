@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "title": "Gemini Studio - Gemini 3 Guide & Gempix2 Image Workflows",
-    "description": "Gemini Studio is an English hub for Gemini 3, Gemini 3.0 and gemini3 workflows, with guides, prompts and image tutorials that route to Gempix2 (Gempix 2) running on the Nano Banana 2 stack for high-quality AI image generation.",
-    "keywords": "Gemini 3, gemini3, Gemini 3.0, Gempix2, Gempix 2, Nano Banana 2, AI image generator"
+    "title": "Gemini Studio - Gemini 3 Guide & Nano Banana 2 Image Workflows",
+    "description": "Gemini Studio is an English hub for Gemini 3, Gemini 3.0 and gemini3 workflows, with guides, prompts and image tutorials that route to Nano Banana 2 (Nano Banana 2) running on the Nano Banana 2 stack for high-quality AI image generation.",
+    "keywords": "Gemini 3, gemini3, Gemini 3.0, Nano Banana 2, Nano Banana 2, Nano Banana 2, AI image generator"
   },
   "user": {
     "sign_in": "Sign In",
@@ -160,8 +160,8 @@
     "landing": {
       "comparison": {
         "label": "Generation Comparison",
-        "title": "Legacy \"Nano Banana\" stack vs Gempix2",
-        "description": "See how the official Gempix2 service, running on the stack the community nicknames \"Nano Banana 2,\" improves on the legacy \"Nano Banana\" workflows with enhanced performance and capabilities",
+        "title": "Legacy \"Nano Banana\" stack vs Nano Banana 2",
+        "description": "See how the official Nano Banana 2 service, running on the stack the community nicknames \"Nano Banana 2,\" improves on the legacy \"Nano Banana\" workflows with enhanced performance and capabilities",
         "headers": {
           "feature": "Feature",
           "improvement": "Improvement"
@@ -194,8 +194,8 @@
   },
   "gempix2": {
     "wrapper": {
-      "loading_text": "Loading Gempix2...",
-      "title": "Gempix2 AI Creation Workbench",
+      "loading_text": "Loading Nano Banana 2...",
+      "title": "Nano Banana 2 AI Creation Workbench",
       "description": "Use advanced AI technology to transform your imagination into beautiful images"
     },
     "workspace": {
@@ -276,8 +276,8 @@
         "retry_button": "Try again",
         "contact_support": "Contact support",
         "support_email_text": "Technical support email:",
-        "email_subject": "Gempix2 - Technical support request",
-        "email_body": "Hello,\\n\\nI encountered an issue while using Gempix2:\\n\\nError message: {title}\\nDetailed description: {message}\\n\\nPlease assist with resolution, thank you!\\n\\nUser"
+        "email_subject": "Nano Banana 2 - Technical support request",
+        "email_body": "Hello,\\n\\nI encountered an issue while using Nano Banana 2:\\n\\nError message: {title}\\nDetailed description: {message}\\n\\nPlease assist with resolution, thank you!\\n\\nUser"
       },
       "image_card": {
         "image_load_failed": "Image loading failed",

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Gempix2 Image Upscaler Online - Strumento AI per Miglioramento Foto",
+    "title": "Nano Banana 2 Image Upscaler Online - Strumento AI per Miglioramento Foto",
     "description": "Utilizza tecnologia AI avanzata per migliorare e ingrandire le tue foto con qualità professionale. Trasforma immagini a bassa risoluzione in capolavori ad alta definizione."
   },
   "hero": {
-    "title": "Gempix2 Image Upscaler",
-    "description": "La tecnologia professionale di upscaling delle immagini basata su AI migliora la qualità delle immagini di output di Gempix2, creando effetti visivi straordinari."
+    "title": "Nano Banana 2 Image Upscaler",
+    "description": "La tecnologia professionale di upscaling delle immagini basata su AI migliora la qualità delle immagini di output di Nano Banana 2, creando effetti visivi straordinari."
   },
   "features": {
     "title": "Sperimenta il Miglioramento Professionale delle Immagini con Tecnologia AI Avanzata",
@@ -13,7 +13,7 @@
     "items": [
       {
         "title": "Miglioramento Superiore della Qualità dell'Immagine",
-        "description": "Gempix2 Image Upscaler offre capacità eccezionali di miglioramento delle immagini, trasformando foto a bassa risoluzione in immagini nitide ad alta definizione. La nostra tecnologia AI preserva i dettagli più complessi migliorando drasticamente la qualità e la nitidezza complessiva dell'immagine."
+        "description": "Nano Banana 2 Image Upscaler offre capacità eccezionali di miglioramento delle immagini, trasformando foto a bassa risoluzione in immagini nitide ad alta definizione. La nostra tecnologia AI preserva i dettagli più complessi migliorando drasticamente la qualità e la nitidezza complessiva dell'immagine."
       },
       {
         "title": "Tecnologia di Upscaling Intelligente",
@@ -35,7 +35,7 @@
     "items": [
       {
         "title": "Carica la Tua Immagine",
-        "description": "Seleziona e carica l'immagine che desideri migliorare utilizzando Gempix2 Image Upscaler. Il supporto per vari formati tra cui JPEG, PNG e WebP garantisce la compatibilità con tutte le tue foto e grafiche."
+        "description": "Seleziona e carica l'immagine che desideri migliorare utilizzando Nano Banana 2 Image Upscaler. Il supporto per vari formati tra cui JPEG, PNG e WebP garantisce la compatibilità con tutte le tue foto e grafiche."
       },
       {
         "title": "Scegli le Impostazioni di Miglioramento",
@@ -48,11 +48,11 @@
     ]
   },
   "workspace": {
-    "title": "Area di Lavoro Gempix2 Image Upscaler",
+    "title": "Area di Lavoro Nano Banana 2 Image Upscaler",
     "description": "Area di lavoro professionale per il miglioramento delle immagini alimentata da tecnologia AI avanzata.",
     "upload_zone": {
       "title": "Carica Immagine",
-      "description": "Trascina e rilascia o fai clic per caricare la tua immagine su Gempix2 Image Upscaler",
+      "description": "Trascina e rilascia o fai clic per caricare la tua immagine su Nano Banana 2 Image Upscaler",
       "supported_formats": "Formati supportati: JPEG, PNG, WebP",
       "max_size": "Dimensione massima del file: 10MB",
       "error_file_too_large": "Il file è troppo grande. La dimensione massima è 10MB.",
@@ -164,43 +164,43 @@
   },
   "faq": {
     "title": "Domande Frequenti",
-    "description": "Ottieni risposte alle domande più comuni su Gempix2 Image Upscaler.",
+    "description": "Ottieni risposte alle domande più comuni su Nano Banana 2 Image Upscaler.",
     "contact": {
       "question_text": "Hai altre domande?",
       "support_link": "Contatta il nostro team di supporto"
     },
     "items": [
       {
-        "question": "Cos'è Gempix2 Image Upscaler?",
-        "answer": "Gempix2 Image Upscaler è uno strumento avanzato di miglioramento delle immagini basato su AI che utilizza algoritmi di machine learning all'avanguardia per ingrandire e migliorare la qualità delle immagini. Può aumentare la risoluzione delle immagini fino a 4 volte preservando e migliorando i dettagli più fini, rendendolo perfetto per fotografi, designer e creatori di contenuti."
+        "question": "Cos'è Nano Banana 2 Image Upscaler?",
+        "answer": "Nano Banana 2 Image Upscaler è uno strumento avanzato di miglioramento delle immagini basato su AI che utilizza algoritmi di machine learning all'avanguardia per ingrandire e migliorare la qualità delle immagini. Può aumentare la risoluzione delle immagini fino a 4 volte preservando e migliorando i dettagli più fini, rendendolo perfetto per fotografi, designer e creatori di contenuti."
       },
       {
-        "question": "Come funziona Gempix2 Image Upscaler?",
-        "answer": "Gempix2 Image Upscaler impiega sofisticati modelli di deep learning addestrati su milioni di immagini di alta qualità. L'AI analizza il contenuto della tua immagine, identifica pattern e texture, quindi ricostruisce intelligentemente i pixel mancanti per creare una versione ad alta risoluzione con maggiore nitidezza e dettaglio."
+        "question": "Come funziona Nano Banana 2 Image Upscaler?",
+        "answer": "Nano Banana 2 Image Upscaler impiega sofisticati modelli di deep learning addestrati su milioni di immagini di alta qualità. L'AI analizza il contenuto della tua immagine, identifica pattern e texture, quindi ricostruisce intelligentemente i pixel mancanti per creare una versione ad alta risoluzione con maggiore nitidezza e dettaglio."
       },
       {
-        "question": "Quali formati di immagine supporta Gempix2 Image Upscaler?",
-        "answer": "Gempix2 Image Upscaler supporta formati di immagine popolari tra cui JPEG, PNG, WebP e TIFF. Puoi caricare immagini fino a 10MB di dimensione, rendendolo adatto sia per grafica web che per progetti fotografici ad alta risoluzione."
+        "question": "Quali formati di immagine supporta Nano Banana 2 Image Upscaler?",
+        "answer": "Nano Banana 2 Image Upscaler supporta formati di immagine popolari tra cui JPEG, PNG, WebP e TIFF. Puoi caricare immagini fino a 10MB di dimensione, rendendolo adatto sia per grafica web che per progetti fotografici ad alta risoluzione."
       },
       {
-        "question": "Quanto costa utilizzare Gempix2 Image Upscaler?",
-        "answer": "Ogni miglioramento di immagine con Gempix2 Image Upscaler costa 2 crediti. Questo ti fornisce capacità di upscaling e miglioramento di livello professionale adatte a progetti commerciali e personali."
+        "question": "Quanto costa utilizzare Nano Banana 2 Image Upscaler?",
+        "answer": "Ogni miglioramento di immagine con Nano Banana 2 Image Upscaler costa 2 crediti. Questo ti fornisce capacità di upscaling e miglioramento di livello professionale adatte a progetti commerciali e personali."
       },
       {
-        "question": "Posso utilizzare le immagini migliorate da Gempix2 Image Upscaler per scopi commerciali?",
-        "answer": "Sì, tutte le immagini elaborate tramite Gempix2 Image Upscaler sono adatte all'uso commerciale. Le immagini migliorate mantengono standard di qualità professionale e possono essere utilizzate per progetti aziendali, materiali di marketing e applicazioni commerciali."
+        "question": "Posso utilizzare le immagini migliorate da Nano Banana 2 Image Upscaler per scopi commerciali?",
+        "answer": "Sì, tutte le immagini elaborate tramite Nano Banana 2 Image Upscaler sono adatte all'uso commerciale. Le immagini migliorate mantengono standard di qualità professionale e possono essere utilizzate per progetti aziendali, materiali di marketing e applicazioni commerciali."
       },
       {
-        "question": "Quanto tempo impiega Gempix2 Image Upscaler per elaborare un'immagine?",
-        "answer": "Gempix2 Image Upscaler elabora tipicamente le immagini entro 30-60 secondi, a seconda delle dimensioni dell'immagine originale e delle opzioni di miglioramento selezionate. La nostra infrastruttura AI ottimizzata garantisce un'elaborazione veloce mantenendo risultati di alta qualità."
+        "question": "Quanto tempo impiega Nano Banana 2 Image Upscaler per elaborare un'immagine?",
+        "answer": "Nano Banana 2 Image Upscaler elabora tipicamente le immagini entro 30-60 secondi, a seconda delle dimensioni dell'immagine originale e delle opzioni di miglioramento selezionate. La nostra infrastruttura AI ottimizzata garantisce un'elaborazione veloce mantenendo risultati di alta qualità."
       },
       {
-        "question": "Qual è il fattore di ingrandimento massimo disponibile in Gempix2 Image Upscaler?",
-        "answer": "Gempix2 Image Upscaler può ingrandire le immagini fino a 4 volte la loro risoluzione originale. Ad esempio, un'immagine di 512x512 pixel può essere migliorata fino a 2048x2048 pixel mantenendo un aspetto naturale e una qualità dei dettagli nitida."
+        "question": "Qual è il fattore di ingrandimento massimo disponibile in Nano Banana 2 Image Upscaler?",
+        "answer": "Nano Banana 2 Image Upscaler può ingrandire le immagini fino a 4 volte la loro risoluzione originale. Ad esempio, un'immagine di 512x512 pixel può essere migliorata fino a 2048x2048 pixel mantenendo un aspetto naturale e una qualità dei dettagli nitida."
       },
       {
-        "question": "Gempix2 Image Upscaler funziona bene con diversi tipi di immagini?",
-        "answer": "Sì, Gempix2 Image Upscaler è progettato per funzionare efficacemente con vari tipi di immagini tra cui ritratti, paesaggi, opere d'arte, grafica e fotografie. Il modello AI è stato addestrato su diverse categorie di immagini per garantire un miglioramento ottimale su diversi tipi di contenuto."
+        "question": "Nano Banana 2 Image Upscaler funziona bene con diversi tipi di immagini?",
+        "answer": "Sì, Nano Banana 2 Image Upscaler è progettato per funzionare efficacemente con vari tipi di immagini tra cui ritratti, paesaggi, opere d'arte, grafica e fotografie. Il modello AI è stato addestrato su diverse categorie di immagini per garantire un miglioramento ottimale su diversi tipi di contenuto."
       }
     ]
   }

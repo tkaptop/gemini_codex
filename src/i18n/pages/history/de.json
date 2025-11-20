@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "Erstellungsverlauf - Gempix2",
+    "title": "Erstellungsverlauf - Nano Banana 2",
     "description": "KI-generierte Bilderstellungshistorie anzeigen und verwalten"
   },
   "status": {
@@ -48,8 +48,8 @@
   "no_image_selected": "Kein Bild ausgewählt",
   "redirecting_to_upscaler": "Weiterleitung zum Bildvergrößerer...",
   "invalid_image_url": "Ungültige Bild-URL",
-  "title": "Gempix2 Kreationshistorie",
-  "description": "Alle Bilder anzeigen, die Sie zuvor mit Gempix2 generiert und bearbeitet haben",
+  "title": "Nano Banana 2 Kreationshistorie",
+  "description": "Alle Bilder anzeigen, die Sie zuvor mit Nano Banana 2 generiert und bearbeitet haben",
   "credits_used": "{amount} Guthaben",
   "credits_refunded": "{amount} Guthaben erstattet",
   "images": "Bilder",

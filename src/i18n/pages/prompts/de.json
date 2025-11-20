@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "title": "Prompt-Galerie – Entdecken Sie KI-Bildprompts | Gempix2",
+    "title": "Prompt-Galerie – Entdecken Sie KI-Bildprompts | Nano Banana 2",
     "description": "Entdecken Sie über 400 sorgfältig zusammengestellte KI-Bildgenerierungs-Prompts mit Beispielen. Finden Sie Inspiration für Ihr nächstes Kreativprojekt.",
     "keywords": "KI-Prompts, Bildgenerierung, GPT-4o, Prompt-Galerie, KI-Kunst"
   },
   "hero": {
     "title": "Galerie für KI-Bildgenerierungs-Prompts",
-    "description": "Entdecken Sie über 400 sorgfältig ausgewählte KI-Bildgenerierungs-Prompts für Gempix2 . Finden Sie kreative Beispiele für Charakterdesign, Szenen und künstlerische Stile."
+    "description": "Entdecken Sie über 400 sorgfältig ausgewählte KI-Bildgenerierungs-Prompts für Nano Banana 2 . Finden Sie kreative Beispiele für Charakterdesign, Szenen und künstlerische Stile."
   },
   "card_image_alt": "{title}{tags}",
   "gallery": {
@@ -54,7 +54,7 @@
   "detail": {
     "backToGallery": "Zurück zur Galerie",
     "source": "Quelle",
-    "recreateButton": "In Gempix2 neu erstellen",
+    "recreateButton": "In Nano Banana 2 neu erstellen",
     "share": {
       "button": "Teilen",
       "buttonLabel": "Diesen Prompt teilen",

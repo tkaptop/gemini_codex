@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "创作记录 - Gempix2",
+    "title": "创作记录 - Nano Banana 2",
     "description": "查看和管理您的 AI 生成图片创作历史"
   },
   "status": {
@@ -48,8 +48,8 @@
   "no_image_selected": "未选择图片",
   "redirecting_to_upscaler": "正在跳转到图像放大器...",
   "invalid_image_url": "无效的图片链接",
-  "title": "Gempix2 创作记录",
-  "description": "查看您之前使用 Gempix2 生成和编辑的所有图片",
+  "title": "Nano Banana 2 创作记录",
+  "description": "查看您之前使用 Nano Banana 2 生成和编辑的所有图片",
   "credits_used": "{amount} 积分",
   "credits_refunded": "已退还 {amount} 积分",
   "images": "张图片",

@@ -134,21 +134,21 @@ export const newsArticles: NewsArticle[] = [
   },
   {
     slug: "gempix2-gemini-3-pro-image-overview",
-    title: "Gempix2 (Nano Banana 2): Gemini 3 Pro Image Model Explained",
+    title: "Nano Banana 2 (Nano Banana 2): Gemini 3 Pro Image Model Explained",
     description:
-      "How Gempix2 – also known as \"Nano Banana 2\" and GEMPIX2 – connects to Gemini 3 Pro and what it actually offers for image generation.",
+      "How Nano Banana 2 – also known as \"Nano Banana 2\" and NANO BANANA 2 – connects to Gemini 3 Pro and what it actually offers for image generation.",
     date: "2025-11-18",
     category: "Image Generation",
-    tags: ["Gempix2", "Nano Banana 2", "Gemini 3 Pro Image"],
+    tags: ["Nano Banana 2", "Nano Banana 2", "Gemini 3 Pro Image"],
     body: [
       {
         type: "heading",
-        text: "One model, three names: Gempix2, Nano Banana 2, GEMPIX2",
+        text: "One model, three names: Nano Banana 2, Nano Banana 2, NANO BANANA 2",
       },
       {
         type: "paragraph",
         text:
-          "Early leaks and internal documentation point to Gempix2, Nano Banana 2 and GEMPIX2 as three labels for the same underlying product: a Gemini 3 Pro–powered image model sometimes described as \"Gemini 3.0 Pro Image\". In other words, when people talk about Nano Banana 2, they are usually talking about Gempix2 running on top of Gemini 3 Pro.",
+          "Early leaks and internal documentation point to Nano Banana 2, Nano Banana 2 and NANO BANANA 2 as three labels for the same underlying product: a Gemini 3 Pro–powered image model sometimes described as \"Gemini 3.0 Pro Image\". In other words, when people talk about Nano Banana 2, they are usually talking about Nano Banana 2 running on top of Gemini 3 Pro.",
       },
       {
         type: "paragraph",
@@ -157,7 +157,7 @@ export const newsArticles: NewsArticle[] = [
       },
       {
         type: "heading",
-        text: "What Gempix2 is designed to do",
+        text: "What Nano Banana 2 is designed to do",
       },
       {
         type: "list",
@@ -176,23 +176,23 @@ export const newsArticles: NewsArticle[] = [
       {
         type: "paragraph",
         text:
-          "Documentation suggests that Gempix2 is currently focused on still images. Video generation appears on a 2026 roadmap, with hints that the underlying architecture is being prepared for time-consistent short clips and frame-by-frame editing. For now, the sweet spot is high-quality single frames, infographics and multi-image compositions.",
+          "Documentation suggests that Nano Banana 2 is currently focused on still images. Video generation appears on a 2026 roadmap, with hints that the underlying architecture is being prepared for time-consistent short clips and frame-by-frame editing. For now, the sweet spot is high-quality single frames, infographics and multi-image compositions.",
       },
       {
         type: "paragraph",
         text:
-          "If you mainly care about turning text and reference images into sharp, culturally-aware visuals, Gempix2 is the part of the Gemini 3 ecosystem you should be looking at. This site focuses on prompts and workflows that map well to those strengths, and you can send them directly to gempix2.site when you are ready to generate.",
+          "If you mainly care about turning text and reference images into sharp, culturally-aware visuals, Nano Banana 2 is the part of the Gemini 3 ecosystem you should be looking at. This site focuses on prompts and workflows that map well to those strengths, and you can send them directly to gempix2.site when you are ready to generate.",
       },
     ],
   },
   {
     slug: "gempix2-10-image-fusion-and-cjk-text",
-    title: "Why Gempix2’s 10-Image Fusion and CJK Text Rendering Matter",
+    title: "Why Nano Banana 2’s 10-Image Fusion and CJK Text Rendering Matter",
     description:
-      "A closer look at two standout features of the Gempix2 / Nano Banana 2 model: 10-image fusion and stronger CJK text rendering.",
+      "A closer look at two standout features of the Nano Banana 2 / Nano Banana 2 model: 10-image fusion and stronger CJK text rendering.",
     date: "2025-11-18",
     category: "Image Generation",
-    tags: ["Gempix2", "Nano Banana 2", "CJK", "10-image fusion"],
+    tags: ["Nano Banana 2", "Nano Banana 2", "CJK", "10-image fusion"],
     body: [
       {
         type: "heading",
@@ -201,7 +201,7 @@ export const newsArticles: NewsArticle[] = [
       {
         type: "paragraph",
         text:
-          "Most image models struggle once you ask them to combine more than a couple of references. Gempix2’s 10-image fusion capability is designed to go further: you can feed in up to ten input images and use text prompts to control how they are combined.",
+          "Most image models struggle once you ask them to combine more than a couple of references. Nano Banana 2’s 10-image fusion capability is designed to go further: you can feed in up to ten input images and use text prompts to control how they are combined.",
       },
       {
         type: "paragraph",
@@ -213,7 +213,7 @@ export const newsArticles: NewsArticle[] = [
         items: [
           "Brand collages: combine product shots, logos and lifestyle photos into a single on-brand image.",
           "Character line-ups: align multiple characters with consistent style and lighting across a series of scenes.",
-          "Storyboard beats: feed in rough sketches or stills and ask Gempix2 to produce polished frames.",
+          "Storyboard beats: feed in rough sketches or stills and ask Nano Banana 2 to produce polished frames.",
         ],
       },
       {
@@ -223,7 +223,7 @@ export const newsArticles: NewsArticle[] = [
       {
         type: "paragraph",
         text:
-          "Another standout capability is improved rendering of Chinese, Japanese and Korean text. Earlier models often produced broken or unreadable characters; Gempix2’s training and architecture focus specifically on making CJK text usable for real marketing and product work.",
+          "Another standout capability is improved rendering of Chinese, Japanese and Korean text. Earlier models often produced broken or unreadable characters; Nano Banana 2’s training and architecture focus specifically on making CJK text usable for real marketing and product work.",
       },
       {
         type: "paragraph",
@@ -237,7 +237,7 @@ export const newsArticles: NewsArticle[] = [
       {
         type: "list",
         items: [
-          "Design prompts that clearly separate layout, imagery and text, so Gemini 3 Pro and Gempix2 can coordinate their roles.",
+          "Design prompts that clearly separate layout, imagery and text, so Gemini 3 Pro and Nano Banana 2 can coordinate their roles.",
           "Use the prompt library on this site as a starting point, especially the ones tuned for collages and posters.",
           "When you are ready to try for real, send the prompts directly to gempix2.site and iterate visually.",
         ],
@@ -246,26 +246,26 @@ export const newsArticles: NewsArticle[] = [
   },
   {
     slug: "gemini-3-image-workflows-with-gempix2",
-    title: "How Gemini 3 and Gempix2 Work Together in Image Workflows",
+    title: "How Gemini 3 and Nano Banana 2 Work Together in Image Workflows",
     description:
-      "Gemini 3 handles planning and reasoning; Gempix2 (Nano Banana 2) handles pixels. Here is how to wire them together in practice.",
+      "Gemini 3 handles planning and reasoning; Nano Banana 2 (Nano Banana 2) handles pixels. Here is how to wire them together in practice.",
     date: "2025-11-18",
     category: "Workflows",
-    tags: ["Gemini 3", "Gempix2", "workflows"],
+    tags: ["Gemini 3", "Nano Banana 2", "workflows"],
     body: [
       {
         type: "heading",
-        text: "Think of Gemini 3 as the director, Gempix2 as the camera",
+        text: "Think of Gemini 3 as the director, Nano Banana 2 as the camera",
       },
       {
         type: "paragraph",
         text:
-          "Gemini 3 and Gempix2 are built to complement each other. Gemini 3 shines at understanding briefs, analysing references and planning multi-step flows; Gempix2 shines at turning a well-structured prompt plus images into actual pixels.",
+          "Gemini 3 and Nano Banana 2 are built to complement each other. Gemini 3 shines at understanding briefs, analysing references and planning multi-step flows; Nano Banana 2 shines at turning a well-structured prompt plus images into actual pixels.",
       },
       {
         type: "paragraph",
         text:
-          "A productive way to think about them is: Gemini 3 is the director and editor, while Gempix2 is the camera and render engine. You rarely want the director to also be your camera.",
+          "A productive way to think about them is: Gemini 3 is the director and editor, while Nano Banana 2 is the camera and render engine. You rarely want the director to also be your camera.",
       },
       {
         type: "heading",
@@ -276,7 +276,7 @@ export const newsArticles: NewsArticle[] = [
         items: [
           "Brief and analysis: describe your campaign, product or story to Gemini 3 and ask it to propose several visual directions.",
           "Prompt drafting: have Gemini 3 expand your favourite directions into structured prompts (subject, scene, style, camera, constraints).",
-          "Image generation: send those prompts, plus any reference images, to Gempix2 via a tool like gempix2.site.",
+          "Image generation: send those prompts, plus any reference images, to Nano Banana 2 via a tool like gempix2.site.",
           "Review and refinement: bring the outputs back into Gemini 3 for critique and targeted iteration prompts.",
         ],
       },
@@ -287,7 +287,7 @@ export const newsArticles: NewsArticle[] = [
       {
         type: "paragraph",
         text:
-          "Gemini Studio exists to sit between the two: we track Gemini 3 and Gempix2 updates, document concrete workflows, and maintain a library of prompts that work well with the models in practice. When you see a prompt you like, you can send it straight to gempix2.site and start generating.",
+          "Gemini Studio exists to sit between the two: we track Gemini 3 and Nano Banana 2 updates, document concrete workflows, and maintain a library of prompts that work well with the models in practice. When you see a prompt you like, you can send it straight to gempix2.site and start generating.",
       },
     ],
   },

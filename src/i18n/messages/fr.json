@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Gempix2 - Générateur d'images IA | Éditer des images par chat",
-    "description": "Gempix2 est un générateur d'images alimenté par l'IA qui vous permet de créer et d'éditer des images via des conversations naturelles. Une alternative puissante à Flux Kontext.",
+    "title": "Nano Banana 2 - Générateur d'images IA | Éditer des images par chat",
+    "description": "Nano Banana 2 est un générateur d'images alimenté par l'IA qui vous permet de créer et d'éditer des images via des conversations naturelles. Une alternative puissante à Flux Kontext.",
     "keywords": ""
   },
   "user": {
@@ -152,7 +152,7 @@
   },
   "announcement": {
     "banner": {
-      "text": "🎉 Gempix2 Bientôt Disponible! Réduction Se Termine!",
+      "text": "🎉 Nano Banana 2 Bientôt Disponible! Réduction Se Termine!",
       "button": "Voir Maintenant"
     }
   },
@@ -160,8 +160,8 @@
     "landing": {
       "comparison": {
         "label": "Comparaison des générations",
-        "title": "Pile surnommée « Nano Banana » par la communauté vs Gempix2",
-        "description": "Découvrez comment le service officiel Gempix2, basé sur la pile que la communauté surnomme « Nano Banana 2 », dépasse les workflows « Nano Banana » de première génération en performances et fonctionnalités",
+        "title": "Pile surnommée « Nano Banana » par la communauté vs Nano Banana 2",
+        "description": "Découvrez comment le service officiel Nano Banana 2, basé sur la pile que la communauté surnomme « Nano Banana 2 », dépasse les workflows « Nano Banana » de première génération en performances et fonctionnalités",
         "headers": {
           "feature": "Fonctionnalité",
           "improvement": "Amélioration"
@@ -194,8 +194,8 @@
   },
   "gempix2": {
     "wrapper": {
-      "loading_text": "Chargement de Gempix2...",
-      "title": "Atelier de création IA Gempix2",
+      "loading_text": "Chargement de Nano Banana 2...",
+      "title": "Atelier de création IA Nano Banana 2",
       "description": "Utilisez la technologie IA avancée pour transformer votre imagination en belles images"
     },
     "workspace": {
@@ -276,8 +276,8 @@
         "retry_button": "Réessayer",
         "contact_support": "Contacter le support",
         "support_email_text": "Email de support technique :",
-        "email_subject": "Gempix2 - Demande de support technique",
-        "email_body": "Bonjour,\\n\\nJ'ai rencontré un problème en utilisant Gempix2 :\\n\\nMessage d'erreur : {title}\\nDescription détaillée : {message}\\n\\nVeuillez aider à résoudre, merci !\\n\\nUtilisateur"
+        "email_subject": "Nano Banana 2 - Demande de support technique",
+        "email_body": "Bonjour,\\n\\nJ'ai rencontré un problème en utilisant Nano Banana 2 :\\n\\nMessage d'erreur : {title}\\nDescription détaillée : {message}\\n\\nVeuillez aider à résoudre, merci !\\n\\nUtilisateur"
       },
       "image_card": {
         "image_load_failed": "Échec du chargement de l'image",

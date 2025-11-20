@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "title": "Prompt Gallery - Explore AI Image Prompts | Gempix2",
+    "title": "Prompt Gallery - Explore AI Image Prompts | Nano Banana 2",
     "description": "Explore 400+ curated AI image generation prompts with examples. Find inspiration for your next creative project.",
     "keywords": "AI prompts, image generation, GPT-4o, prompt gallery, AI art"
   },
   "hero": {
     "title": "AI Image Generation Prompts Gallery",
-    "description": "Explore 400+ curated AI image generation prompts for Gempix2. Find creative examples for character design, scenes, and artistic styles."
+    "description": "Explore 400+ curated AI image generation prompts for Nano Banana 2. Find creative examples for character design, scenes, and artistic styles."
   },
   "card_image_alt": "{title}{tags}",
   "gallery": {
@@ -54,7 +54,7 @@
   "detail": {
     "backToGallery": "Back to Gallery",
     "source": "Source",
-    "recreateButton": "Recreate in Gempix2",
+    "recreateButton": "Recreate in Nano Banana 2",
     "share": {
       "button": "Share",
       "buttonLabel": "Share this prompt",
@@ -64,7 +64,7 @@
       "failed": "Failed to share"
     },
     "modelLabel": "Model",
-    "modelValue": "Gempix2 (runs on the community \"Nano Banana 2\" stack)",
+    "modelValue": "Nano Banana 2 (runs on the community \"Nano Banana 2\" stack)",
     "showMore": "Show more",
     "showLess": "Show less",
     "sections": {

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "سجل الإنشاء - Gempix2",
+    "title": "سجل الإنشاء - Nano Banana 2",
     "description": "عرض وإدارة سجل إنشاء الصور المولدة بالذكاء الاصطناعي"
   },
   "status": {
@@ -48,8 +48,8 @@
   "no_image_selected": "لم يتم تحديد صورة",
   "redirecting_to_upscaler": "إعادة التوجيه إلى موسع الصورة...",
   "invalid_image_url": "رابط صورة غير صالح",
-  "title": "سجل إنشاءات Gempix2",
-  "description": "عرض جميع الصور التي أنشأتها وحررتها باستخدام Gempix2 من قبل",
+  "title": "سجل إنشاءات Nano Banana 2",
+  "description": "عرض جميع الصور التي أنشأتها وحررتها باستخدام Nano Banana 2 من قبل",
   "credits_used": "{amount} رصيد",
   "credits_refunded": "تم استرداد {amount} رصيد",
   "images": "صور",

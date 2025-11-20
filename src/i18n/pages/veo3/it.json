@@ -262,7 +262,7 @@
     "subtitle": "Esplora le potenti capacità di generazione video di Veo 3, dalle immagini ai video, dal testo alle animazioni, sperimenta le infinite possibilità della creazione video AI",
     "image_to_video": {
       "title": "Da Immagine a Video",
-      "description": "Carica un'immagine statica o seleziona un'immagine generata da Gempix2, Veo 3 le infonderà vitalità, creando effetti video dinamici fluidi e naturali.",
+      "description": "Carica un'immagine statica o seleziona un'immagine generata da Nano Banana 2, Veo 3 le infonderà vitalità, creando effetti video dinamici fluidi e naturali.",
       "input_image_url": "https://cdn.gempix2.site/showcase/veo3/woman-city-doodle.jpg",
       "input_image_alt": "Illustrazione femminile in stile doodle urbano",
       "output_video_url": "https://cdn.gempix2.site/showcase/veo3/woman-city-doodle.mp4"

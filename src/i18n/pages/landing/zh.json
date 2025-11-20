@@ -43,7 +43,7 @@
     "title": "Gemini 3 & Gemini 3.0 Studio Hub",
     "highlight_text": "Gemini 3",
     "subtitle": "专注 Gemini 3 / 3.0 的资讯站和 Prompt 集合页",
-    "description": "Gemini Studio 是一个独立站点，帮你快速跟上 Gemini 3 / Gemini 3.0 的最新更新、典型能力和使用套路。我们整理了 <b>Gemini 资讯</b>、<b>实用 Prompt 模板</b>，并在合适的位置把流量引导到 Gempix2 等「类 Gemini 级」图像生成工具，让你可以直接把这些 Prompt 用起来。",
+    "description": "Gemini Studio 是一个独立站点，帮你快速跟上 Gemini 3 / Gemini 3.0 的最新更新、典型能力和使用套路。我们整理了 <b>Gemini 资讯</b>、<b>实用 Prompt 模板</b>，并在合适的位置把流量引导到 Nano Banana 2 等「类 Gemini 级」图像生成工具，让你可以直接把这些 Prompt 用起来。",
     "announcement": {
       "label": "2025",
       "title": "🚀 全新：Gemini 3 图像工作流指南",
@@ -96,39 +96,39 @@
   },
   "introduce": {
     "name": "introduce",
-    "title": "什么是 Gempix2",
+    "title": "什么是 Nano Banana 2",
     "label": "介绍",
-    "description": "Gempix2 提供对社区称为 \"Nano Banana 2\" 的下一代 AI 图像生成技术的访问。这个革命性平台提供快 15% 的处理速度、跨无限编辑的增强角色一致性和卓越的细节准确性。与传统的文本到图像模型不同，Gempix2 执行上下文图像生成，允许您同时使用文本和图像进行提示，无缝提取和修改视觉概念。",
+    "description": "Nano Banana 2 提供对社区称为 \"Nano Banana 2\" 的下一代 AI 图像生成技术的访问。这个革命性平台提供快 15% 的处理速度、跨无限编辑的增强角色一致性和卓越的细节准确性。与传统的文本到图像模型不同，Nano Banana 2 执行上下文图像生成，允许您同时使用文本和图像进行提示，无缝提取和修改视觉概念。",
     "image": {
       "src": "/imgs/features/1.png"
     },
     "items": [
       {
         "title": "上下文图像生成",
-        "description": "Gempix2 结合文本和图像输入，实现无缝的视觉概念提取和修改，每次都提供连贯的渲染结果。",
+        "description": "Nano Banana 2 结合文本和图像输入，实现无缝的视觉概念提取和修改，每次都提供连贯的渲染结果。",
         "icon": "RiImageEditLine"
       },
       {
         "title": "角色一致性",
-        "description": "Gempix2 在多个场景和环境中保持独特元素（如参考角色或对象）的无与伦比的准确性。",
+        "description": "Nano Banana 2 在多个场景和环境中保持独特元素（如参考角色或对象）的无与伦比的准确性。",
         "icon": "RiUserHeartLine"
       },
       {
         "title": "局部编辑精度",
-        "description": "使用 Gempix2 对特定元素进行精准修改，而不影响图像的其他部分，实现灵活的即时编辑。",
+        "description": "使用 Nano Banana 2 对特定元素进行精准修改，而不影响图像的其他部分，实现灵活的即时编辑。",
         "icon": "RiEditBoxLine"
       }
     ]
   },
   "benefit": {
     "name": "benefit",
-    "title": "为什么选择 Gempix2",
+    "title": "为什么选择 Nano Banana 2",
     "label": "优势",
-    "description": "体验先进的 AI 图像编辑技术。Gempix2 在速度、一致性和质量方面实现了显著改进，全面超越 Flux Kontext。",
+    "description": "体验先进的 AI 图像编辑技术。Nano Banana 2 在速度、一致性和质量方面实现了显著改进，全面超越 Flux Kontext。",
     "items": [
       {
         "title": "卓越性能",
-        "description": "Gempix2 提供比竞争模型更快的推理速度和更高质量的结果，具有最先进的角色一致性和上下文理解能力。",
+        "description": "Nano Banana 2 提供比竞争模型更快的推理速度和更高质量的结果，具有最先进的角色一致性和上下文理解能力。",
         "icon": "RiRocketLine",
         "image": {
           "src": "/imgs/features/2.png"
@@ -136,7 +136,7 @@
       },
       {
         "title": "迭代编辑大师",
-        "description": "使用 Gempix2，可以通过多轮编辑在之前的编辑基础上构建，同时在不同场景中保持角色、身份、风格和独特特征。",
+        "description": "使用 Nano Banana 2，可以通过多轮编辑在之前的编辑基础上构建，同时在不同场景中保持角色、身份、风格和独特特征。",
         "icon": "RiRefreshLine",
         "image": {
           "src": "/imgs/features/3.png"
@@ -144,7 +144,7 @@
       },
       {
         "title": "风格参考创新",
-        "description": "Gempix2 在保持参考图像独特风格的同时生成新颖场景，通过简单的文本提示指导，延迟极低。",
+        "description": "Nano Banana 2 在保持参考图像独特风格的同时生成新颖场景，通过简单的文本提示指导，延迟极低。",
         "icon": "RiPaletteLine",
         "image": {
           "src": "/imgs/features/4.png"
@@ -154,8 +154,8 @@
   },
   "usage": {
     "name": "usage",
-    "title": "如何使用 Gempix2 创作",
-    "description": "通过 Gempix2 的三个简单步骤转变您的创意工作流程：",
+    "title": "如何使用 Nano Banana 2 创作",
+    "description": "通过 Nano Banana 2 的三个简单步骤转变您的创意工作流程：",
     "image": {
       "src": "/imgs/features/1.png"
     },
@@ -163,29 +163,29 @@
     "text_align": "center",
     "items": [
       {
-        "title": "开始使用 Gempix2",
-        "description": "通过上传参考图像或从文本提示开始，使用 Gempix2 开启您的创意之旅，实现即时生成。",
+        "title": "开始使用 Nano Banana 2",
+        "description": "通过上传参考图像或从文本提示开始，使用 Nano Banana 2 开启您的创意之旅，实现即时生成。",
         "image": {
           "src": "/imgs/features/5.png"
         }
       },
       {
-        "title": "使用 Gempix2 编辑",
-        "description": "使用 Gempix2 强大的文本指令修改您的图像 - 改变表情、添加对象或无缝转换整个场景。",
+        "title": "使用 Nano Banana 2 编辑",
+        "description": "使用 Nano Banana 2 强大的文本指令修改您的图像 - 改变表情、添加对象或无缝转换整个场景。",
         "image": {
           "src": "/imgs/features/6.png"
         }
       },
       {
-        "title": "通过 Gempix2 迭代",
-        "description": "利用 Gempix2 的迭代功能在之前的编辑基础上构建，逐步完善您的创作，同时保持角色一致性。",
+        "title": "通过 Nano Banana 2 迭代",
+        "description": "利用 Nano Banana 2 的迭代功能在之前的编辑基础上构建，逐步完善您的创作，同时保持角色一致性。",
         "image": {
           "src": "/imgs/features/7.png"
         }
       },
       {
-        "title": "用 Gempix2 完善",
-        "description": "使用 Gempix2 的精确编辑实现您想要的结果 - 从局部调整到完整场景转换，用时极短。",
+        "title": "用 Nano Banana 2 完善",
+        "description": "使用 Nano Banana 2 的精确编辑实现您想要的结果 - 从局部调整到完整场景转换，用时极短。",
         "image": {
           "src": "/imgs/features/8.png"
         }
@@ -195,7 +195,7 @@
   "comparison": {
     "label": "世代对比",
     "title": "\"Nano Banana 1\" vs \"Nano Banana 2\" 技术对比",
-    "description": "了解社区称为 \"Nano Banana 2\" 的下一代技术（可通过 Gempix2 访问）如何以突破性改进超越第一代",
+    "description": "了解社区称为 \"Nano Banana 2\" 的下一代技术（可通过 Nano Banana 2 访问）如何以突破性改进超越第一代",
     "headers": {
       "feature": "功能",
       "improvement": "改进"
@@ -226,37 +226,37 @@
   },
   "feature": {
     "name": "feature",
-    "title": "Gempix2 核心能力",
-    "description": "体验 Gempix2 突破性功能带来的最先进 AI 图像编辑技术。",
+    "title": "Nano Banana 2 核心能力",
+    "description": "体验 Nano Banana 2 突破性功能带来的最先进 AI 图像编辑技术。",
     "items": [
       {
         "title": "多模态流模型",
-        "description": "Gempix2 结合最先进的角色一致性、上下文理解和局部编辑能力，具有强大的文本到图像合成功能。",
+        "description": "Nano Banana 2 结合最先进的角色一致性、上下文理解和局部编辑能力，具有强大的文本到图像合成功能。",
         "icon": "RiFlowChart"
       },
       {
         "title": "交互式速度技术",
-        "description": "Gempix2 在图像生成和编辑方面提供极低延迟，运行速度比当前领先模型快 8 倍。",
+        "description": "Nano Banana 2 在图像生成和编辑方面提供极低延迟，运行速度比当前领先模型快 8 倍。",
         "icon": "RiSpeedUpLine"
       },
       {
         "title": "基于文本的图像编辑",
-        "description": "Gempix2 通过简单的文本指令实现灵活的即时图像编辑 - 无需复杂的编辑工作流程或微调。",
+        "description": "Nano Banana 2 通过简单的文本指令实现灵活的即时图像编辑 - 无需复杂的编辑工作流程或微调。",
         "icon": "RiEditLine"
       },
       {
         "title": "逼真渲染",
-        "description": "Gempix2 提供强大的提示跟随、逼真渲染和具有标志性质量输出的竞争性排版。",
+        "description": "Nano Banana 2 提供强大的提示跟随、逼真渲染和具有标志性质量输出的竞争性排版。",
         "icon": "RiImageLine"
       },
       {
         "title": "场景转换",
-        "description": "Gempix2 处理整个场景的复杂转换，同时在不同视点间保持视觉连贯性和角色一致性。",
+        "description": "Nano Banana 2 处理整个场景的复杂转换，同时在不同视点间保持视觉连贯性和角色一致性。",
         "icon": "RiMagicLine"
       },
       {
         "title": "质量保持",
-        "description": "Gempix2 通过迭代编辑会话保持图像质量和角色一致性，无缝保留独特特征。",
+        "description": "Nano Banana 2 通过迭代编辑会话保持图像质量和角色一致性，无缝保留独特特征。",
         "icon": "RiShieldCheckLine"
       }
     ]
@@ -264,22 +264,22 @@
   "stats": {
     "name": "stats",
     "label": "统计",
-    "title": "创作者选择 Gempix2",
+    "title": "创作者选择 Nano Banana 2",
     "description": "因为其无与伦比的 AI 图像编辑性能和可靠性。",
     "icon": "FaRegHeart",
     "items": [
       {
-        "title": "Gempix2 用户",
+        "title": "Nano Banana 2 用户",
         "label": "1万+",
         "description": "创作者"
       },
       {
-        "title": "Gempix2 速度",
+        "title": "Nano Banana 2 速度",
         "label": "8倍",
         "description": "更快"
       },
       {
-        "title": "Gempix2 准确性",
+        "title": "Nano Banana 2 准确性",
         "label": "99%",
         "description": "一致性"
       }
@@ -288,14 +288,14 @@
   "testimonial": {
     "name": "testimonial",
     "label": "用户评价",
-    "title": "创作者如何评价 Gempix2",
-    "description": "听听使用 Gempix2 转变工作流程的艺术家、设计师和内容创作者怎么说。",
+    "title": "创作者如何评价 Nano Banana 2",
+    "description": "听听使用 Nano Banana 2 转变工作流程的艺术家、设计师和内容创作者怎么说。",
     "icon": "GoThumbsup",
     "items": [
       {
         "title": "陈莎拉",
         "label": "数字艺术家和插画师",
-        "description": "Gempix2 彻底革命了我的创作流程！角色一致性令人难以置信 - 我可以在数十个场景中保持同一角色。Gempix2 每天为我节省数小时时间。",
+        "description": "Nano Banana 2 彻底革命了我的创作流程！角色一致性令人难以置信 - 我可以在数十个场景中保持同一角色。Nano Banana 2 每天为我节省数小时时间。",
         "image": {
           "src": "/imgs/users/1.png"
         }
@@ -303,7 +303,7 @@
       {
         "title": "迈克尔·罗德里格斯",
         "label": "内容创作者和网红",
-        "description": "我试过所有的 AI 图像编辑器，但 Gempix2 独树一帜。迭代编辑功能让我能完善每个细节。Gempix2 让我的内容脱颖而出。",
+        "description": "我试过所有的 AI 图像编辑器，但 Nano Banana 2 独树一帜。迭代编辑功能让我能完善每个细节。Nano Banana 2 让我的内容脱颖而出。",
         "image": {
           "src": "/imgs/users/2.png"
         }
@@ -311,7 +311,7 @@
       {
         "title": "艾米丽·沃森",
         "label": "PixelStudio 创意总监",
-        "description": "我们团队转向 Gempix2 后，生产力大幅提升。局部编辑精度无与伦比 - 我们可以修改特定元素而不影响整个图像。Gempix2 是游戏规则改变者。",
+        "description": "我们团队转向 Nano Banana 2 后，生产力大幅提升。局部编辑精度无与伦比 - 我们可以修改特定元素而不影响整个图像。Nano Banana 2 是游戏规则改变者。",
         "image": {
           "src": "/imgs/users/3.png"
         }
@@ -319,7 +319,7 @@
       {
         "title": "亚历克斯·金",
         "label": "自由设计师",
-        "description": "Gempix2 的速度让我震惊！以前需要几小时的工作现在只需几分钟。风格参考功能让我所有项目保持品牌一致性。我无法想象没有 Gempix2 的工作。",
+        "description": "Nano Banana 2 的速度让我震惊！以前需要几小时的工作现在只需几分钟。风格参考功能让我所有项目保持品牌一致性。我无法想象没有 Nano Banana 2 的工作。",
         "image": {
           "src": "/imgs/users/4.png"
         }
@@ -327,7 +327,7 @@
       {
         "title": "丽莎·汤普森",
         "label": "营销机构老板",
-        "description": "我们使用 Gempix2 的营销活动交付速度提升了 10 倍。客户喜欢逼真的质量，我们喜欢这种高效率。Gempix2 转变了我们整个创意管道。",
+        "description": "我们使用 Nano Banana 2 的营销活动交付速度提升了 10 倍。客户喜欢逼真的质量，我们喜欢这种高效率。Nano Banana 2 转变了我们整个创意管道。",
         "image": {
           "src": "/imgs/users/5.png"
         }
@@ -335,7 +335,7 @@
       {
         "title": "大卫·朴",
         "label": "电影预可视化艺术家",
-        "description": "Gempix2 让我的故事板栩栩如生！场景转换功能非常适合快速原型制作。每个电影制作人都应该使用 Gempix2 进行预可视化工作。",
+        "description": "Nano Banana 2 让我的故事板栩栩如生！场景转换功能非常适合快速原型制作。每个电影制作人都应该使用 Nano Banana 2 进行预可视化工作。",
         "image": {
           "src": "/imgs/users/6.png"
         }
@@ -345,39 +345,39 @@
   "faq": {
     "name": "faq",
     "label": "常见问题",
-    "title": "关于 Gempix2 的常见问题",
-    "description": "了解更多关于 Gempix2 的先进 AI 图像编辑技术。",
+    "title": "关于 Nano Banana 2 的常见问题",
+    "description": "了解更多关于 Nano Banana 2 的先进 AI 图像编辑技术。",
     "items": [
       {
-        "title": "为什么社区讨论 Gempix2 时会提到 \"Nano Banana 2\"？",
-        "description": "我们运营的正是社区口中的 \"Nano Banana 2\" 新一代技术栈，所以大家会自然提到这个昵称。这套能力带来 15% 更快的处理速度、相较 \"Nano Banana 1\" 的无限迭代、10 种纵横比、先进多图像融合与长文本渲染，把角色一致性从良好提升到优秀，因此 Gempix2 被专业品牌和叙事场景信任。"
+        "title": "为什么社区讨论 Nano Banana 2 时会提到 \"Nano Banana 2\"？",
+        "description": "我们运营的正是社区口中的 \"Nano Banana 2\" 新一代技术栈，所以大家会自然提到这个昵称。这套能力带来 15% 更快的处理速度、相较 \"Nano Banana 1\" 的无限迭代、10 种纵横比、先进多图像融合与长文本渲染，把角色一致性从良好提升到优秀，因此 Nano Banana 2 被专业品牌和叙事场景信任。"
       },
       {
-        "title": "Gempix2 真的运行在 \"Nano Banana 2\" 技术栈上吗？",
-        "description": "是的。Gempix2 以官方服务的形式提供，运行在 2025 年发布、被社区昵称为 \"Nano Banana 2\" 的同一套堆栈。它带来多模态流式架构、一流的上下文理解以及领先的角色一致性研究，我们引用该昵称只是为了说明兼容性，所有体验都在 Gempix2 品牌下交付。"
+        "title": "Nano Banana 2 真的运行在 \"Nano Banana 2\" 技术栈上吗？",
+        "description": "是的。Nano Banana 2 以官方服务的形式提供，运行在 2025 年发布、被社区昵称为 \"Nano Banana 2\" 的同一套堆栈。它带来多模态流式架构、一流的上下文理解以及领先的角色一致性研究，我们引用该昵称只是为了说明兼容性，所有体验都在 Nano Banana 2 品牌下交付。"
       },
       {
-        "title": "旧的 \"Nano Banana 1\" 项目可以直接用在 Gempix2 吗？",
-        "description": "当然可以。因为我们使用同一技术家族，来自 \"Nano Banana 1\" 工作流的参考图、角色设计和风格指南在 Gempix2 中无需迁移即可直接打开，同时立刻获得更快的处理速度、更好的稳定性以及无限迭代、长文本渲染等新特性。"
+        "title": "旧的 \"Nano Banana 1\" 项目可以直接用在 Nano Banana 2 吗？",
+        "description": "当然可以。因为我们使用同一技术家族，来自 \"Nano Banana 1\" 工作流的参考图、角色设计和风格指南在 Nano Banana 2 中无需迁移即可直接打开，同时立刻获得更快的处理速度、更好的稳定性以及无限迭代、长文本渲染等新特性。"
       },
       {
         "title": "\"Nano Banana 2\" 架构带来了哪些技术升级？",
-        "description": "社区昵称的这套架构是一种可以同时处理文本和视觉上下文的多模态流模型。增强的注意力机制负责角色保持，优化的推理管线带来 15% 加速，纵横比支持从 8 扩展到 10，细节精度和长文本生成也全面升级，我们在 Gempix2 中完整开放这些能力。"
+        "description": "社区昵称的这套架构是一种可以同时处理文本和视觉上下文的多模态流模型。增强的注意力机制负责角色保持，优化的推理管线带来 15% 加速，纵横比支持从 8 扩展到 10，细节精度和长文本生成也全面升级，我们在 Nano Banana 2 中完整开放这些能力。"
       },
       {
-        "title": "Gempix2 的无限迭代与 \"Nano Banana 1\" 有什么不同？",
-        "description": "被称作 \"Nano Banana 1\" 的旧堆栈只能有限迭代，而 Gempix2 借助升级后的 \"Nano Banana 2\" 堆栈支持无限编辑轮次，同时保持角色和画面的一致性。每一次迭代都会在上一轮的结果之上智能构建，保留角色特征、风格元素与场景语境，让复杂的多步创作成为可能。"
+        "title": "Nano Banana 2 的无限迭代与 \"Nano Banana 1\" 有什么不同？",
+        "description": "被称作 \"Nano Banana 1\" 的旧堆栈只能有限迭代，而 Nano Banana 2 借助升级后的 \"Nano Banana 2\" 堆栈支持无限编辑轮次，同时保持角色和画面的一致性。每一次迭代都会在上一轮的结果之上智能构建，保留角色特征、风格元素与场景语境，让复杂的多步创作成为可能。"
       },
       {
-        "title": "为什么专业创意人员应该选择 Gempix2 而不是其他 AI 编辑器？",
-        "description": "Gempix2 将先进的 AI 技术与生产就绪功能相结合。您可以获得优秀的处理速度，经过大量专业项目验证的业界领先角色一致性，用于复杂构图的高级多图像融合，以及高质量的逼真渲染效果。该平台因其可靠性和出色的输出质量而受到众多创意机构、设计工作室和数字艺术家的信赖。"
+        "title": "为什么专业创意人员应该选择 Nano Banana 2 而不是其他 AI 编辑器？",
+        "description": "Nano Banana 2 将先进的 AI 技术与生产就绪功能相结合。您可以获得优秀的处理速度，经过大量专业项目验证的业界领先角色一致性，用于复杂构图的高级多图像融合，以及高质量的逼真渲染效果。该平台因其可靠性和出色的输出质量而受到众多创意机构、设计工作室和数字艺术家的信赖。"
       }
     ]
   },
   "cta": {
     "name": "cta",
     "title": "开始系统了解 Gemini 3 与 Gemini 3.0",
-    "description": "用这一站的指南、对比和 Prompt 库，把 Gemini 3 / 3.0 变成真正可落地的工作流，然后在需要图像时一键跳转到 Gempix2 等外部工具。",
+    "description": "用这一站的指南、对比和 Prompt 库，把 Gemini 3 / 3.0 变成真正可落地的工作流，然后在需要图像时一键跳转到 Nano Banana 2 等外部工具。",
     "buttons": [
       {
         "title": "阅读 Gemini 3 指南",

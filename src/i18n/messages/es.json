@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Gempix2 - Generador de Imágenes IA | Edita imágenes con chat",
-    "description": "Gempix2 es un generador de imágenes impulsado por IA que te permite crear y editar imágenes a través de conversaciones de chat naturales. Una poderosa alternativa a Flux Kontext.",
+    "title": "Nano Banana 2 - Generador de Imágenes IA | Edita imágenes con chat",
+    "description": "Nano Banana 2 es un generador de imágenes impulsado por IA que te permite crear y editar imágenes a través de conversaciones de chat naturales. Una poderosa alternativa a Flux Kontext.",
     "keywords": ""
   },
   "user": {
@@ -152,7 +152,7 @@
   },
   "announcement": {
     "banner": {
-      "text": "🎉 ¡Gempix2 Próximamente! ¡Descuento Terminando!",
+      "text": "🎉 ¡Nano Banana 2 Próximamente! ¡Descuento Terminando!",
       "button": "¡Ver Ahora!"
     }
   },
@@ -160,8 +160,8 @@
     "landing": {
       "comparison": {
         "label": "Comparación de generaciones",
-        "title": "Apodo comunitario \"Nano Banana\" vs Gempix2",
-        "description": "Vea cómo el servicio oficial Gempix2, sobre la pila que la comunidad apoda \"Nano Banana 2\", mejora los flujos \"Nano Banana\" originales en rendimiento y capacidades",
+        "title": "Apodo comunitario \"Nano Banana\" vs Nano Banana 2",
+        "description": "Vea cómo el servicio oficial Nano Banana 2, sobre la pila que la comunidad apoda \"Nano Banana 2\", mejora los flujos \"Nano Banana\" originales en rendimiento y capacidades",
         "headers": {
           "feature": "Característica",
           "improvement": "Mejora"
@@ -194,8 +194,8 @@
   },
   "gempix2": {
     "wrapper": {
-      "loading_text": "Cargando Gempix2...",
-      "title": "Banco de Trabajo de Creación AI de Gempix2",
+      "loading_text": "Cargando Nano Banana 2...",
+      "title": "Banco de Trabajo de Creación AI de Nano Banana 2",
       "description": "Usa tecnología AI avanzada para transformar tu imaginación en hermosas imágenes"
     },
     "workspace": {
@@ -276,8 +276,8 @@
         "retry_button": "Intentar de nuevo",
         "contact_support": "Contactar soporte",
         "support_email_text": "Correo de soporte técnico:",
-        "email_subject": "Gempix2 - Solicitud de soporte técnico",
-        "email_body": "Hola,\\n\\nEncontré un problema al usar Gempix2:\\n\\nMensaje de error: {title}\\nDescripción detallada: {message}\\n\\n¡Por favor ayuda con la resolución, gracias!\\n\\nUsuario"
+        "email_subject": "Nano Banana 2 - Solicitud de soporte técnico",
+        "email_body": "Hola,\\n\\nEncontré un problema al usar Nano Banana 2:\\n\\nMensaje de error: {title}\\nDescripción detallada: {message}\\n\\n¡Por favor ayuda con la resolución, gracias!\\n\\nUsuario"
       },
       "image_card": {
         "image_load_failed": "Error al cargar la imagen",

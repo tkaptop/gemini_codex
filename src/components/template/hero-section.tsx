@@ -25,7 +25,7 @@ export default function HeroSection({ pageData }: HeroSectionProps) {
           {/* Title */}
           <h1 className="mb-4 text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight">
             <span className="bg-gradient-to-r from-green-500 via-emerald-500 to-cyan-500 bg-clip-text text-transparent">
-              {pageData?.hero?.title || "Gempix2"}
+              {pageData?.hero?.title || "Nano Banana 2"}
             </span>
           </h1>
 

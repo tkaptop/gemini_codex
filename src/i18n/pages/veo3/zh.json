@@ -262,7 +262,7 @@
     "subtitle": "探索 Veo 3 强大的视频生成能力，从图片到视频，从文字到动画，体验 AI 视频创作的无限可能",
     "image_to_video": {
       "title": "图片生成视频",
-      "description": "上传一张静态图片或选择 Gempix2 生成的图片，Veo 3 将为其注入生命力，创造出流畅自然的动态视频效果",
+      "description": "上传一张静态图片或选择 Nano Banana 2 生成的图片，Veo 3 将为其注入生命力，创造出流畅自然的动态视频效果",
       "input_image_url": "https://cdn.gempix2.site/showcase/veo3/woman-city-doodle.jpg",
       "input_image_alt": "城市涂鸦风格女性插画",
       "output_video_url": "https://cdn.gempix2.site/showcase/veo3/woman-city-doodle.mp4"

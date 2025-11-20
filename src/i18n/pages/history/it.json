@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "Cronologia Creazioni - Gempix2",
+    "title": "Cronologia Creazioni - Nano Banana 2",
     "description": "Visualizza e gestisci la cronologia delle tue immagini generate dall'IA"
   },
   "status": {
@@ -48,8 +48,8 @@
   "no_image_selected": "Nessuna immagine selezionata",
   "redirecting_to_upscaler": "Reindirizzamento all'upscaler delle immagini...",
   "invalid_image_url": "URL immagine non valido",
-  "title": "Cronologia Creazioni Gempix2",
-  "description": "Visualizza tutte le immagini che hai generato e modificato con Gempix2 in precedenza",
+  "title": "Cronologia Creazioni Nano Banana 2",
+  "description": "Visualizza tutte le immagini che hai generato e modificato con Nano Banana 2 in precedenza",
   "credits_used": "{amount} crediti",
   "credits_refunded": "Rimborsati {amount} crediti",
   "images": "immagini",

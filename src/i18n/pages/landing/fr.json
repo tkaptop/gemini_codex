@@ -3,11 +3,11 @@
   "theme": "dark",
   "header": {
     "brand": {
-      "title": "Gempix2",
+      "title": "Nano Banana 2",
       "logo": {
         "srcLight": "/logo_light.svg",
         "srcDark": "/logo_dark.svg",
-        "alt": "Gempix2"
+        "alt": "Nano Banana 2"
       },
       "url": "/"
     },
@@ -88,25 +88,25 @@
     "show_locale": true
   },
   "hero": {
-    "title": "Gempix2",
-    "highlight_text": "Gempix2",
-    "description": "Le modèle IA avancé de Gempix2 (également appelé Gempix 2 / Nano Banana 2) offre une édition de personnages cohérente et une préservation des scènes qui surpassent Flux Kontext.<br/>Choisissez Gempix2 pour découvrir l'avenir de l'édition d'images IA avec de simples invites textuelles.",
+    "title": "Nano Banana 2",
+    "highlight_text": "Nano Banana 2",
+    "description": "Le modèle IA avancé de Nano Banana 2 (également appelé Nano Banana 2 / Nano Banana 2) offre une édition de personnages cohérente et une préservation des scènes qui surpassent Flux Kontext.<br/>Choisissez Nano Banana 2 pour découvrir l'avenir de l'édition d'images IA avec de simples invites textuelles.",
     "announcement": {
       "label": "2025",
-      "title": "🚀 Essayez Gempix2 gratuitement",
+      "title": "🚀 Essayez Nano Banana 2 gratuitement",
       "url": "/#gempix2"
     },
-    "tip": "🎨 Commencez à créer avec Gempix2 aujourd'hui",
+    "tip": "🎨 Commencez à créer avec Nano Banana 2 aujourd'hui",
     "buttons": [
       {
-        "title": "Essayer Gempix2",
+        "title": "Essayer Nano Banana 2",
         "icon": "RiFlashlightFill",
         "url": "#gempix2",
         "target": "_self",
         "variant": "default"
       },
       {
-        "title": "Voir les exemples Gempix2",
+        "title": "Voir les exemples Nano Banana 2",
         "icon": "RiBookOpenLine",
         "url": "/showcase",
         "target": "_self",
@@ -159,39 +159,39 @@
   },
   "introduce": {
     "name": "introduce",
-    "title": "Qu'est-ce que Gempix2",
+    "title": "Qu'est-ce que Nano Banana 2",
     "label": "Introduction",
-    "description": "Gempix2 est une plateforme révolutionnaire de génération et d'édition d'images alimentée par l'IA qui offre une édition de caractères cohérente et une préservation de scène. Contrairement aux modèles texte-image traditionnels, Gempix2 effectue une génération d'images en contexte, vous permettant de créer avec du texte et des images tout en extrayant et modifiant facilement les concepts visuels.",
+    "description": "Nano Banana 2 est une plateforme révolutionnaire de génération et d'édition d'images alimentée par l'IA qui offre une édition de caractères cohérente et une préservation de scène. Contrairement aux modèles texte-image traditionnels, Nano Banana 2 effectue une génération d'images en contexte, vous permettant de créer avec du texte et des images tout en extrayant et modifiant facilement les concepts visuels.",
     "image": {
       "src": "/imgs/features/1.png"
     },
     "items": [
       {
         "title": "Génération d'images en contexte",
-        "description": "Gempix2 combine les entrées texte et image pour une extraction et modification transparente des concepts visuels, offrant des rendus cohérents à chaque fois.",
+        "description": "Nano Banana 2 combine les entrées texte et image pour une extraction et modification transparente des concepts visuels, offrant des rendus cohérents à chaque fois.",
         "icon": "RiImageEditLine"
       },
       {
         "title": "Cohérence des personnages",
-        "description": "Gempix2 préserve les éléments uniques comme les personnages ou objets de référence à travers plusieurs scènes et environnements avec une précision inégalée.",
+        "description": "Nano Banana 2 préserve les éléments uniques comme les personnages ou objets de référence à travers plusieurs scènes et environnements avec une précision inégalée.",
         "icon": "RiUserHeartLine"
       },
       {
         "title": "Précision d'édition locale",
-        "description": "Effectuez des modifications ciblées d'éléments spécifiques avec Gempix2 sans affecter le reste de votre image, permettant une édition instantanée flexible.",
+        "description": "Effectuez des modifications ciblées d'éléments spécifiques avec Nano Banana 2 sans affecter le reste de votre image, permettant une édition instantanée flexible.",
         "icon": "RiEditBoxLine"
       }
     ]
   },
   "benefit": {
     "name": "benefit",
-    "title": "Pourquoi choisir Gempix2",
+    "title": "Pourquoi choisir Nano Banana 2",
     "label": "Avantages",
-    "description": "Découvrez l'édition d'images IA de nouvelle génération avec la technologie révolutionnaire de Gempix2 qui surpasse Flux Kontext à tous les niveaux.",
+    "description": "Découvrez l'édition d'images IA de nouvelle génération avec la technologie révolutionnaire de Nano Banana 2 qui surpasse Flux Kontext à tous les niveaux.",
     "items": [
       {
         "title": "Performance supérieure",
-        "description": "Gempix2 offre des vitesses d'inférence plus rapides et des résultats de meilleure qualité que les modèles concurrents, avec une cohérence de caractères et une compréhension du contexte de pointe.",
+        "description": "Nano Banana 2 offre des vitesses d'inférence plus rapides et des résultats de meilleure qualité que les modèles concurrents, avec une cohérence de caractères et une compréhension du contexte de pointe.",
         "icon": "RiRocketLine",
         "image": {
           "src": "/imgs/features/2.png"
@@ -199,7 +199,7 @@
       },
       {
         "title": "Maîtrise de l'édition itérative",
-        "description": "Avec Gempix2, construisez sur les éditions précédentes à travers plusieurs tours tout en maintenant les personnages, identités, styles et caractéristiques distinctives à travers différentes scènes.",
+        "description": "Avec Nano Banana 2, construisez sur les éditions précédentes à travers plusieurs tours tout en maintenant les personnages, identités, styles et caractéristiques distinctives à travers différentes scènes.",
         "icon": "RiRefreshLine",
         "image": {
           "src": "/imgs/features/3.png"
@@ -207,7 +207,7 @@
       },
       {
         "title": "Innovation de référence de style",
-        "description": "Gempix2 génère de nouvelles scènes tout en préservant les styles uniques des images de référence, dirigé par de simples invites textuelles avec une latence minimale.",
+        "description": "Nano Banana 2 génère de nouvelles scènes tout en préservant les styles uniques des images de référence, dirigé par de simples invites textuelles avec une latence minimale.",
         "icon": "RiPaletteLine",
         "image": {
           "src": "/imgs/features/4.png"
@@ -217,8 +217,8 @@
   },
   "usage": {
     "name": "usage",
-    "title": "Comment créer avec Gempix2",
-    "description": "Transformez votre flux de travail créatif avec Gempix2 en trois étapes simples :",
+    "title": "Comment créer avec Nano Banana 2",
+    "description": "Transformez votre flux de travail créatif avec Nano Banana 2 en trois étapes simples :",
     "image": {
       "src": "/imgs/features/1.png"
     },
@@ -226,29 +226,29 @@
     "text_align": "center",
     "items": [
       {
-        "title": "Commencer avec Gempix2",
-        "description": "Commencez votre voyage créatif avec Gempix2 en téléchargeant votre image de référence ou en commençant avec une invite textuelle pour une génération instantanée.",
+        "title": "Commencer avec Nano Banana 2",
+        "description": "Commencez votre voyage créatif avec Nano Banana 2 en téléchargeant votre image de référence ou en commençant avec une invite textuelle pour une génération instantanée.",
         "image": {
           "src": "/imgs/features/5.png"
         }
       },
       {
-        "title": "Éditer avec Gempix2",
-        "description": "Utilisez les puissantes instructions textuelles de Gempix2 pour modifier vos images - changez les expressions, ajoutez des objets ou transformez des scènes entières en toute transparence.",
+        "title": "Éditer avec Nano Banana 2",
+        "description": "Utilisez les puissantes instructions textuelles de Nano Banana 2 pour modifier vos images - changez les expressions, ajoutez des objets ou transformez des scènes entières en toute transparence.",
         "image": {
           "src": "/imgs/features/6.png"
         }
       },
       {
-        "title": "Itérer avec Gempix2",
-        "description": "Construisez sur les éditions précédentes avec les capacités itératives de Gempix2, affinez votre création étape par étape tout en préservant la cohérence des personnages.",
+        "title": "Itérer avec Nano Banana 2",
+        "description": "Construisez sur les éditions précédentes avec les capacités itératives de Nano Banana 2, affinez votre création étape par étape tout en préservant la cohérence des personnages.",
         "image": {
           "src": "/imgs/features/7.png"
         }
       },
       {
-        "title": "Perfectionner avec Gempix2",
-        "description": "Obtenez le résultat souhaité avec l'édition de précision de Gempix2 - des ajustements locaux aux transformations complètes de scène en un temps minimal.",
+        "title": "Perfectionner avec Nano Banana 2",
+        "description": "Obtenez le résultat souhaité avec l'édition de précision de Nano Banana 2 - des ajustements locaux aux transformations complètes de scène en un temps minimal.",
         "image": {
           "src": "/imgs/features/8.png"
         }
@@ -257,8 +257,8 @@
   },
   "comparison": {
     "label": "Comparaison des générations",
-    "title": "Pile surnommée « Nano Banana 1 » vs Gempix2",
-    "description": "Découvrez comment le service officiel Gempix2, basé sur la pile que la communauté surnomme « Nano Banana 2 », dépasse les workflows « Nano Banana 1 » de première génération grâce à des améliorations majeures",
+    "title": "Pile surnommée « Nano Banana 1 » vs Nano Banana 2",
+    "description": "Découvrez comment le service officiel Nano Banana 2, basé sur la pile que la communauté surnomme « Nano Banana 2 », dépasse les workflows « Nano Banana 1 » de première génération grâce à des améliorations majeures",
     "headers": {
       "feature": "Fonctionnalité",
       "improvement": "Amélioration"
@@ -289,37 +289,37 @@
   },
   "feature": {
     "name": "feature",
-    "title": "Capacités principales de Gempix2",
-    "description": "Découvrez la technologie d'édition d'images IA la plus avancée avec les fonctionnalités révolutionnaires de Gempix2.",
+    "title": "Capacités principales de Nano Banana 2",
+    "description": "Découvrez la technologie d'édition d'images IA la plus avancée avec les fonctionnalités révolutionnaires de Nano Banana 2.",
     "items": [
       {
         "title": "Modèle de flux multimodal",
-        "description": "Gempix2 combine une cohérence de caractères de pointe, une compréhension du contexte et des capacités d'édition locale avec une synthèse texte-image puissante.",
+        "description": "Nano Banana 2 combine une cohérence de caractères de pointe, une compréhension du contexte et des capacités d'édition locale avec une synthèse texte-image puissante.",
         "icon": "RiFlowChart"
       },
       {
         "title": "Technologie de vitesse interactive",
-        "description": "Gempix2 offre une latence minimale pour la génération et l'édition d'images, fonctionnant jusqu'à 8x plus rapidement que les modèles leaders actuels.",
+        "description": "Nano Banana 2 offre une latence minimale pour la génération et l'édition d'images, fonctionnant jusqu'à 8x plus rapidement que les modèles leaders actuels.",
         "icon": "RiSpeedUpLine"
       },
       {
         "title": "Édition d'images basée sur le texte",
-        "description": "Gempix2 permet une édition d'image instantanée flexible grâce à de simples instructions textuelles - pas besoin de flux de travail d'édition complexes ou de réglage fin.",
+        "description": "Nano Banana 2 permet une édition d'image instantanée flexible grâce à de simples instructions textuelles - pas besoin de flux de travail d'édition complexes ou de réglage fin.",
         "icon": "RiEditLine"
       },
       {
         "title": "Rendu photoréaliste",
-        "description": "Gempix2 offre un suivi d'invite fort, un rendu photoréaliste et une typographie compétitive avec une qualité de sortie signature.",
+        "description": "Nano Banana 2 offre un suivi d'invite fort, un rendu photoréaliste et une typographie compétitive avec une qualité de sortie signature.",
         "icon": "RiImageLine"
       },
       {
         "title": "Transformation de scène",
-        "description": "Gempix2 gère les transformations complexes de scènes entières tout en maintenant la cohérence visuelle et la cohérence des personnages à travers les points de vue.",
+        "description": "Nano Banana 2 gère les transformations complexes de scènes entières tout en maintenant la cohérence visuelle et la cohérence des personnages à travers les points de vue.",
         "icon": "RiMagicLine"
       },
       {
         "title": "Préservation de la qualité",
-        "description": "Gempix2 maintient la qualité d'image et la cohérence des personnages à travers les sessions d'édition itératives, préservant les caractéristiques distinctives en toute transparence.",
+        "description": "Nano Banana 2 maintient la qualité d'image et la cohérence des personnages à travers les sessions d'édition itératives, préservant les caractéristiques distinctives en toute transparence.",
         "icon": "RiShieldCheckLine"
       }
     ]
@@ -327,22 +327,22 @@
   "stats": {
     "name": "stats",
     "label": "Statistiques",
-    "title": "Les créateurs choisissent Gempix2",
+    "title": "Les créateurs choisissent Nano Banana 2",
     "description": "pour des performances et une fiabilité d'édition d'images IA inégalées.",
     "icon": "FaRegHeart",
     "items": [
       {
-        "title": "Utilisateurs Gempix2",
+        "title": "Utilisateurs Nano Banana 2",
         "label": "10K+",
         "description": "Créateurs"
       },
       {
-        "title": "Vitesse Gempix2",
+        "title": "Vitesse Nano Banana 2",
         "label": "8x",
         "description": "Plus rapide"
       },
       {
-        "title": "Précision Gempix2",
+        "title": "Précision Nano Banana 2",
         "label": "99%",
         "description": "Cohérence"
       }
@@ -351,14 +351,14 @@
   "testimonial": {
     "name": "testimonial",
     "label": "Témoignages",
-    "title": "Ce que les créateurs disent de Gempix2",
-    "description": "Écoutez les artistes, designers et créateurs de contenu qui ont transformé leur flux de travail avec Gempix2.",
+    "title": "Ce que les créateurs disent de Nano Banana 2",
+    "description": "Écoutez les artistes, designers et créateurs de contenu qui ont transformé leur flux de travail avec Nano Banana 2.",
     "icon": "GoThumbsup",
     "items": [
       {
         "title": "Sarah Chen",
         "label": "Artiste numérique et illustratrice",
-        "description": "Gempix2 a révolutionné mon processus créatif ! La cohérence des personnages est incroyable - je peux maintenir le même personnage à travers des dizaines de scènes. Gempix2 me fait gagner des heures chaque jour.",
+        "description": "Nano Banana 2 a révolutionné mon processus créatif ! La cohérence des personnages est incroyable - je peux maintenir le même personnage à travers des dizaines de scènes. Nano Banana 2 me fait gagner des heures chaque jour.",
         "image": {
           "src": "/imgs/users/1.png"
         }
@@ -366,7 +366,7 @@
       {
         "title": "Michael Rodriguez",
         "label": "Créateur de contenu et influenceur",
-        "description": "J'ai essayé tous les éditeurs d'images IA, mais Gempix2 est dans une ligue à part. La fonction d'édition itérative me permet de perfectionner chaque détail. Gempix2 fait ressortir mon contenu.",
+        "description": "J'ai essayé tous les éditeurs d'images IA, mais Nano Banana 2 est dans une ligue à part. La fonction d'édition itérative me permet de perfectionner chaque détail. Nano Banana 2 fait ressortir mon contenu.",
         "image": {
           "src": "/imgs/users/2.png"
         }
@@ -374,7 +374,7 @@
       {
         "title": "Emily Watson",
         "label": "Directrice créative chez PixelStudio",
-        "description": "Notre équipe est passée à Gempix2 et la productivité a explosé. La précision d'édition locale est inégalée - nous pouvons modifier des éléments spécifiques sans affecter toute l'image. Gempix2 change la donne.",
+        "description": "Notre équipe est passée à Nano Banana 2 et la productivité a explosé. La précision d'édition locale est inégalée - nous pouvons modifier des éléments spécifiques sans affecter toute l'image. Nano Banana 2 change la donne.",
         "image": {
           "src": "/imgs/users/3.png"
         }
@@ -382,7 +382,7 @@
       {
         "title": "Alex Kim",
         "label": "Designer freelance",
-        "description": "La vitesse de Gempix2 m'a époustouflé ! Ce qui prenait des heures prend maintenant des minutes. La fonction de référence de style maintient ma marque cohérente à travers tous les projets. Je ne peux pas imaginer travailler sans Gempix2.",
+        "description": "La vitesse de Nano Banana 2 m'a époustouflé ! Ce qui prenait des heures prend maintenant des minutes. La fonction de référence de style maintient ma marque cohérente à travers tous les projets. Je ne peux pas imaginer travailler sans Nano Banana 2.",
         "image": {
           "src": "/imgs/users/4.png"
         }
@@ -390,7 +390,7 @@
       {
         "title": "Lisa Thompson",
         "label": "Propriétaire d'agence marketing",
-        "description": "Nous livrons des campagnes 10x plus rapidement avec Gempix2. Les clients adorent la qualité photoréaliste et nous adorons l'efficacité. Gempix2 a transformé tout notre pipeline créatif.",
+        "description": "Nous livrons des campagnes 10x plus rapidement avec Nano Banana 2. Les clients adorent la qualité photoréaliste et nous adorons l'efficacité. Nano Banana 2 a transformé tout notre pipeline créatif.",
         "image": {
           "src": "/imgs/users/5.png"
         }
@@ -398,7 +398,7 @@
       {
         "title": "David Park",
         "label": "Artiste de pré-visualisation cinématographique",
-        "description": "Gempix2 donne vie à mes storyboards ! Les capacités de transformation de scène sont parfaites pour le prototypage rapide. Chaque cinéaste devrait utiliser Gempix2 pour le travail de pré-visualisation.",
+        "description": "Nano Banana 2 donne vie à mes storyboards ! Les capacités de transformation de scène sont parfaites pour le prototypage rapide. Chaque cinéaste devrait utiliser Nano Banana 2 pour le travail de pré-visualisation.",
         "image": {
           "src": "/imgs/users/6.png"
         }
@@ -408,48 +408,48 @@
   "faq": {
     "name": "faq",
     "label": "FAQ",
-    "title": "Questions fréquentes sur Gempix2",
+    "title": "Questions fréquentes sur Nano Banana 2",
     "description": "Découvrez la prochaine génération de technologie d'édition d'images IA propulsée par advanced AI technology.",
     "items": [
       {
-        "title": "Qu'est-ce qui différencie Nano Banana 2 (Gempix2) du Nano Banana original ?",
-        "description": "Nano Banana 2, commercialisé sous le nom Gempix2, représente un bond technologique complet. Les améliorations clés incluent une vitesse de traitement 15% plus rapide, des capacités d'itération illimitées (vs limitées dans Nano Banana 1), support de 10 ratios d'aspect (vs 8), fusion multi-images avancée et rendu de texte long. La cohérence des personnages est passée d'un niveau 'bon' à 'excellent', idéal pour le storytelling professionnel et la cohérence de marque."
+        "title": "Qu'est-ce qui différencie Nano Banana 2 (Nano Banana 2) du Nano Banana original ?",
+        "description": "Nano Banana 2, commercialisé sous le nom Nano Banana 2, représente un bond technologique complet. Les améliorations clés incluent une vitesse de traitement 15% plus rapide, des capacités d'itération illimitées (vs limitées dans Nano Banana 1), support de 10 ratios d'aspect (vs 8), fusion multi-images avancée et rendu de texte long. La cohérence des personnages est passée d'un niveau 'bon' à 'excellent', idéal pour le storytelling professionnel et la cohérence de marque."
       },
       {
-        "title": "Gempix2 est-il basé sur la technologie advanced AI technology ?",
-        "description": "Oui ! Gempix2 est propulsé par Nano Banana 2, le modèle IA de nouvelle génération de advanced AI technology publié en novembre 2025. Cette base donne à Gempix2 accès à une architecture de flux multimodal de pointe, une compréhension contextuelle de premier ordre et la recherche avancée de recherche avancée en génération de personnages cohérente et rendu photoréaliste."
+        "title": "Nano Banana 2 est-il basé sur la technologie advanced AI technology ?",
+        "description": "Oui ! Nano Banana 2 est propulsé par Nano Banana 2, le modèle IA de nouvelle génération de advanced AI technology publié en novembre 2025. Cette base donne à Nano Banana 2 accès à une architecture de flux multimodal de pointe, une compréhension contextuelle de premier ordre et la recherche avancée de recherche avancée en génération de personnages cohérente et rendu photoréaliste."
       },
       {
-        "title": "Puis-je mettre à niveau mes projets Nano Banana 1 vers Gempix2 ?",
-        "description": "Absolument ! Gempix2 maintient une compatibilité totale avec les projets créés dans Nano Banana 1 tout en offrant des améliorations significatives. Vos images de référence existantes, designs de personnages et guides de style fonctionneront parfaitement dans Gempix2. Vous bénéficierez immédiatement d'un traitement plus rapide, d'une meilleure cohérence et d'un accès à de nouvelles fonctionnalités comme les itérations illimitées et le rendu de texte étendu sans travail de migration."
+        "title": "Puis-je mettre à niveau mes projets Nano Banana 1 vers Nano Banana 2 ?",
+        "description": "Absolument ! Nano Banana 2 maintient une compatibilité totale avec les projets créés dans Nano Banana 1 tout en offrant des améliorations significatives. Vos images de référence existantes, designs de personnages et guides de style fonctionneront parfaitement dans Nano Banana 2. Vous bénéficierez immédiatement d'un traitement plus rapide, d'une meilleure cohérence et d'un accès à de nouvelles fonctionnalités comme les itérations illimitées et le rendu de texte étendu sans travail de migration."
       },
       {
         "title": "Quelles sont les améliorations techniques de l'architecture Nano Banana 2 ?",
         "description": "Nano Banana 2 introduit un modèle de flux multimodal révolutionnaire qui traite simultanément le texte et le contexte visuel avec une efficacité améliorée. L'architecture propose des mécanismes d'attention améliorés pour la préservation des personnages, des pipelines d'inférence optimisés offrant 15% de gain de vitesse, un support étendu des ratios d'aspect et des améliorations révolutionnaires en précision des détails et capacités de génération de texte long."
       },
       {
-        "title": "Comment fonctionne la fonctionnalité d'itération illimitée de Gempix2 ?",
-        "description": "Contrairement au modèle d'itération limité de Nano Banana 1, Gempix2 (Nano Banana 2) supporte des tours d'édition illimités tout en maintenant une cohérence de personnage parfaite et une cohérence visuelle. Chaque itération construit intelligemment sur les modifications précédentes, préservant les caractéristiques distinctives de votre personnage, les éléments de style et le contexte de scène. Cela permet des flux de travail créatifs multi-étapes complexes impossibles avec la première génération."
+        "title": "Comment fonctionne la fonctionnalité d'itération illimitée de Nano Banana 2 ?",
+        "description": "Contrairement au modèle d'itération limité de Nano Banana 1, Nano Banana 2 (Nano Banana 2) supporte des tours d'édition illimités tout en maintenant une cohérence de personnage parfaite et une cohérence visuelle. Chaque itération construit intelligemment sur les modifications précédentes, préservant les caractéristiques distinctives de votre personnage, les éléments de style et le contexte de scène. Cela permet des flux de travail créatifs multi-étapes complexes impossibles avec la première génération."
       },
       {
-        "title": "Pourquoi les professionnels créatifs devraient-ils choisir Gempix2 plutôt que d'autres éditeurs IA ?",
-        "description": "Gempix2 combine la technologie de nouvelle génération de advanced AI technology avec des fonctionnalités prêtes pour la production. Vous obtenez un traitement 8x plus rapide que les modèles hérités, une cohérence de personnages leader du secteur validée sur 10 000+ projets professionnels, une fusion multi-images avancée pour les compositions complexes et une qualité photoréaliste aux standards broadcast. La plateforme est approuvée mondialement par les agences créatives leaders, studios de cinéma et artistes numériques pour sa fiabilité et qualité de sortie supérieure."
+        "title": "Pourquoi les professionnels créatifs devraient-ils choisir Nano Banana 2 plutôt que d'autres éditeurs IA ?",
+        "description": "Nano Banana 2 combine la technologie de nouvelle génération de advanced AI technology avec des fonctionnalités prêtes pour la production. Vous obtenez un traitement 8x plus rapide que les modèles hérités, une cohérence de personnages leader du secteur validée sur 10 000+ projets professionnels, une fusion multi-images avancée pour les compositions complexes et une qualité photoréaliste aux standards broadcast. La plateforme est approuvée mondialement par les agences créatives leaders, studios de cinéma et artistes numériques pour sa fiabilité et qualité de sortie supérieure."
       }
     ]
   },
   "cta": {
     "name": "cta",
-    "title": "Transformez votre flux de travail créatif avec Gempix2",
-    "description": "Découvrez l'avenir de l'édition d'images IA. Commencez à créer avec Gempix2 aujourd'hui.",
+    "title": "Transformez votre flux de travail créatif avec Nano Banana 2",
+    "description": "Découvrez l'avenir de l'édition d'images IA. Commencez à créer avec Nano Banana 2 aujourd'hui.",
     "buttons": [
       {
-        "title": "Essayer Gempix2 maintenant",
+        "title": "Essayer Nano Banana 2 maintenant",
         "url": "/#gempix2",
         "target": "_self",
         "icon": "GoArrowUpRight"
       },
       {
-        "title": "Voir les exemples Gempix2",
+        "title": "Voir les exemples Nano Banana 2",
         "url": "/showcase",
         "target": "_self",
         "variant": "outline"
@@ -459,12 +459,12 @@
   "footer": {
     "name": "footer",
     "brand": {
-      "title": "Gempix2",
-      "description": "Gempix2 est la plateforme révolutionnaire de génération et d'édition d'images alimentée par l'IA qui offre une édition de caractères cohérente et une préservation de scène avec des performances supérieures.",
+      "title": "Nano Banana 2",
+      "description": "Nano Banana 2 est la plateforme révolutionnaire de génération et d'édition d'images alimentée par l'IA qui offre une édition de caractères cohérente et une préservation de scène avec des performances supérieures.",
       "logo": {
         "srcLight": "/logo_light.svg",
         "srcDark": "/logo_dark.svg",
-        "alt": "Gempix2"
+        "alt": "Nano Banana 2"
       },
       "url": "/"
     },

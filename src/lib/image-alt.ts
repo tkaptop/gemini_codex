@@ -59,7 +59,7 @@ export function generateImageAlt(
 
   // 3. 添加品牌（可选）
   if (includeBrand) {
-    alt += " - Gempix2";
+    alt += " - Nano Banana 2";
   }
 
   // 4. 限制长度

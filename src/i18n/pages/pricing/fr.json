@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "title": "Gempix2 Tarifs - Gempix2 Éditeur d'Images IA",
+    "title": "Nano Banana 2 Tarifs - Nano Banana 2 Éditeur d'Images IA",
     "description": "Choisissez le plan parfait pour vos besoins de génération d'images IA."
   },
   "pricing": {
     "name": "pricing",
     "label": "Tarifs",
-    "title": "Tarification simple et transparente de Gempix2",
+    "title": "Tarification simple et transparente de Nano Banana 2",
     "description": "Choisissez le plan parfait pour vos besoins de création d'images IA.",
     "save_yearly": "Économisez 50%",
     "cancel_anytime": "Annuler à tout moment",
@@ -26,7 +26,7 @@
         "features_title": "Ce qui est inclus",
         "features": [
           "200 crédits de génération IA par mois",
-          "Modèles haute qualité Gempix2",
+          "Modèles haute qualité Nano Banana 2",
           "Génération texte vers image",
           "Fonctionnalités d'édition d'image",
           "Service d'amélioration d'image 3x,4x",
@@ -50,7 +50,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_Ssq8Ltsmjqeiw9",
-        "product_name": "Gempix2 Débutant",
+        "product_name": "Nano Banana 2 Débutant",
         "credits": 200,
         "valid_months": 1
       },
@@ -85,7 +85,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_SsqBq5Jdkmjp4l",
-        "product_name": "Gempix2 Pro",
+        "product_name": "Nano Banana 2 Pro",
         "credits": 700,
         "valid_months": 1
       },
@@ -116,7 +116,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_SsqCkSQWvK8NzC",
-        "product_name": "Gempix2 Premium",
+        "product_name": "Nano Banana 2 Premium",
         "credits": 2000,
         "valid_months": 1
       },
@@ -126,7 +126,7 @@
         "features_title": "Ce qui est inclus",
         "features": [
           "2400 crédits de génération IA par an",
-          "Modèles haute qualité Gempix2",
+          "Modèles haute qualité Nano Banana 2",
           "Génération texte vers image",
           "Fonctionnalités d'édition d'image",
           "Service d'amélioration d'image 3x,4x",
@@ -153,7 +153,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_Ssq8Ltsmjqeiw9-2",
-        "product_name": "Gempix2 Débutant Annuel",
+        "product_name": "Nano Banana 2 Débutant Annuel",
         "credits": 2400,
         "valid_months": 12
       },
@@ -189,7 +189,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_SsqBq5Jdkmjp4l1-2",
-        "product_name": "Gempix2 Pro Annuel",
+        "product_name": "Nano Banana 2 Pro Annuel",
         "credits": 8400,
         "valid_months": 12
       },
@@ -222,7 +222,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_SsqCkSQWvK8NzC-2",
-        "product_name": "Gempix2 Premium Annuel",
+        "product_name": "Nano Banana 2 Premium Annuel",
         "credits": 30000,
         "valid_months": 12
       },
@@ -251,7 +251,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "credits-packs-1",
-        "product_name": "Gempix2 Pack de Crédits Débutant",
+        "product_name": "Nano Banana 2 Pack de Crédits Débutant",
         "credits": 500,
         "valid_months": 12
       },
@@ -280,7 +280,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "credits-packs-2",
-        "product_name": "Gempix2 Pack de Crédits Professionnel",
+        "product_name": "Nano Banana 2 Pack de Crédits Professionnel",
         "credits": 2000,
         "valid_months": 12
       },
@@ -311,7 +311,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "credits-packs-3",
-        "product_name": "Gempix2 Pack de Crédits Premium",
+        "product_name": "Nano Banana 2 Pack de Crédits Premium",
         "credits": 7000,
         "valid_months": 12
       }
@@ -320,8 +320,8 @@
   "faq": {
     "name": "faq",
     "label": "Questions Fréquentes",
-    "title": "Questions Fréquentes sur les Paiements Gempix2",
-    "description": "D'autres questions sur les paiements Gempix2 ? Contactez notre équipe de support pour obtenir de l'aide.",
+    "title": "Questions Fréquentes sur les Paiements Nano Banana 2",
+    "description": "D'autres questions sur les paiements Nano Banana 2 ? Contactez notre équipe de support pour obtenir de l'aide.",
     "items": [
       {
         "title": "Quels modes de paiement sont pris en charge ?",
@@ -329,7 +329,7 @@
       },
       {
         "title": "Que sont les abonnements annuels, mensuels et les packs de crédits ?",
-        "description": "Les abonnements annuels, mensuels et les packs de crédits sont les plans de paiement de Gempix2. L'abonnement annuel est un paiement unique pour toute l'année avec renouvellement automatique annuel, fournissant tous les crédits de l'année en une fois valables pour un an, avec 50% d'économies en choisissant l'abonnement annuel. L'abonnement mensuel se recharge automatiquement chaque mois, avec des crédits valables pour un mois. Les packs de crédits sont des achats uniques qui n'expirent jamais et ne se renouvellent pas automatiquement. Veuillez vérifier le montant réel du paiement lors du paiement et choisir le plan approprié."
+        "description": "Les abonnements annuels, mensuels et les packs de crédits sont les plans de paiement de Nano Banana 2. L'abonnement annuel est un paiement unique pour toute l'année avec renouvellement automatique annuel, fournissant tous les crédits de l'année en une fois valables pour un an, avec 50% d'économies en choisissant l'abonnement annuel. L'abonnement mensuel se recharge automatiquement chaque mois, avec des crédits valables pour un mois. Les packs de crédits sont des achats uniques qui n'expirent jamais et ne se renouvellent pas automatiquement. Veuillez vérifier le montant réel du paiement lors du paiement et choisir le plan approprié."
       },
       {
         "title": "Que sont les crédits et comment les utiliser ?",
@@ -356,12 +356,12 @@
         "description": "Oui, vous pouvez upgrader ou downgrader votre plan à tout moment. Pour changer d'abonnement, veuillez d'abord contacter le service client support@gempix2.site pour annuler votre abonnement, puis vous réabonner au nouveau plan."
       },
       {
-        "title": "Qu'est-ce que Gempix2 exactement ?",
-        "description": "Gempix2 est une plateforme révolutionnaire de génération et d'édition d'images pilotée par l'IA. Contrairement aux modèles traditionnels, elle combine les entrées texte et image pour une création visuelle transparente, offrant des fonctionnalités puissantes telles que le maintien de la cohérence des personnages, l'édition de scènes et la fusion de références multi-images."
+        "title": "Qu'est-ce que Nano Banana 2 exactement ?",
+        "description": "Nano Banana 2 est une plateforme révolutionnaire de génération et d'édition d'images pilotée par l'IA. Contrairement aux modèles traditionnels, elle combine les entrées texte et image pour une création visuelle transparente, offrant des fonctionnalités puissantes telles que le maintien de la cohérence des personnages, l'édition de scènes et la fusion de références multi-images."
       },
       {
-        "title": "Gempix2 convient-il au travail créatif professionnel ?",
-        "description": "Absolument ! Gempix2 est conçu pour les professionnels créatifs, offrant un rendu réaliste et des résultats de qualité professionnelle. De nombreux artistes professionnels, designers, créateurs de contenu et agences créatives s'appuient sur Gempix2 pour leurs flux de travail quotidiens et leurs projets clients."
+        "title": "Nano Banana 2 convient-il au travail créatif professionnel ?",
+        "description": "Absolument ! Nano Banana 2 est conçu pour les professionnels créatifs, offrant un rendu réaliste et des résultats de qualité professionnelle. De nombreux artistes professionnels, designers, créateurs de contenu et agences créatives s'appuient sur Nano Banana 2 pour leurs flux de travail quotidiens et leurs projets clients."
       },
       {
         "title": "Comment contacter l'équipe de support client ?",

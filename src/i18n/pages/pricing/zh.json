@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "title": "Gempix2 价格 - Gempix2 AI图像编辑器",
+    "title": "Nano Banana 2 价格 - Nano Banana 2 AI图像编辑器",
     "description": "选择适合您AI图像生成需求的完美套餐。"
   },
   "pricing": {
     "name": "pricing",
     "label": "定价",
-    "title": "简单透明的Gempix2定价",
-    "description": "为 Gempix2 的 AI 图像创作需求挑选最合适的计划。",
+    "title": "简单透明的Nano Banana 2定价",
+    "description": "为 Nano Banana 2 的 AI 图像创作需求挑选最合适的计划。",
     "save_yearly": "节省50%",
     "cancel_anytime": "随时取消",
     "cancel_subscription_text": "取消订阅，请联系客服邮箱：",
@@ -26,7 +26,7 @@
         "features_title": "包含功能",
         "features": [
           "200 个 AI 生成积分每个月",
-          "Gempix2高质量模型",
+          "Nano Banana 2高质量模型",
           "文本生成图像",
           "图像编辑功能",
           "3x,4x图像增强服务",
@@ -50,7 +50,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_Ssq8Ltsmjqeiw9",
-        "product_name": "Gempix2 入门版",
+        "product_name": "Nano Banana 2 入门版",
         "credits": 200,
         "valid_months": 1
       },
@@ -85,7 +85,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_SsqBq5Jdkmjp4l",
-        "product_name": "Gempix2 专业包",
+        "product_name": "Nano Banana 2 专业包",
         "credits": 700,
         "valid_months": 1
       },
@@ -116,7 +116,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_SsqCkSQWvK8NzC",
-        "product_name": "Gempix2 高级包",
+        "product_name": "Nano Banana 2 高级包",
         "credits": 2000,
         "valid_months": 1
       },
@@ -126,7 +126,7 @@
         "features_title": "包含功能",
         "features": [
           "2400 个 AI 生成积分每年",
-          "Gempix2高质量模型",
+          "Nano Banana 2高质量模型",
           "文本生成图像",
           "图像编辑功能",
           "3x,4x图像增强服务",
@@ -153,7 +153,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_Ssq8Ltsmjqeiw9-2",
-        "product_name": "Gempix2 入门版年费",
+        "product_name": "Nano Banana 2 入门版年费",
         "credits": 2400,
         "valid_months": 12
       },
@@ -189,7 +189,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_SsqBq5Jdkmjp4l1-2",
-        "product_name": "Gempix2 专业包年费",
+        "product_name": "Nano Banana 2 专业包年费",
         "credits": 8400,
         "valid_months": 12
       },
@@ -222,7 +222,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_SsqCkSQWvK8NzC-2",
-        "product_name": "Gempix2 高级包年费",
+        "product_name": "Nano Banana 2 高级包年费",
         "credits": 30000,
         "valid_months": 12
       },
@@ -248,7 +248,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "credits-packs-1",
-        "product_name": "Gempix2 入门积分包",
+        "product_name": "Nano Banana 2 入门积分包",
         "credits": 500,
         "valid_months": 12
       },
@@ -274,7 +274,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "credits-packs-2",
-        "product_name": "Gempix2 专业积分包",
+        "product_name": "Nano Banana 2 专业积分包",
         "credits": 2000,
         "valid_months": 12
       },
@@ -306,7 +306,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "credits-packs-3",
-        "product_name": "Gempix2 高级积分包",
+        "product_name": "Nano Banana 2 高级积分包",
         "credits": 7000,
         "valid_months": 12
       }
@@ -315,8 +315,8 @@
   "faq": {
     "name": "faq",
     "label": "常见问题",
-    "title": "关于 Gempix2 支付的常见问题",
-    "description": "对 Gempix2 支付还有其他问题？联系我们的支持团队获取帮助。",
+    "title": "关于 Nano Banana 2 支付的常见问题",
+    "description": "对 Nano Banana 2 支付还有其他问题？联系我们的支持团队获取帮助。",
     "items": [
       {
         "title": "支持哪些支付方式？",
@@ -324,7 +324,7 @@
       },
       {
         "title": "什么是年付、月付、积分包？",
-        "description": "年付、月付、积分包是Gempix2的付费方案。年付是一次性支付全年费用，以年为周期自动扣款，直接给全年的积分，积分在一年内有效，选择年付订阅可以节省 50% 的费用。月付是每月自动扣款充值，每次充值的积分在一个月内有效。积分包是一次性购买积分，积分永不过期，不会自动扣费。在支付时，请注意查看实际的支付金额，选择合适的方案。"
+        "description": "年付、月付、积分包是Nano Banana 2的付费方案。年付是一次性支付全年费用，以年为周期自动扣款，直接给全年的积分，积分在一年内有效，选择年付订阅可以节省 50% 的费用。月付是每月自动扣款充值，每次充值的积分在一个月内有效。积分包是一次性购买积分，积分永不过期，不会自动扣费。在支付时，请注意查看实际的支付金额，选择合适的方案。"
       },
       {
         "title": "积分是什么，如何使用？",
@@ -352,12 +352,12 @@
         "description": "是的，您可以随时升级或降级您的方案。需要更换订阅请先联系 support@gempix2.site 支持客服取消订阅，然后重新订阅新的方案。"
       },
       {
-        "title": "Gempix2 究竟是什么？",
-        "description": "Gempix2 是一个革命性的 AI 驱动图像生成和编辑平台。与传统模型不同，它结合文本和图像输入进行无缝的视觉创作，提供角色一致性保持、场景编辑、多图融合参考等强大功能。"
+        "title": "Nano Banana 2 究竟是什么？",
+        "description": "Nano Banana 2 是一个革命性的 AI 驱动图像生成和编辑平台。与传统模型不同，它结合文本和图像输入进行无缝的视觉创作，提供角色一致性保持、场景编辑、多图融合参考等强大功能。"
       },
       {
-        "title": "Gempix2 适合专业创意工作吗？",
-        "description": "绝对可以！Gempix2 专为专业创意人员设计，提供逼真渲染和制作级质量结果。许多专业艺术家、设计师、内容创作者和创意机构都依赖 Gempix2 进行日常工作流程和客户项目。"
+        "title": "Nano Banana 2 适合专业创意工作吗？",
+        "description": "绝对可以！Nano Banana 2 专为专业创意人员设计，提供逼真渲染和制作级质量结果。许多专业艺术家、设计师、内容创作者和创意机构都依赖 Nano Banana 2 进行日常工作流程和客户项目。"
       },
       {
         "title": "如何联系客服团队？",

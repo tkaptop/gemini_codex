@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "作成履歴 - Gempix2",
+    "title": "作成履歴 - Nano Banana 2",
     "description": "AIで生成した画像の作成履歴を表示・管理"
   },
   "status": {
@@ -48,8 +48,8 @@
   "no_image_selected": "画像が選択されていません",
   "redirecting_to_upscaler": "画像アップスケーラーにリダイレクト中...",
   "invalid_image_url": "無効な画像URL",
-  "title": "Gempix2創作記録",
-  "description": "これまでにGempix2で生成・編集した全ての画像を表示",
+  "title": "Nano Banana 2創作記録",
+  "description": "これまでにNano Banana 2で生成・編集した全ての画像を表示",
   "credits_used": "{amount} クレジット",
   "credits_refunded": "{amount} クレジット返金",
   "images": "画像",

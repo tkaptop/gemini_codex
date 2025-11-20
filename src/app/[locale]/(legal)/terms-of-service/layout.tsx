@@ -7,9 +7,9 @@ import {
 } from "@/lib/branding";
 
 const canonicalUrl = `${process.env.NEXT_PUBLIC_WEB_URL}/terms-of-service`;
-const baseTitle = "Terms of Service - Gempix2 ORG";
+const baseTitle = "Terms of Service - Nano Banana 2 ORG";
 const baseDescription =
-  "Terms of Service for Gempix2 AI image editing platform. Understand your rights and responsibilities when using our AI-powered image generation services.";
+  "Terms of Service for Nano Banana 2 AI image editing platform. Understand your rights and responsibilities when using our AI-powered image generation services.";
 
 const title = withSeoBrand(baseTitle) || `${SEO_BRAND} Terms of Service`;
 const description =

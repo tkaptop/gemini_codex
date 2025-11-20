@@ -1,6 +1,6 @@
 /**
  * Comparison Table Component
- * 对比外界昵称 “Nano Banana 1/2” 与官方的 Gempix2 体验
+ * 对比外界昵称 "Nano Banana 1/2" 与官方的 Nano Banana 2 体验
  * 强调我们只是复用同一套底层技术栈
  */
 
@@ -91,9 +91,9 @@ export default function ComparisonTable() {
                 </div>
               </div>
               <div className="font-semibold text-center text-primary">
-                Gempix2
+                Nano Banana 2
                 <div className="text-xs text-primary/70 font-normal mt-1">
-                  Runs on "Nano Banana 2" stack
+                  Advanced AI stack
                 </div>
               </div>
               <div className="font-semibold text-center">
@@ -124,7 +124,7 @@ export default function ComparisonTable() {
                     )}
                   </div>
 
-                  {/* Gempix2 (Nano Banana 2) Value */}
+                  {/* Nano Banana 2 Value */}
                   <div className="text-center font-medium text-primary">
                     {typeof row.gempix2 === "boolean" ? (
                       row.gempix2 ? (

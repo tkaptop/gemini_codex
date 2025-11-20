@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Gempix2 - AI图像生成器 | 通过对话编辑图片",
-    "description": "Gempix2 是一个AI驱动的图像生成器，让您通过对话聊天来创建和编辑图片。Flux Kontext 的强大替代品。",
+    "title": "Nano Banana 2 - AI图像生成器 | 通过对话编辑图片",
+    "description": "Nano Banana 2 是一个AI驱动的图像生成器，让您通过对话聊天来创建和编辑图片。Flux Kontext 的强大替代品。",
     "keywords": ""
   },
   "user": {
@@ -152,7 +152,7 @@
   },
   "announcement": {
     "banner": {
-      "text": "🎉 Gempix2 即将发布!折扣即将结束!",
+      "text": "🎉 Nano Banana 2 即将发布!折扣即将结束!",
       "button": "立即查看"
     }
   },
@@ -160,8 +160,8 @@
     "landing": {
       "comparison": {
         "label": "世代对比",
-        "title": "社区昵称 \"Nano Banana\" 堆栈 vs Gempix2",
-        "description": "看看官方 Gempix2 服务（运行在社区称作 \"Nano Banana 2\" 的堆栈）如何在性能和功能上超越第一代 \"Nano Banana\" 工作流",
+        "title": "社区昵称 \"Nano Banana\" 堆栈 vs Nano Banana 2",
+        "description": "看看官方 Nano Banana 2 服务（运行在社区称作 \"Nano Banana 2\" 的堆栈）如何在性能和功能上超越第一代 \"Nano Banana\" 工作流",
         "headers": {
           "feature": "功能特性",
           "improvement": "提升幅度"
@@ -194,8 +194,8 @@
   },
   "gempix2": {
     "wrapper": {
-      "loading_text": "正在加载 Gempix2...",
-      "title": "Gempix2 AI 创作工作台",
+      "loading_text": "正在加载 Nano Banana 2...",
+      "title": "Nano Banana 2 AI 创作工作台",
       "description": "使用先进的AI技术将您的想象力转化为美丽的图像"
     },
     "workspace": {
@@ -276,8 +276,8 @@
         "retry_button": "重新尝试",
         "contact_support": "联系支持",
         "support_email_text": "技术支持邮箱：",
-        "email_subject": "Gempix2 - 技术支持请求",
-        "email_body": "您好，\n\n我在使用 Gempix2 时遇到了问题：\n\n错误信息：{title}\n详细描述：{message}\n\n请协助解决，谢谢！\n\n用户"
+        "email_subject": "Nano Banana 2 - 技术支持请求",
+        "email_body": "您好，\n\n我在使用 Nano Banana 2 时遇到了问题：\n\n错误信息：{title}\n详细描述：{message}\n\n请协助解决，谢谢！\n\n用户"
       },
       "image_card": {
         "image_load_failed": "图片加载失败",

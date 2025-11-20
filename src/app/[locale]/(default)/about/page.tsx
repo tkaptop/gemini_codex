@@ -197,7 +197,7 @@ export default async function AboutPage({
             <div className="inline-block">
               <div className="flex items-center gap-2 text-sm text-slate-500 [.dark_&]:text-slate-400">
                 <span className="w-12 h-[1px] bg-gradient-to-r from-transparent to-slate-300 [.dark_&]:to-slate-600" />
-                <span>Gempix2</span>
+                <span>Nano Banana 2</span>
                 <span className="w-12 h-[1px] bg-gradient-to-l from-transparent to-slate-300 [.dark_&]:to-slate-600" />
               </div>
             </div>

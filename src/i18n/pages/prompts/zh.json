@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "title": "提示词库 - 探索 AI 图像提示词 | Gempix2",
+    "title": "提示词库 - 探索 AI 图像提示词 | Nano Banana 2",
     "description": "探索 400+ 精选 AI 图像生成提示词及示例，为下一次创作寻找灵感。",
     "keywords": "AI 提示词, 图像生成, GPT-4o, 提示词库, AI 艺术"
   },
   "hero": {
     "title": "AI 图像生成提示词库",
-    "description": "探索 400+ 运行在 Gempix2（社区昵称 \"Nano Banana 2\"）堆栈上的 AI 图像生成提示词，发现角色设计、场景创作和艺术风格的创意示例。"
+    "description": "探索 400+ 运行在 Nano Banana 2（社区昵称 \"Nano Banana 2\"）堆栈上的 AI 图像生成提示词，发现角色设计、场景创作和艺术风格的创意示例。"
   },
   "card_image_alt": "{title}{tags}",
   "gallery": {
@@ -54,7 +54,7 @@
   "detail": {
     "backToGallery": "返回提示词库",
     "source": "来源",
-    "recreateButton": "在 Gempix2 中重新生成",
+    "recreateButton": "在 Nano Banana 2 中重新生成",
     "share": {
       "button": "分享",
       "buttonLabel": "分享这个提示词",
@@ -64,7 +64,7 @@
       "failed": "分享失败"
     },
     "modelLabel": "模型",
-    "modelValue": "Gempix2（基于社区称作 \"Nano Banana 2\" 的堆栈）",
+    "modelValue": "Nano Banana 2（基于社区称作 \"Nano Banana 2\" 的堆栈）",
     "showMore": "展开",
     "showLess": "收起",
     "sections": {

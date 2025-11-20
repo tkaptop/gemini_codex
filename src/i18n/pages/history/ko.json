@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "창작 기록 - Gempix2",
+    "title": "창작 기록 - Nano Banana 2",
     "description": "AI 생성 이미지 창작 기록을 확인하고 관리하세요"
   },
   "status": {
@@ -43,8 +43,8 @@
   "no_image_selected": "이미지가 선택되지 않음",
   "redirecting_to_upscaler": "이미지 업스케일러로 리디렉션 중...",
   "invalid_image_url": "유효하지 않은 이미지 URL",
-  "title": "Gempix2 창작 기록",
-  "description": "이전에 Gempix2로 생성하고 편집한 모든 이미지 보기",
+  "title": "Nano Banana 2 창작 기록",
+  "description": "이전에 Nano Banana 2로 생성하고 편집한 모든 이미지 보기",
   "credits_used": "{amount} 크레딧",
   "credits_refunded": "{amount} 크레딧 환불",
   "images": "이미지",

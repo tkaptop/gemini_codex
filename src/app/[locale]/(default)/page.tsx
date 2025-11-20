@@ -150,7 +150,7 @@ export default async function LandingPage({
           <p className="text-muted-foreground mb-6 max-w-2xl">
             When you are ready to turn Gemini 3 or gemini3 prompts into real images or videos,
             these tools give you a browser-based way to do it. We recommend starting
-            with Gempix2 (sometimes written as Gempix 2) for image generation on the Nano Banana 2 stack.
+            with Nano Banana 2 for image generation.
           </p>
           <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             <a
@@ -160,10 +160,10 @@ export default async function LandingPage({
               className="group block rounded-xl border border-border bg-card p-4 hover:border-primary/60 hover:shadow-md transition-colors"
             >
               <h3 className="text-base font-semibold mb-1 group-hover:text-primary">
-                Gempix2
+                Nano Banana 2
               </h3>
               <p className="text-sm text-muted-foreground mb-2">
-                Gemini 3 Pro–powered image generator (also known as Nano Banana 2 / GEMPIX2 / Gempix 2),
+                Gemini 3 Pro–powered image generator,
                 with 2K/4K output, 10-image fusion and improved CJK text rendering.
               </p>
               <p className="text-[11px] font-medium text-primary group-hover:underline">

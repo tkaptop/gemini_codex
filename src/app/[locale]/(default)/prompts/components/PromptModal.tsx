@@ -90,7 +90,7 @@ export function PromptModal({ prompt, relatedPrompts = [], navigation, onClose, 
     linkCopied: t('detail.share.linkCopied'),
     success: t('detail.share.success'),
     failed: t('detail.share.failed'),
-    shareTitle: `${title} – AI Prompt on Gempix2`,
+    shareTitle: `${title} – AI Prompt on Nano Banana 2`,
     shareText: `Check out this AI prompt: ${title}`,
   };
 
@@ -269,7 +269,7 @@ export function PromptModal({ prompt, relatedPrompts = [], navigation, onClose, 
         {/* CTA 区域 */}
         <div className="flex flex-wrap items-center justify-center gap-3">
           <Button onClick={handleRecreate} size="lg">
-            {t('detail.recreateButton') || 'Recreate in Gempix2'}
+            {t('detail.recreateButton') || 'Recreate in Nano Banana 2'}
           </Button>
           <PromptShare
             title={title}

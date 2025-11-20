@@ -7,9 +7,9 @@ import {
 } from "@/lib/branding";
 
 const canonicalUrl = `${process.env.NEXT_PUBLIC_WEB_URL}/privacy-policy`;
-const baseTitle = "Privacy Policy - Gempix2 ORG";
+const baseTitle = "Privacy Policy - Nano Banana 2 ORG";
 const baseDescription =
-  "Privacy Policy for Gempix2 AI image editing platform. Learn how we protect your data and creative content.";
+  "Privacy Policy for Nano Banana 2 AI image editing platform. Learn how we protect your data and creative content.";
 
 const title = withSeoBrand(baseTitle) || `${SEO_BRAND} Privacy Policy`;
 const description =

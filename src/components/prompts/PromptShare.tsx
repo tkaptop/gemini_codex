@@ -30,7 +30,7 @@ export function PromptShare({ title, url, className, labels }: PromptShareProps)
 
   const sharePayload = useMemo(
     () => ({
-      title: labels.shareTitle || `${title} – AI Prompt on Gempix2`,
+      title: labels.shareTitle || `${title} – AI Prompt on Nano Banana 2`,
       text: labels.shareText || `Check out this AI prompt: ${title}`,
       url,
     }),

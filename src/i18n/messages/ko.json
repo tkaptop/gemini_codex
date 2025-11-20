@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Gempix2 - AI 이미지 생성기 | 채팅으로 이미지 편집",
-    "description": "Gempix2는 자연스러운 채팅 대화를 통해 이미지를 생성하고 편집할 수 있는 AI 기반 이미지 생성기입니다. Flux Kontext의 강력한 대안입니다.",
+    "title": "Nano Banana 2 - AI 이미지 생성기 | 채팅으로 이미지 편집",
+    "description": "Nano Banana 2는 자연스러운 채팅 대화를 통해 이미지를 생성하고 편집할 수 있는 AI 기반 이미지 생성기입니다. Flux Kontext의 강력한 대안입니다.",
     "keywords": ""
   },
   "user": {
@@ -152,7 +152,7 @@
   },
   "announcement": {
     "banner": {
-      "text": "🎉 Gempix2 출시 예정! 할인 마감 임박!",
+      "text": "🎉 Nano Banana 2 출시 예정! 할인 마감 임박!",
       "button": "지금 확인"
     }
   },
@@ -160,8 +160,8 @@
     "landing": {
       "comparison": {
         "label": "세대 비교",
-        "title": "커뮤니티에서 'Nano Banana'라 부르는 스택 vs Gempix2",
-        "description": "커뮤니티가 'Nano Banana 2'라 부르는 동일한 스택 위에서 공식 서비스로 제공되는 Gempix2가 1세대 'Nano Banana' 워크플로보다 성능과 기능을 어떻게 높이는지 확인하세요",
+        "title": "커뮤니티에서 'Nano Banana'라 부르는 스택 vs Nano Banana 2",
+        "description": "커뮤니티가 'Nano Banana 2'라 부르는 동일한 스택 위에서 공식 서비스로 제공되는 Nano Banana 2가 1세대 'Nano Banana' 워크플로보다 성능과 기능을 어떻게 높이는지 확인하세요",
         "headers": {
           "feature": "기능",
           "improvement": "개선"
@@ -194,8 +194,8 @@
   },
   "gempix2": {
     "wrapper": {
-      "loading_text": "Gempix2 로딩 중...",
-      "title": "Gempix2 AI 창작 워크벤치",
+      "loading_text": "Nano Banana 2 로딩 중...",
+      "title": "Nano Banana 2 AI 창작 워크벤치",
       "description": "고급 AI 기술을 사용하여 상상력을 아름다운 이미지로 변환합니다"
     },
     "workspace": {
@@ -276,8 +276,8 @@
         "retry_button": "다시 시도",
         "contact_support": "지원팀에 문의",
         "support_email_text": "기술 지원 이메일:",
-        "email_subject": "Gempix2 - 기술 지원 요청",
-        "email_body": "안녕하세요,\\n\\nGempix2 사용 중 문제가 발생했습니다:\\n\\n오류 메시지: {title}\\n상세 설명: {message}\\n\\n해결을 위해 도움을 주세요, 감사합니다!\\n\\n사용자"
+        "email_subject": "Nano Banana 2 - 기술 지원 요청",
+        "email_body": "안녕하세요,\\n\\nNano Banana 2 사용 중 문제가 발생했습니다:\\n\\n오류 메시지: {title}\\n상세 설명: {message}\\n\\n해결을 위해 도움을 주세요, 감사합니다!\\n\\n사용자"
       },
       "image_card": {
         "image_load_failed": "이미지 로딩 실패",

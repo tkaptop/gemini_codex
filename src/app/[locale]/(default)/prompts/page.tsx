@@ -43,10 +43,10 @@ export async function generateMetadata({
     canonicalUrl = `${baseUrl}/${locale}/prompts`;
   }
 
-  const rawTitle = page.metadata?.title || "Prompt Gallery - Gempix2";
+  const rawTitle = page.metadata?.title || "Prompt Gallery - Nano Banana 2";
   const rawDescription =
     page.metadata?.description ||
-    "Explore creative AI image generation prompts for the Gempix2 service that runs on the community-nicknamed \"Nano Banana 2\" stack. Browse curated prompt examples for character design, scenes, and artistic styles.";
+    "Explore creative AI image generation prompts for the Nano Banana 2 service. Browse curated prompt examples for character design, scenes, and artistic styles.";
 
   const title = withSeoBrand(rawTitle) || `${SEO_BRAND} Prompt Gallery`;
   const description = withSeoBrand(rawDescription) || DEFAULT_SEO_DESCRIPTION;
@@ -196,7 +196,7 @@ export default async function PromptsPage({
         </div>
       </section>
 
-      {/* 推荐将提示词直接用于 Gempix2 进行图片生成 */}
+      {/* 推荐将提示词直接用于 Nano Banana 2 进行图片生成 */}
       <section className="mt-8 text-center">
         <p className="text-sm text-muted-foreground mb-3">
           You can plug these Gemini 3-style prompts directly into a Gemini-grade image generator.

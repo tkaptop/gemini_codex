@@ -65,15 +65,15 @@ export default function Footer({ footer }: { footer: FooterType }) {
                 {/* Firsto Top 1 Winner Badge */}
                 <a
                   href="https://firsto.co/projects/gempix2-ai-8913"
-                  title="Gempix2 AI - Featured on Firsto.co"
+                  title="Nano Banana 2 AI - Featured on Firsto.co"
                   target="_blank"
                   rel="noopener noreferrer"
-                  aria-label="Gempix2 AI - Firsto Top 1 Winner"
+                  aria-label="Nano Banana 2 AI - Firsto Top 1 Winner"
                   className="inline-block transition-opacity hover:opacity-80"
                 >
                   <Image
                     src="https://firsto.co/images/badges/daily-top1.svg"
-                    alt="Gempix2 AI - Firsto Top 1 Winner Badge"
+                    alt="Nano Banana 2 AI - Firsto Top 1 Winner Badge"
                     width={80}
                     height={16}
                     className="h-4 w-auto"

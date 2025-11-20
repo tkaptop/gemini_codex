@@ -66,7 +66,7 @@ export default async function NewsIndexPage({
         </h1>
         <p className="text-muted-foreground max-w-2xl mb-4">
           A curated stream of updates and deeper analysis around Gemini 3, Gemini 3.0,
-          and the Gempix2 (Nano Banana 2) image model. Use these articles to stay
+          and the Nano Banana 2 image model. Use these articles to stay
           informed and adjust your own prompts, workflows, and integrations.
         </p>
         <div className="text-sm text-muted-foreground space-y-1">

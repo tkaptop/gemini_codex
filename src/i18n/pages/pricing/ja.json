@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "title": "Gempix2 料金 - Gempix2 AI画像エディター",
+    "title": "Nano Banana 2 料金 - Nano Banana 2 AI画像エディター",
     "description": "AI画像生成ニーズに最適なプランを選択。"
   },
   "pricing": {
     "name": "pricing",
     "label": "料金",
-    "title": "シンプルで透明なGempix2料金プラン",
+    "title": "シンプルで透明なNano Banana 2料金プラン",
     "description": "AI画像作成のニーズに最適なプランを選択してください。",
     "save_yearly": "50%節約",
     "cancel_anytime": "いつでもキャンセルできます",
@@ -26,7 +26,7 @@
         "features_title": "含まれる機能",
         "features": [
           "200 AI生成クレジット毎月",
-          "Gempix2高品質モデル",
+          "Nano Banana 2高品質モデル",
           "テキストから画像への生成",
           "画像編集機能",
           "3x,4x画像拡張サービス",
@@ -50,7 +50,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_Ssq8Ltsmjqeiw9",
-        "product_name": "Gempix2 初級版",
+        "product_name": "Nano Banana 2 初級版",
         "credits": 200,
         "valid_months": 1
       },
@@ -85,7 +85,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_SsqBq5Jdkmjp4l",
-        "product_name": "Gempix2プロ",
+        "product_name": "Nano Banana 2プロ",
         "credits": 700,
         "valid_months": 1
       },
@@ -116,7 +116,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_SsqCkSQWvK8NzC",
-        "product_name": "Gempix2プレミアム",
+        "product_name": "Nano Banana 2プレミアム",
         "credits": 2000,
         "valid_months": 1
       },
@@ -126,7 +126,7 @@
         "features_title": "含まれる機能",
         "features": [
           "2400 AI生成クレジット毎年",
-          "Gempix2高品質モデル",
+          "Nano Banana 2高品質モデル",
           "テキストから画像への生成",
           "画像編集機能",
           "3x,4x画像拡張サービス",
@@ -153,7 +153,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_Ssq8Ltsmjqeiw9-2",
-        "product_name": "Gempix2 初級版年料",
+        "product_name": "Nano Banana 2 初級版年料",
         "credits": 2400,
         "valid_months": 12
       },
@@ -189,7 +189,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_SsqBq5Jdkmjp4l1-2",
-        "product_name": "Gempix2プロ年料",
+        "product_name": "Nano Banana 2プロ年料",
         "credits": 8400,
         "valid_months": 12
       },
@@ -222,7 +222,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "prod_SsqCkSQWvK8NzC-2",
-        "product_name": "Gempix2プレミアム年料",
+        "product_name": "Nano Banana 2プレミアム年料",
         "credits": 30000,
         "valid_months": 12
       },
@@ -252,7 +252,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "credits-packs-1",
-        "product_name": "Gempix2 エントリークレジットパック",
+        "product_name": "Nano Banana 2 エントリークレジットパック",
         "credits": 500,
         "valid_months": 12
       },
@@ -281,7 +281,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "credits-packs-2",
-        "product_name": "Gempix2 プロフェッショナルクレジットパック",
+        "product_name": "Nano Banana 2 プロフェッショナルクレジットパック",
         "credits": 2000,
         "valid_months": 12
       },
@@ -312,7 +312,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "credits-packs-3",
-        "product_name": "Gempix2 プレミアムクレジットパック",
+        "product_name": "Nano Banana 2 プレミアムクレジットパック",
         "credits": 7000,
         "valid_months": 12
       }
@@ -321,8 +321,8 @@
   "faq": {
     "name": "faq",
     "label": "よくある質問",
-    "title": "Gempix2の支払いに関するよくある質問",
-    "description": "Gempix2の支払いについて他にもご質問がございましたら、サポートチームまでお気軽にお問い合わせください。",
+    "title": "Nano Banana 2の支払いに関するよくある質問",
+    "description": "Nano Banana 2の支払いについて他にもご質問がございましたら、サポートチームまでお気軽にお問い合わせください。",
     "items": [
       {
         "title": "どのような支払い方法がサポートされていますか？",
@@ -330,7 +330,7 @@
       },
       {
         "title": "年払い、月払い、クレジットパックとは何ですか？",
-        "description": "年払い、月払い、クレジットパックはGempix2の料金プランです。年払いは年間料金を一括支払いし、年単位で自動更新され、年間分のクレジットが一度に付与され1年間有効で、年払いを選択すると 50% お得になります。月払いは毎月自動課金・チャージされ、クレジットは1ヶ月間有効です。クレジットパックは一度きりの購入で、有効期限はなく、自動更新されません。支払い時には実際の支払い金額をご確認の上、適切なプランをお選びください。"
+        "description": "年払い、月払い、クレジットパックはNano Banana 2の料金プランです。年払いは年間料金を一括支払いし、年単位で自動更新され、年間分のクレジットが一度に付与され1年間有効で、年払いを選択すると 50% お得になります。月払いは毎月自動課金・チャージされ、クレジットは1ヶ月間有効です。クレジットパックは一度きりの購入で、有効期限はなく、自動更新されません。支払い時には実際の支払い金額をご確認の上、適切なプランをお選びください。"
       },
       {
         "title": "クレジットとは何ですか、どのように使用しますか？",
@@ -357,12 +357,12 @@
         "description": "はい、いつでもプランのアップグレードまたはダウングレードが可能です。サブスクリプションを変更する場合は、まず support@gempix2.site サポートカスタマーサービスに連絡してサブスクリプションをキャンセルし、その後新しいプランに再度サブスクライブしてください。"
       },
       {
-        "title": "Gempix2とは一体何ですか？",
-        "description": "Gempix2は、革命的なAI駆動の画像生成・編集プラットフォームです。従来のモデルとは異なり、テキストと画像の入力を組み合わせてシームレスなビジュアル創作を行い、キャラクター一貫性保持、シーン編集、多画像融合参照などの強力な機能を提供します。"
+        "title": "Nano Banana 2とは一体何ですか？",
+        "description": "Nano Banana 2は、革命的なAI駆動の画像生成・編集プラットフォームです。従来のモデルとは異なり、テキストと画像の入力を組み合わせてシームレスなビジュアル創作を行い、キャラクター一貫性保持、シーン編集、多画像融合参照などの強力な機能を提供します。"
       },
       {
-        "title": "Gempix2はプロの創作作業に適していますか？",
-        "description": "もちろんです！Gempix2は専門的なクリエイティブ業務のために設計されており、リアルなレンダリングと制作級品質の結果を提供します。多くのプロのアーティスト、デザイナー、コンテンツ制作者、クリエイティブエージェンシーが、日常のワークフローやクライアントプロジェクトにGempix2を活用しています。"
+        "title": "Nano Banana 2はプロの創作作業に適していますか？",
+        "description": "もちろんです！Nano Banana 2は専門的なクリエイティブ業務のために設計されており、リアルなレンダリングと制作級品質の結果を提供します。多くのプロのアーティスト、デザイナー、コンテンツ制作者、クリエイティブエージェンシーが、日常のワークフローやクライアントプロジェクトにNano Banana 2を活用しています。"
       },
       {
         "title": "カスタマーサポートチームに連絡するにはどうすればよいですか？",

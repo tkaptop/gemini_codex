@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "title": "Prompt Gallery - Scopri i Prompt per Immagini AI | Gempix2",
+    "title": "Prompt Gallery - Scopri i Prompt per Immagini AI | Nano Banana 2",
     "description": "Esplora oltre 400 prompt curati per la generazione di immagini AI con esempi. Trova ispirazione per il tuo prossimo progetto creativo.",
     "keywords": "Prompt AI, generazione di immagini, GPT-4o, galleria di prompt, arte IA"
   },
   "hero": {
     "title": "Galleria di Prompt per la Generazione di Immagini AI",
-    "description": "Scopri oltre 400 prompt per la generazione di immagini AI selezionati per Gempix2 . Trova esempi creativi per il design dei personaggi, le ambientazioni e gli stili artistici."
+    "description": "Scopri oltre 400 prompt per la generazione di immagini AI selezionati per Nano Banana 2 . Trova esempi creativi per il design dei personaggi, le ambientazioni e gli stili artistici."
   },
   "card_image_alt": "{title}{tags}",
   "gallery": {
@@ -54,7 +54,7 @@
   "detail": {
     "backToGallery": "Torna alla Galleria",
     "source": "Fonte",
-    "recreateButton": "Ricrea in Gempix2",
+    "recreateButton": "Ricrea in Nano Banana 2",
     "share": {
       "button": "Condividi",
       "buttonLabel": "Condividi questo prompt",

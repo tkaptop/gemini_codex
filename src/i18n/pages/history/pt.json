@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "Histórico de Criação - Gempix2",
+    "title": "Histórico de Criação - Nano Banana 2",
     "description": "Visualize e gerencie seu histórico de criação de imagens geradas por IA"
   },
   "status": {
@@ -43,8 +43,8 @@
   "no_image_selected": "Nenhuma imagem selecionada",
   "redirecting_to_upscaler": "Redirecionando para o ampliador de imagem...",
   "invalid_image_url": "URL da imagem inválida",
-  "title": "Histórico de Criação Gempix2",
-  "description": "Visualize todas as imagens que você gerou e editou com Gempix2 antes",
+  "title": "Histórico de Criação Nano Banana 2",
+  "description": "Visualize todas as imagens que você gerou e editou com Nano Banana 2 antes",
   "credits_used": "{amount} créditos",
   "credits_refunded": "Reembolsado {amount} créditos",
   "images": "imagens",
