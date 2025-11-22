@@ -1,4 +1,4 @@
-import Hero from "@/components/blocks/hero";
+import GeminiHero from "@/components/home/gemini-hero";
 import {
   DEFAULT_SEO_DESCRIPTION,
   SEO_BRAND,
@@ -75,9 +75,9 @@ export default async function LandingPage({
 
   return (
     <>
-      {page.hero && <Hero hero={page.hero} />}
+      <GeminiHero />
 
-      {/* 最新 Gemini 3 更新 */}
+      {/* Latest Updates Section */}
       {newsArticles.length > 0 && (
         <section id="news" className="py-12 border-b border-border/60">
           <div className="container mx-auto px-4">
@@ -141,49 +141,52 @@ export default async function LandingPage({
         </section>
       )}
 
-      {/* AI 工具站推荐 */}
+      {/* Recommended Tools Section */}
       <section id="tools" className="py-12 border-b border-border/60">
         <div className="container mx-auto px-4">
           <h2 className="text-2xl md:text-3xl font-bold mb-4">
-            Recommended AI tools
+            Recommended AI Tools
           </h2>
           <p className="text-muted-foreground mb-6 max-w-2xl">
-            When you are ready to turn Gemini 3 or gemini3 prompts into real images or videos,
-            these tools give you a browser-based way to do it. We recommend starting
-            with Nano Banana 2 for image generation.
+            Ready to create? These tools are optimized for the Gemini 3 ecosystem.
+            We highly recommend <strong>Nano Banana Pro</strong> for the best AI image generation experience.
           </p>
           <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             <a
               href="https://www.gempix2.site/?utm_source=gemini.studio&utm_medium=home_tools&utm_campaign=gemini3_seo"
               target="_blank"
               rel="noopener noreferrer"
-              className="group block rounded-xl border border-border bg-card p-4 hover:border-primary/60 hover:shadow-md transition-colors"
+              className="group block rounded-xl border border-primary/20 bg-gradient-to-br from-card to-primary/5 p-6 hover:border-primary/60 hover:shadow-lg transition-all duration-300"
             >
-              <h3 className="text-base font-semibold mb-1 group-hover:text-primary">
-                Nano Banana 2
-              </h3>
-              <p className="text-sm text-muted-foreground mb-2">
-                Gemini 3 Pro–powered image generator,
-                with 2K/4K output, 10-image fusion and improved CJK text rendering.
+              <div className="flex items-center justify-between mb-2">
+                <h3 className="text-lg font-bold group-hover:text-primary">
+                  Nano Banana Pro
+                </h3>
+                <span className="px-2 py-0.5 text-[10px] font-bold bg-primary/10 text-primary rounded-full">RECOMMENDED</span>
+              </div>
+              <p className="text-sm text-muted-foreground mb-4">
+                The ultimate Gemini 3 Pro–powered image generator. 
+                Features 2K/4K upscaling, 10-image fusion, and superior text rendering.
               </p>
-              <p className="text-[11px] font-medium text-primary group-hover:underline">
-                Open gempix2.site →
+              <p className="text-xs font-medium text-primary group-hover:underline flex items-center gap-1">
+                Try Nano Banana Pro <span className="text-lg">→</span>
               </p>
             </a>
+            
             <a
               href="https://sora-2.tools/?utm_source=gemini.studio&utm_medium=home_tools&utm_campaign=gemini3_seo"
               target="_blank"
               rel="noopener noreferrer"
-              className="group block rounded-xl border border-border bg-card p-4 hover:border-primary/60 hover:shadow-md transition-colors"
+              className="group block rounded-xl border border-border bg-card p-6 hover:border-primary/60 hover:shadow-md transition-colors"
             >
-              <h3 className="text-base font-semibold mb-1 group-hover:text-primary">
+              <h3 className="text-lg font-semibold mb-2 group-hover:text-primary">
                 Sora-2.tools
               </h3>
-              <p className="text-sm text-muted-foreground mb-2">
-                A curated hub for Sora 2–related tools and resources, useful when you
-                want to turn storyboards or scripts into video.
+              <p className="text-sm text-muted-foreground mb-4">
+                A curated hub for Sora 2–related tools and resources. 
+                Perfect for turning your Gemini 3 stories into video.
               </p>
-              <p className="text-[11px] font-medium text-primary group-hover:underline">
+              <p className="text-xs font-medium text-primary group-hover:underline">
                 Visit sora-2.tools →
               </p>
             </a>
@@ -191,7 +194,7 @@ export default async function LandingPage({
         </div>
       </section>
 
-      {/* 首页内嵌精选 Prompt：直接把用户带到 Prompt 或 gempix2 */}
+      {/* Featured Prompts Section */}
       {featuredPrompts.length > 0 && (
         <section id="featured-prompts" className="py-12 border-b border-border/60">
           <div className="container mx-auto px-4">
@@ -199,8 +202,8 @@ export default async function LandingPage({
               Featured Gemini 3 Prompts
             </h2>
             <p className="text-muted-foreground mb-6 max-w-2xl">
-              A small sample of prompts that work well with Gemini 3-driven image workflows.
-              You can browse the full library or send any of these directly to gempix2.
+              A selection of high-quality prompts to get you started with Gemini 3.
+              Copy them or use them directly in Nano Banana Pro.
             </p>
             <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
               {featuredPrompts.map((prompt) => {
@@ -232,13 +235,12 @@ export default async function LandingPage({
                     key={prompt.id}
                     className="rounded-xl border border-border bg-card flex flex-col overflow-hidden hover:border-primary/60 hover:shadow-md transition-colors"
                   >
-                    {/* 封面图，尽量贴近 Prompts 页的展示方式 */}
-                    <div className="relative aspect-square overflow-hidden bg-muted">
+                    <div className="relative aspect-square overflow-hidden bg-muted group">
                       <Image
                         src={prompt.coverImage}
                         alt={prompt.title}
                         fill
-                        className="object-cover"
+                        className="object-cover transition-transform duration-500 group-hover:scale-105"
                         sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                       />
                     </div>
@@ -258,32 +260,33 @@ export default async function LandingPage({
                         )}
                       </div>
 
-                      {/* 操作按钮：查看详情 / 直接去 gempix2 生成 */}
-                      <Link
-                        href={promptDetailUrl}
-                        className="inline-flex items-center justify-center rounded-md border border-border px-3 py-1.5 text-xs font-medium hover:border-primary hover:text-primary transition-colors"
-                      >
-                        View prompt details
-                      </Link>
-                      <a
-                        href={gempixUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center justify-center rounded-md bg-primary px-3 py-1.5 text-xs font-semibold text-primary-foreground hover:bg-primary/90 transition-colors"
-                      >
-                        Generate on gempix2
-                      </a>
+                      <div className="flex gap-2 mt-2">
+                        <Link
+                          href={promptDetailUrl}
+                          className="flex-1 inline-flex items-center justify-center rounded-md border border-border px-3 py-1.5 text-xs font-medium hover:border-primary hover:text-primary transition-colors"
+                        >
+                          View Details
+                        </Link>
+                        <a
+                          href={gempixUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex-1 inline-flex items-center justify-center rounded-md bg-primary px-3 py-1.5 text-xs font-semibold text-primary-foreground hover:bg-primary/90 transition-colors"
+                        >
+                          Generate
+                        </a>
+                      </div>
                     </div>
                   </article>
                 );
               })}
             </div>
-            <div className="mt-6 flex justify-center">
+            <div className="mt-8 flex justify-center">
               <Link
                 href="/prompts"
-                className="inline-flex items-center justify-center rounded-full border border-border px-5 py-2 text-sm font-medium text-primary hover:border-primary hover:bg-primary/5 transition-colors"
+                className="inline-flex items-center justify-center rounded-full border border-border px-6 py-2.5 text-sm font-medium text-primary hover:border-primary hover:bg-primary/5 transition-colors"
               >
-                View more prompts
+                View All Prompts
               </Link>
             </div>
           </div>
